@@ -67,7 +67,9 @@ func main() {
 	flagutil.SetFlagsFromEnv(flags, "TWITTER")
 
 	if *consumerKey == "" || *consumerSecret == "" || *accessToken == "" || *accessSecret == "" {
-		log.Fatal("Consumer key/secret and Access token/secret required")
+		log.Fatal("Consumer key/secret and Access token/secret required. " +
+			"Provide flags: --consumer-key --consumer-secret --access-token " +
+			"--access-secret")
 	}
 
 	config := oauth1.NewConfig(*consumerKey, *consumerSecret)
