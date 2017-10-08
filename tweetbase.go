@@ -104,7 +104,6 @@ func main() {
 	}
 	log.Println("Tweets dumped to", allTweetsFile)
 
-	//fmt.Println("all my tweets")
 	for _, t := range tweets {
 		fmt.Printf("\n----------------------------\n%s\n", t.Text)
 	}
