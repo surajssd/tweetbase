@@ -1,6 +1,8 @@
 FROM golang:1.9.0 AS build-env
 ADD . /go/src/github.com/surajssd/tweetbase
-RUN cd /go/src/github.com/surajssd/tweetbase && go install tweetbase.go
+RUN export GOBIN=/go/bin/ && \
+    cd /go/src/github.com/surajssd/tweetbase && \
+    go install tweetbase.go
 
 # final stage
 FROM alpine
