@@ -1,5 +1,600 @@
 
 ----------------------------
+RT @mitchellh: My heuristic for overly clever or terse code: will another team member (new or not) reading this file top-to-bottom pause he…
+
+----------------------------
+.@PrometheusIO with existing application on @openshift https://t.co/EuSrF5GLla
+
+----------------------------
+RT @b0rk: an amazing directory: /proc https://t.co/717UPpvami
+
+----------------------------
+.@PrometheusIO as a noob - @jbeda
+
+https://t.co/P0LCL6twIz
+
+#TGIK
+
+----------------------------
+Building a #kubernetes Controller
+
+1) https://t.co/DGzcv51uQX
+2) https://t.co/m3B8lMzW7D
+3) https://t.co/iIoyEh85wj
+
+#TGIK - @jbeda
+
+----------------------------
+Monitor your applications with @PrometheusIO https://t.co/Ig0DRbR16T
+#prometheus
+
+----------------------------
+csr vs pem vs key vs . . . all other key format/containers explained!
+#security
+
+https://t.co/BXujo4MQ2A
+
+----------------------------
+RT @fatherlinux: Nice overview of things we talk about all the time at @RedHat. Only slight disagreement - only with the right distribution…
+
+----------------------------
+@budhrg @Paytmcare @Paytm Their Twitter handle has ironic name, they don't care anymore it seems.
+
+----------------------------
+RT @shakthimaan: "The only person you should try to be better than is the person you were yesterday." ~ Matty Mullins
+
+----------------------------
+Thanks for what you have done @solomonstre, it has got me a job and many more things at beginning of my career, all… https://t.co/wvsR6mlQaA
+
+----------------------------
+RT @JWhitehurst: Jellyfish!! A safe word to keep meetings on track and avoid the "drift" https://t.co/ghh6XiQzXx https://t.co/NTrgUWqOAd
+
+----------------------------
+RT @deniseyu21: I get asked a lot about how we pair program with distributed teams. So I drew it #sketchnotes https://t.co/7Fb615xYJQ
+
+----------------------------
+RT @zackwhittaker: Just in: A new data leak has hit Aadhaar, India's national ID database. Here's our story. https://t.co/dGdQphUAMH
+
+----------------------------
+If you wanna learn about #blockchain then this is gonna be an awesome session cause it's led by @sathishvj and he i… https://t.co/3hEqpz4rOZ
+
+----------------------------
+RT @budhrg: A diverse range of topics are available for the talk proposal in upcoming .@devconf_in See https://t.co/zmXWVEUNxd https://t.co…
+
+----------------------------
+RT @ericschabell: Today has been declared #RedHat Day by the mayor of Raleigh, NC where @RedHat is headquartered, honoring 25 years in #ope…
+
+----------------------------
+@HasuraHQ @WalmartLabsInd @neependra @krish00 @jeevandongre @surajd @mv_karan @nkstar @shahidh_k Ahh it's fine. You folks were fun :-)
+
+----------------------------
+@HasuraHQ @WalmartLabsInd @neependra @krish00 @jeevandongre @surajd @mv_karan @nkstar @shahidh_k hehe you tagged wrong Suraj ;-)
+
+----------------------------
+cc: @davecheney
+
+----------------------------
+How to identify goroutine leaks? And how to pinpoint it in the code? Any pointers would be helpful :-)
+
+#golang
+
+cc… https://t.co/ros5MJYwuJ
+
+----------------------------
+@rehan_kodekar @dustymabe @fedora Lenovo T470s or anything below that also works fine.,
+
+----------------------------
+.@shahidh_k of @HasuraHQ talking about "Git based application deployment patterns for #Kubernetes" at #jointmeetup… https://t.co/J2xF4XPqiz
+
+----------------------------
+.@neependra kick started the joint #Kubernetes Meetup #Bangalore @WalmartLabs https://t.co/II7aD3vTth
+
+----------------------------
+Leaking Goroutines https://t.co/o3wCcD9om3 #golang
+
+----------------------------
+A simple utility for running exhaustiveness checks on type switch statements. Exhaustiveness checks are only run on… https://t.co/tEClxPjDHF
+
+----------------------------
+How To Use Go Interfaces - @chewxy https://t.co/Z42j9mRj8Q TFS: @embano1
+
+----------------------------
+@embano1 @deeeet Thanks for sharing Michael :-) I have seen code like that but never knew a term for it. Also sunty… https://t.co/Fz1vqLWn9s
+
+----------------------------
+“Goroutine leak” by @mlowicki https://t.co/3jN4sBYV3H
+
+----------------------------
+RT @Snowden: Facebook makes their money by exploiting and selling intimate details about the private lives of millions, far beyond the scan…
+
+----------------------------
+A selfish argument of making the world a better place - Egoistic Altruism
+
+https://t.co/0xNc1J1P6U
+
+----------------------------
+Go best practices, six years in - @peterbourgon
+
+https://t.co/6dmRirjjQf
+
+#golang
+
+----------------------------
+RT @bradfitz: .@bketelsen at @GopherConRu: "don't make #golang util packages. Never name a package 'util'. Name it what it does."
+Question…
+
+----------------------------
+@raghavendra_t Journey to office maybe 😉
+
+----------------------------
+Ignorance at its best. https://t.co/aR8TUhkAJ9
+
+----------------------------
+RT @CodeWisdom: "The best way to predict the future is to implement it." - Alan Kay
+
+----------------------------
+RT @RedHat: Today, our Twitter name changed from @RedHatNews to @RedHat. If you were following us prior to the name change, you will still…
+
+----------------------------
+@sathishvj If the tool is installed using package manager, the pkg manager should give you such metadata.
+
+----------------------------
+RT @mdlayher: Technical discussions should always occur in a public forum. Direct messages and private channels of communication create unn…
+
+----------------------------
+RT @jeremyeder: I'm a few days late, but just found out @SlackHQ will disable IRC/XMPP on May 15. https://t.co/oEkwlGE3yE
+
+----------------------------
+RT @pavdmyt: This is great: #Golang gopher &amp;&amp; #Java's Duke
+https://t.co/79RkuMCO9S https://t.co/9wuKmDENj8
+
+----------------------------
+@UIDAI Load of BS
+
+----------------------------
+RT @chimeracoder: "I have a 20 minute rule in my office. If a developer is stuck for 20 minutes on something and doesn't ask for help, I ki…
+
+----------------------------
+RT @GopherConIndia: “Get into mindset of building air conditioners, nobody should know who you are” @goinggodotnet #gopherconindia #gci18 #…
+
+----------------------------
+“If most computer people lack understanding and knowledge, then what they will select will also be lacking.” - Alan… https://t.co/geVt7ai1Z5
+
+----------------------------
+RT @DhritiShikhar: What's the difference between junior and senior developer? Its the personal responsibility of the software you write - @…
+
+----------------------------
+.@goinggodotnet kick started #GopherConIndia 2018 #GCI18 #golang https://t.co/7982wHaLvf
+
+----------------------------
+#golang https://t.co/6Y5lOg2GUk
+
+----------------------------
+@arush_sal @red_suraj @GopherConIndia @ContainsCafeine @kubernetesio @CloudNativeFdn @Rahul_Mahale @vishal_biyani… https://t.co/qTjrDGolvW
+
+----------------------------
+@embano1 @vishal_biyani @kubernetesio Sure will notify once they are up.
+
+----------------------------
+.@vishal_biyani talking about using #Kubernetes client go to do complex stuff with @kubernetesio at #GopherConIndia… https://t.co/4eWdbOPQQm
+
+----------------------------
+.@chimeracoder talking about #koro writing go code in your own language at #GopherConIndia #GCI18 https://t.co/J8MKdGwMjX
+
+----------------------------
+At #GopherConIndia https://t.co/f4FsxdhADz
+
+----------------------------
+@Cassandraoid @golang It paved a way for my contributions to #Kubernetes which is equally awesome community!
+
+----------------------------
+Even @kelseyhightower 's #nocode showed up on @CloudNativeFdn cloud native landscape 😀 https://t.co/mSN2vl1vpp https://t.co/XYnRB9GJoy
+
+----------------------------
+@jawnsy @_rsc It's comprehensive indeed, also a good initiative by the language to make you think of go package ver… https://t.co/vmx6i6ffuI
+
+----------------------------
+A Tour of Versioned Go (vgo)
+
+(Go &amp; Versioning, Part 2) by @_rsc
+
+https://t.co/doD0DtbAnx
+
+----------------------------
+RT @jawnsy: "Today’s cult of convenience fails to acknowledge that difficulty is a constitutive feature of human experience. Convenience is…
+
+----------------------------
+RT @red_suraj: I will be talking about awesome #Kedge project at @CentOSProject  Dojo @fossasiasg 
+@kubernetesio @golangSG @engineersftw 
+h…
+
+----------------------------
+Why being a loner may be good for your health https://t.co/YOifnJ2s9n via @BBC_Future
+
+----------------------------
+'Public Static Void' - @rob_pike
+
+https://t.co/GEWv4cHPyc
+
+#golang
+
+----------------------------
+RT @gvre: GopherCon 2017 - Lightning Talk: Bryan C Mills - An overview of https://t.co/metjD8yk2h #Golang https://t.co/rW5ZLBbWaK
+
+----------------------------
+Notes on talk - Advanced testing in golang by Mitchell Hashimoto https://t.co/CSgnABEM7k via @surajd_
+
+#golang
+
+----------------------------
+Advanced Testing with Go - @mitchellh
+
+https://t.co/IChcUbo7jp
+
+#golang
+
+----------------------------
+@red_suraj @pranavgore09 Also some detailed explanation here: https://t.co/IW24eD7oR8
+
+----------------------------
+@goinggodotnet I really enjoyed your workshop last year, and am happy to see you again at Gophercon India
+
+----------------------------
+RT @tlakomy: Tech interview:
+
+"What will be the value of:
+var a = 10, b= 20;
+console.log(-+a++-+-+b--);"
+
+Actual job:
+
+"Hey, can you make t…
+
+----------------------------
+RT @cdrage: Kedge 0.10.0 has been released! Simplify your Kubernetes artifacts. https://t.co/cNSv7TE4bP @kubernetesio @openshift @openshift…
+
+----------------------------
+RT @cdrage: Kompose 1.10.0 has been released! 💯 Convert your Docker Compose file to Kubernetes. https://t.co/iCtApQYOw2 @kubernetesio @k8so…
+
+----------------------------
+RT @fs0c131y: A doctor saves lives, a judge does justice, ... Sometimes, as a developer, I wonder how I could add meaning to my work.
+
+I do…
+
+----------------------------
+How to ship production-grade Go
+Five must-haves for robust, debuggable production code.
+
+By @kavya719 
+https://t.co/ehNuI1zFDE
+
+----------------------------
+RT @joncalhoun: Using the Service Object Pattern in #golang - https://t.co/J0HdmhsXHb
+I wrote this because I wanted to illustrate one way t…
+
+----------------------------
+RT @codechef: The Depressed Developer #CodeChef #ProgrammersHumor
+via: https://t.co/AWuuiTrmZr https://t.co/8l74nVtPR8
+
+----------------------------
+RT @CodeWisdom: "The computing scientist's main challenge is not to get confused by the complexities of his own making." - Edsger Dijkstra
+
+----------------------------
+The Effects of Computer Programming on the Brain :: Grind Design and Development tech blog https://t.co/i0kID66izG
+
+----------------------------
+RT @jessfraz: Wrote a blog post: Nerd Sniped by BINFMT_MISC
+https://t.co/uHsv3iVmLk
+
+----------------------------
+Using Go as a scripting language in Linux https://t.co/p3DS77l03d
+
+----------------------------
+RT @DevopsG: IntelliJ IDEA 2018.1: #Kubernetes support https://t.co/U1mYy6greO https://t.co/eYHiC9PBbk
+
+----------------------------
+The Quid Pro Quo of Open Infrastructure by @ncoghlan_dev
+https://t.co/lt879x8AKk
+
+----------------------------
+The 15-Minute Daily Habit That Makes Me a Better Worker
+
+https://t.co/j0OdO1YEWV
+
+----------------------------
+The halo effect is a form of cognitive bias in which the brain allows specific positive traits to positively influe… https://t.co/3DxDTbsU72
+
+----------------------------
+RT @redhatopen: A checklist for unbiased decision making https://t.co/LdM6XUjrtK
+
+----------------------------
+RT @arschles: I just published “Go Experience Report: Generics in Kubernetes” https://t.co/c0x3zrHodJ
+
+----------------------------
+.@vbatts: An Open Source Career from KDE to OCI  https://t.co/xmVescXY33
+
+----------------------------
+RT @kelseyhightower: @esacteksab That's where tools like OpenShift come in. OpenShift adds a developer centric set of APIs on top of Kubern…
+
+----------------------------
+Embrace the Interface - @tsenart https://t.co/0bBb9ltEAV
+
+----------------------------
+https://t.co/uleqJNmaLq
+
+----------------------------
+Closures are functions with environment a.k.a stateful functions - @tsenart
+
+A closure is a technique for implement… https://t.co/3xX4bPMe8y
+
+----------------------------
+An Actor Model in #golang - @bboreham 
+https://t.co/SPu6rBN4bA
+
+----------------------------
+RT @codechef: Justin Time #CodeChef #ProgrammersHumor
+via: https://t.co/HAYIhiW789 https://t.co/5MbRUyiuhA
+
+----------------------------
+@Bharathchow9999 What kinda help? Ask it directly :-)
+
+----------------------------
+RT @gbraad: Good news for docker-machine, minikube and minishift users; we are collecting all the machine-drivers in an organization: https…
+
+----------------------------
+Go with Visual Studio Code by @ramyanexus https://t.co/Ykcaxy93nz
+
+#golang #vscode
+
+----------------------------
+blog: https://t.co/VqmWHGjJoU
+
+2/2
+
+----------------------------
+Do not fear first class functions
+
+https://t.co/8LZmScBb8o
+
+Function values allow you to pass behaviour to be execu… https://t.co/MWm964FvxT
+
+----------------------------
+RT @sjenninglinux: The @openshift web console is looking pretty awesome these days. Great work by the web console team! @jwforres @bapeters…
+
+----------------------------
+@raghavendra_t &amp;&amp; always for chaining commands in one RUN. Unless it's okay to have a failing command.
+
+Multiple RU… https://t.co/qOuKFEhJd0
+
+----------------------------
+RT @SathyaBhat: Another reminder not to run random scripts off the Internet, even if on Github unless you read  and understand.. https://t.…
+
+----------------------------
+RT @rhatdan: I just published “New Blog on Podman on https://t.co/i6zOHICdc1” https://t.co/GjdjLfXNb4
+
+----------------------------
+The low-level awesomeness of Go
+Jean-Bernard Jansen at dotGo 2016
+
+https://t.co/95xQJwk3Kz
+
+#golang
+
+----------------------------
+@the_sttts 1st case it works because you are locking two different mutexes:
+
+```
+assignment copies lock value to m2… https://t.co/LvROrEY5Kp
+
+----------------------------
+@kumar_pravin Yep mostly for setting up the debugger for a project
+
+----------------------------
+@jawnsy It's awesome, I tried it after long time and it's integrated really well. It's awesome.
+
+----------------------------
+Debugging #golang code using #vscode
+https://t.co/eQJ6zGCNF2
+
+----------------------------
+RT @tallclair: I've been thinking a lot about container isolation in #Kubernetes. I wrote this document to capture my understanding of the…
+
+----------------------------
+@Kris__Nova @pythondj @openshift OTOH docker as build strategy is not enabled by default on openshift clusters, adm… https://t.co/Tgixo13AJk
+
+----------------------------
+@Kris__Nova @pythondj @openshift You can change the build strategy from "source to image" to "Docker", but source t… https://t.co/Qgy4Xhq9Ob
+
+----------------------------
+@Kris__Nova @pythondj Yes @openshift v3 always had it.
+
+https://t.co/6eo4nllpYt
+
+----------------------------
+RT @paulocoelho: You can love your country without having to love your government
+
+----------------------------
+@Kris__Nova @pythondj This mindmap lists few: https://t.co/APqc2tUirY
+
+And this blog also does some comparison of b… https://t.co/SySLoSPVtx
+
+----------------------------
+RT @ChrisShort: When you're looking at a repo on @github and you think to yourself, "This is great." Before you do anything else, Star it.…
+
+----------------------------
+@jawnsy @the_sttts @travisci @budhrg @kumar_pravin I think you do trade off between "maintenance with wine" or "slo… https://t.co/wqDWMJGCYz
+
+----------------------------
+@olly_shaw @Docker To run that legacy app on #Kubernetes using @docker compose use #kompose… https://t.co/u0uQxoTkEa
+
+----------------------------
+@the_sttts @travisci Yes 'AppVeyor' is what `minishift` team uses to run windows environment tests.… https://t.co/0CI0jQqxez
+
+----------------------------
+@jaseemabid Yeah #Kubernetes as of now supports secret in just that way!
+
+Sad but true.
+
+----------------------------
+RT @kubernauts: Don't miss Kedge by @red_suraj among other packaging solutions in the Container Ecosystem:
+https://t.co/vpLauwfSHr
+#Contain…
+
+----------------------------
+RT @StuartJRitchie: -Left: when you just read the Abstract.
+-Right: when you read the whole paper.
+(via Reddit) https://t.co/TjNHo9fBIP
+
+----------------------------
+Behavior Of Channels by @goinggodotnet https://t.co/hmytk418jM at @dotGoEu #golang
+
+----------------------------
+@kumar_pravin 2/2
+
+I’d feel lost without a good 
+dictionary." - Joshua Bloch
+
+Excerpt of Coders at Work
+
+----------------------------
+@kumar_pravin 1/2
+
+"Oh, one more book: Merriam-Webster’s Collegiate Dictionary, 11th Edition.
+Never go anywhere wit… https://t.co/53mA0RGLTj
+
+----------------------------
+@kumar_pravin "Coders at work" has some insights about this.
+
+----------------------------
+Goto interface method definition `Ctrl + F12`
+
+#vscode
+
+----------------------------
+RT @joncalhoun: 💥⚡️ Nearly 7500 developers have signed up for #gophercises! ⚡️💥 
+Thanks everyone! I'm thrilled that you enjoy the #golang e…
+
+----------------------------
+Let's Learn Algorithms https://t.co/bC7ONGe4s1 #golang via @joncalhoun
+
+----------------------------
+RT @garethr: I've cut a new release of Kubeval (https://t.co/ZZiLasiWO2), a small tool for validating all those Kubernetes configuration fi…
+
+----------------------------
+Where good ideas come from? 
+
+https://t.co/yAe4AF1ZX2 
+
+Chance favours the connected mind.
+
+TFS: @tuxdna
+
+----------------------------
+Darkness, the truest darkness, is not the absence of light.
+
+It is the conviction that the light will never return.
+
+----------------------------
+"Technology is like any other power. Without reason, without heart, it destroys us." - Wonder woman
+
+@GalGadot
+
+----------------------------
+RT @fatherlinux: Community Effort - Introduction to Container Terminology. A lot of people contributed to this effort, so thanks to everyon…
+
+----------------------------
+@francesc s/level/low level/
+
+----------------------------
+@francesc Network programming, more on level socket handling?
+
+----------------------------
+Simulating a real-world system in #golang - @Sajma 
+https://t.co/DFd4Xl64No
+
+----------------------------
+Always test your #golang code with race detector on
+
+```
+go test -race ...
+```
+
+Always
+
+----------------------------
+justforfunc #29 - dependency injection in a #golang code review by @francesc https://t.co/Eixkp4IhPW
+
+----------------------------
+@gbraad @nixcraft Lol yeah https://t.co/VzILd2Q2SV
+
+----------------------------
+Do text replacement of files in place:
+
+```
+sed -i "s/old/new/g" file
+```
+
+more info at https://t.co/xq945fUunv by @nixcraft
+
+----------------------------
+RT @jaseemabid: One of the best things you could do as a FOSS maintainer is to forget everything you know and read your docs to make sure i…
+
+----------------------------
+RT @rob_pike: /bin/true used to be an empty file. The shell would open it, do nothing, and exit with a true status code.
+
+----------------------------
+Discover and read the best of Twitter Threads
+@threadreaderapp
+
+https://t.co/UbDHw38xsH
+
+----------------------------
+Methods that satisfy interfaces in #golang https://t.co/Kb25bP6OCu via @surajd_
+
+----------------------------
+"familiarity admits brevity" - #golang Code Review Comments
+ https://t.co/DvzgiKvBui
+
+----------------------------
+Unmasking netpoll.go by @copyconstruct 
+https://t.co/RYryGjAXKN
+
+----------------------------
+“How to Consistently Act From Your Deepest ‘Why’ and Optimize Your Time” by @BenjaminPHardy https://t.co/TZDRLiihGU
+
+----------------------------
+Website which goes in greater detail explaining Hyrum's law:
+
+https://t.co/4sIhEkvVfg
+
+----------------------------
+RT @_rsc: Go += Package Versioning. https://t.co/579QQoVu7h. #golang
+
+----------------------------
+Hyrum's Law
+
+With a sufficient number of users of an API, it does not matter what you promise in the contract,
+all… https://t.co/PggzVK1ASE
+
+----------------------------
+vscode Shortcuts https://t.co/WKDkISO8zi via @surajd_
+
+----------------------------
+Best of Visual Studio Code - Tips and Tricks
+https://t.co/uBbn10QMQ5
+
+#vscode
+
+----------------------------
+VSCode: 10 Most Useful Tips And Tricks
+https://t.co/3MPwzOyACC
+
+This video also shows how to configure task runner… https://t.co/kYWR3zemAX
+
+----------------------------
+@jaseemabid Any thoughts of alternative?
+
+----------------------------
 RT @kvlly: As a solo developer, this is as close as I come to pair programming. #devdiscuss https://t.co/h4bsxylg7Y
 
 ----------------------------
@@ -222,6 +817,9 @@ RT @LucyCloudBling: Docker Who? By Acquiring CoreOS, Red Hat Aims to Be the Kube
 @ContainsCafeine I did warn you, but you had to scratch that surface! Pun intended :p
 
 ----------------------------
+@ContainsCafeine I did warn you, but you had to scratch that surface! Pun intended :p
+
+----------------------------
 Kubernetes at @github - @jnewland SRE at #github
 https://t.co/Jb6q4afj2K
 
@@ -353,9 +951,6 @@ https://t.co/tyrhyBpDKr
 ----------------------------
 The Configuration Complexity Clock by @mikehadlow
 https://t.co/4q1W7bFkrS
-
-----------------------------
-RT @itswarrenbuffet: Surround yourself with people that push you to do and be better. No drama or negativity. Just higher goals and higher…
 
 ----------------------------
 RT @aditya_konarde: Look who's here? @red_suraj 's Red Hat Super Cat! 🐈Thanks to @projectcalico :)
@@ -807,9 +1402,6 @@ Folks, take a note!
 Criticism is a necessary evil, don't make it more evil than necessary. - @noufalibrahim #pyconindia 2017 https://t.co/1nQ2gBv6x4
 
 ----------------------------
-Criticism is a necessary evil, don't make it more evil than necessary. - @noufalibrahim #pyconindia 2017 https://t.co/1nQ2gBv6x4
-
-----------------------------
 .@noufalibrahim talking about Mentoring at #pyconindia17 https://t.co/NnrG84A3u0
 
 ----------------------------
@@ -994,6 +1586,11 @@ https://t.co/8eN76uyQ3M
 
 ----------------------------
 RT @sreeharimohan: Kubernetes Openshift India Meetup Videos https://t.co/JedYCBVLNq
+
+----------------------------
+@lalatenduM @fedora Sure Lala, didn't write for short things!
+
+Created https://t.co/EDYP0ViEHO for downloading all… https://t.co/XWOWTwKlMn
 
 ----------------------------
 @lalatenduM @fedora Sure Lala, didn't write for short things!
@@ -1553,11 +2150,6 @@ Containers as a Service, the foundation for next generation PaaS by @brendandbur
 https://t.co/QSAhuuShi7 #Kubernetes
 
 ----------------------------
-Containers as a Service, the foundation for next generation PaaS by @brendandburns 
-
-https://t.co/QSAhuuShi7 #Kubernetes
-
-----------------------------
 What's new in #Kubernetes 1.7 podcast with @thockin hosted by @francesc https://t.co/z6oEr2mIQr
 
 ----------------------------
@@ -1713,6 +2305,9 @@ How to Make It as a Mediocre Software Developer https://t.co/c46Kv11g2O via @wor
 ----------------------------
 Refactoring -- Not on the backlog!
 https://t.co/4QY7h4d60m
+
+----------------------------
+“Modern Software Over-Engineering Mistakes” — @rdsubhas https://t.co/33eUc9B1ie https://t.co/bxBVoOhcr9
 
 ----------------------------
 “Modern Software Over-Engineering Mistakes” — @rdsubhas https://t.co/33eUc9B1ie https://t.co/bxBVoOhcr9
@@ -2202,9 +2797,6 @@ RT @businessinsider: A Marine explains why friends and colleagues 'hold the key 
 “Google systems guru explains why containers are the future of computing” by @derrickharris https://t.co/f4EdjsbevV
 
 ----------------------------
-“Google systems guru explains why containers are the future of computing” by @derrickharris https://t.co/f4EdjsbevV
-
-----------------------------
 Design Patterns for Container-based Distributed Systems
 Brendan Burns and David Oppenheimer, Google https://t.co/39IZPb2ZtB TFS @embano1
 
@@ -2357,6 +2949,9 @@ RT @s_satya4ever: Opensourceway: The breadth and reach of the @OpenShift marketp
 
 ----------------------------
 RT @rikkiends: Learn how to implement 3 popular deployment strategies on @openshift  https://t.co/ziTnm5EgPz via @opensourceway by @soltysh
+
+----------------------------
+RT @ConnerForrest: Red Hat: The cloud needs an OS, and OpenShift is just the thing https://t.co/K7o2UzprfF by @mjasay #rhsummit
 
 ----------------------------
 RT @ConnerForrest: Red Hat: The cloud needs an OS, and OpenShift is just the thing https://t.co/K7o2UzprfF by @mjasay #rhsummit
@@ -2860,9 +3455,6 @@ Learn OpenShift easily, with no setup: https://t.co/uld2rUo88F @openshift TFS: @
 "Linux Sucks... For the Last Time" - 2017 by @BryanLunduke at Southern California Linux Expo https://t.co/iWNMJ2oPji
 
 ----------------------------
-"Linux Sucks... For the Last Time" - 2017 by @BryanLunduke at Southern California Linux Expo https://t.co/iWNMJ2oPji
-
-----------------------------
 Global gitignore
 ```
 git config --global core.excludesfile $HOME/.gitignore
@@ -3034,6 +3626,11 @@ Why you should hire upstream https://t.co/a72a3WCOno via @openstack
 
 ----------------------------
 The Rise of Worse is Better - Richard P. Gabriel https://t.co/iUDrSxdIJl
+
+----------------------------
+RethinkDB: why we failed
+
+https://t.co/y6dLFHXBo7
 
 ----------------------------
 RethinkDB: why we failed
@@ -3572,9 +4169,6 @@ RT @budhrg: How to get faster PR reviews - https://t.co/LRPmzO1doH
 @jawnsy awesome thing, will try that. Thanks for pointing out ☺
 
 ----------------------------
-@jawnsy awesome thing, will try that. Thanks for pointing out ☺
-
-----------------------------
 RT @tbyeaton: Why Red Hat is happy to have others make billions on its open source dime https://t.co/2XZs5WsctY via @techrepublic
 
 ----------------------------
@@ -3741,6 +4335,9 @@ RT @fedora_planet: mythcat: Free books from OReilly. -- https://t.co/aHHYlijX7X
 
 ----------------------------
 RT @RedHatJobs: Join #RedHat in honoring the women who help move #opensource forward. Nominate by Nov. 23: https://t.co/lT8aMV2DET #womenin…
+
+----------------------------
+Top 5 Reasons to Love #Kubernetes https://t.co/zMQW07gUEU by @sebgoa @linuxfoundation @kubernetesio
 
 ----------------------------
 Top 5 Reasons to Love #Kubernetes https://t.co/zMQW07gUEU by @sebgoa @linuxfoundation @kubernetesio
@@ -4252,9 +4849,6 @@ RT @SwiftOnSecurity: https://t.co/ygMyPQC1JX
 What @golang Is and Is Not? by @danmux https://t.co/W54z151oiU
 
 ----------------------------
-What @golang Is and Is Not? by @danmux https://t.co/W54z151oiU
-
-----------------------------
 GopherJS 1.7-1 is released
 https://t.co/CWqyAxoZZb
 
@@ -4448,6 +5042,9 @@ https://t.co/fHF83VTwWs
 
 ----------------------------
 The Quest to Build an Unprivileged Container  https://t.co/5WA85trc7V
+
+----------------------------
+RT @CindyPtn: Finding Time to Become a Better Developer via @BillSourour https://t.co/yD3aAaoPCK
 
 ----------------------------
 RT @CindyPtn: Finding Time to Become a Better Developer via @BillSourour https://t.co/yD3aAaoPCK
@@ -4998,9 +5595,6 @@ More than 100% turnout at #PythonPune @redhatopen
 Huge turnout at #pythonpune https://t.co/x80sH4qGEk
 
 ----------------------------
-Huge turnout at #pythonpune https://t.co/x80sH4qGEk
-
-----------------------------
 @DataGeekSatish talking at #PythonPune @PythonPune https://t.co/sAF94iqXT7
 
 ----------------------------
@@ -5179,6 +5773,9 @@ I always forget it!
 
 ----------------------------
 Fedora leader: 'We want users to control their own computing destiny' https://t.co/bCZteVl2sX via @networkworld @BryanLunduke @mattdm
+
+----------------------------
+Getting to know the man leading Fedora  https://t.co/hepFdNI7R5 via @networkworld @BryanLunduke @mattdm
 
 ----------------------------
 Getting to know the man leading Fedora  https://t.co/hepFdNI7R5 via @networkworld @BryanLunduke @mattdm
@@ -5716,10 +6313,6 @@ Openstack Neutron Network Know-How: A Hands-On Workshop for Solving Neutron Nigh
 https://t.co/JpTv0kkesE
 
 ----------------------------
-Openstack Neutron Network Know-How: A Hands-On Workshop for Solving Neutron Nightmares
-https://t.co/JpTv0kkesE
-
-----------------------------
 Gonna get t-shirt from @digitalocean for #Hacktoberfest completed more than 4 PRs. Thanks to @trishna_g for the link.
 
 ----------------------------
@@ -5896,6 +6489,9 @@ Pycon India 2015 #flickr https://t.co/BDqRqmzdJD #pyconindia
 
 ----------------------------
 RT @pyconindia: And we're trending on twitter! #pyconindia
+
+----------------------------
+RT @anubhav1691: #python tracebacks for humans by @ChillarAnand was a very good talk which I can immediate use to write more productive cod…
 
 ----------------------------
 RT @anubhav1691: #python tracebacks for humans by @ChillarAnand was a very good talk which I can immediate use to write more productive cod…
@@ -6443,9 +7039,6 @@ Flask @SQLAlchemy Official documentation http://t.co/3FdU3O1LjE
 ----------------------------
 Fedora 21 automount drives using GNOME disks utility
 https://t.co/SqAqS7T3mx
-
-----------------------------
-SQLAlchemy for Flask explained http://t.co/n04BUA9m16
 
 ----------------------------
 SQLAlchemy for Flask explained http://t.co/n04BUA9m16
