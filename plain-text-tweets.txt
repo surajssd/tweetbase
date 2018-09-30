@@ -1,5 +1,548 @@
 
 ----------------------------
+@aditya_konarde the discussion we had sometime back IRL.
+
+----------------------------
+When you say your node has x GB memory and y cpus, do you always allocate that to the cluster pool to run workloads… https://t.co/1DGFfRjJFk
+
+----------------------------
+Setting up the #kubernetes api-server certs https://t.co/fQjLP3s9NR
+
+----------------------------
+@embano1 Yep :-)
+
+----------------------------
+More imperative #kubernetes goodies https://t.co/sRG3mkbHFZ
+
+----------------------------
+TIL: label columns
+```
+$ kubectl get pods -L k8s-app -L tier
+```
+Your labels become additional columns
+
+Accepts a c… https://t.co/eKAkydvE5m
+
+----------------------------
+More on using the -R flag https://t.co/CGcf5OTjTs
+
+----------------------------
+Learnt a neat trick of querying the object that you created in #kubernetes 
+
+```
+$ kubectl get $(kubectl create -f… https://t.co/iT5hOP4TyH
+
+----------------------------
+@kosyfrances @ASGConf @indradhanush92 I miss ya all 😥
+
+----------------------------
+It never gets easier, you just get better.
+
+----------------------------
+You can use `--previous` flag to get logs of the old terminated pod specially which is in CrashLoopBackoff state.… https://t.co/tWmAiv1pmc
+
+----------------------------
+systemd in 2018 by @pid_eins https://t.co/8yaNj1PjJ4 @ASGConf
+
+----------------------------
+RT @KubernetesPod: Live from #GoogleCloudSummit in Sydney, it’s the #Kubernetes Podcast!
+
+Our guest this week is Dawn Chen, SIG-Node TL. Sh…
+
+----------------------------
+RT @lizrice: Secure your container registries, folks!  https://t.co/PKv0nKO7RB
+
+----------------------------
+RT @CodeWisdom: “The most important property of a program is whether it accomplishes the intention of its user.” -  C.A.R. Hoare
+
+----------------------------
+RT @pmenzel_molgen: systemd does memory accounting by default since version 238 [1]. It’s recommended, you run Linux 4.14 and later for tha…
+
+----------------------------
+Ton of resources if you want to know how to manage #kubernetes imeratively https://t.co/pz4sWVYIaG
+
+TIL:
+
+```
+kubec… https://t.co/nZO2DT6TMr
+
+----------------------------
+TIL: Use -R flag with kubectl
+
+-R, --recursive=false: Process the directory used in -f, --filename recursively. Use… https://t.co/ye0aog7S58
+
+----------------------------
+RT @coreos: We’re celebrating this week’s release of #Kubernetes 1.12. Learn about what is new, such as improving TLS bootstrapping, better…
+
+----------------------------
+Find out what #kubernetes objects are namespaced and which aren't
+
+```
+# In a namespace
+$ kubectl api-resources --n… https://t.co/jqmZgDeepv
+
+----------------------------
+RT @schux00: All Systems Go! 2018 Streams - https://t.co/pRcSgzGIMT
+
+----------------------------
+RT @ASGConf: Live streaming of #AllSystemsGo2018 thanks to @c3voc! https://t.co/W1BgcpKUvg
+
+----------------------------
+Resource Quotas
+
+#Kubernetes
+
+https://t.co/nklFpbk3VX
+
+----------------------------
+RT @kubernetesio: Kubernetes 1.12 is here, with #Kubelet TLS Bootstrap &amp; #Azure Virtual Machine Scale Sets (VMSS) moving to general availab…
+
+----------------------------
+Assigning Pods to Nodes
+https://t.co/FObuPALMQr
+
+#kubernetes
+
+----------------------------
+Find all the pods on a particular node:
+
+```
+kubectl get pod --all-namespaces -o wide | grep &lt;node-name&gt;
+```
+
+#kubernetes
+
+----------------------------
+Handy utility to label anything in #kubernetes
+
+```
+kubectl label &lt;resource-type&gt; &lt;resource-name&gt; key1=val1 key2=va… https://t.co/jlS8BKd1vF
+
+----------------------------
+X1 Carbon 6th gen about 50% slower on Linux
+https://t.co/tmhHnAf8iA
+
+----------------------------
+How to Run a Company Retreat for a Remote Team https://t.co/T2QF8cQyM2
+
+----------------------------
+kubespy: tools for observing Kubernetes resources in real time 
+
+https://t.co/LR0hTLHkIZ
+https://t.co/xGSnLNWcvc
+
+----------------------------
+Shipping in Pirate-Infested Waters: Practical Attack and Defense in #Kubernetes - Greg Castle
+https://t.co/doXCVky4Ec
+
+----------------------------
+CoreOS Container Linux baremetal provisioning with Terraform, Ignition and Matchbox - Rafa Porres
+ https://t.co/AyQPVxXbTw
+
+----------------------------
+Ignition: The CoreOS machine provisioner
+https://t.co/PFLcdo5ojM
+
+----------------------------
+RT @nixcraft: Google Chrome OS https://t.co/0evDJ9abS9
+
+----------------------------
+@YogeshBang @aditya_konarde Until it works 🙄
+https://t.co/OYfulz9J3B
+
+----------------------------
+@embano1 @aditya_konarde Ah yeah 😀
+
+----------------------------
+@embano1 @aditya_konarde Was burnt by it, ssh connection stalled and couldn't reach the target machine.
+
+Ngrok is l… https://t.co/Kz1Db79WUG
+
+----------------------------
+Reverse SSH Tunneling
+https://t.co/NsLmsfYVav
+
+```
+ssh -R 19999:localhost:22 sourceuser@138.47.99.99
+```
+
+TFS: @aditya_konarde
+
+----------------------------
+@jamieeduncan @kubernetesio I think those are just generic guidelines to harden a Linux machine :-)
+
+----------------------------
+#Kubernetes Security - Best Practice Guide
+
+https://t.co/LPV0WoTqug
+
+----------------------------
+RT @amyengineer: Code comments. 😂 https://t.co/9lQ3fAlDuX
+
+----------------------------
+RT @CommitStrip: Troll d'IA
+ https://t.co/nnz27QcVls https://t.co/WrRO8zJ5cH
+
+----------------------------
+Running your project's e2e tests on #kubernetes here is a library that can ease your pain for doing that https://t.co/oyX1iE05DG
+
+----------------------------
+“To achieve victory we must mass our forces at the hub of all power and movement. The enemy’s "center of gravity”… https://t.co/nfc1bjCYQw
+
+----------------------------
+Docker and IPtables
+
+When port mapping a container port to you host always use `localhost` ip otherwise docker expo… https://t.co/ZzhqTQLY6L
+
+----------------------------
+Jeff Bezos’s Peculiar Management Tool for Self-Discipline https://t.co/N4bO0THFiz via @idonethis
+
+----------------------------
+How to run a remote team meeting?
+
+https://t.co/0ENymq3cWZ
+
+----------------------------
+RT @CodeWisdom: "So much complexity in software comes from trying to make one thing do two things." – Ryan Singer
+
+----------------------------
+RT @martinkl: Such an amazing slide deck by @deniseyu21 on why distributed systems are so hard https://t.co/kqQ21wFHEp https://t.co/QWHMJzX…
+
+----------------------------
+Who needs what?
+
+Certs needed to various components of the #Kubernetes Control plane. https://t.co/ducyBXdd5b
+
+----------------------------
+Certifik8s: All You Need to Know About Certificates in #Kubernetes - @AlexBrand
+https://t.co/WfMiDgoTTZ
+
+----------------------------
+Add new node to existing #Kubernetes cluster manually
+
+https://t.co/0jgiyQqK4a
+
+----------------------------
+Kubernetes yaml validator by @chuck_ha https://t.co/eR5FWjsGWw https://t.co/AeV2gdv7Ti
+
+----------------------------
+RT @quayio: What you should know about the @RedHat Quay #container registry https://t.co/V0wD8YAiuX
+
+----------------------------
+RT @tom_wilkie: TIL FANG means Facebook, Amazon, Netflix, Google.
+
+----------------------------
+RT @harishpillay: "Learning gives creativity
+Creativity leads to thinking
+Thinking provides knowledge
+Knowledge makes you great."
+
+Presiden…
+
+----------------------------
+@jessfraz In lot of cases projects themselves don't want to get involved in money matters cause it can quickly esca… https://t.co/iFMe1nAifb
+
+----------------------------
+RT @sarah_edo: Let's talk about how to give feedback for a minute. Giving good feedback is a skill, and it's not easy. But people's ability…
+
+----------------------------
+RT @pangmeli: explaining 'the cloud' to beginners: when a file is saved to your computer, it's like having money under a mattress. you can…
+
+----------------------------
+RT @nnja: Like when software developers decide to roll their own solution instead of using an available library. https://t.co/e1yDhC0iGg
+
+----------------------------
+@RichardVowles @rothgar It's a possibility as well, but doing it minikube way frees you from worrying about the os… https://t.co/TZMNoMSExw
+
+----------------------------
+@rothgar Yeah maintaining two different types of configurations becomes painful after a point. Because there will b… https://t.co/DADnu3plOT
+
+----------------------------
+@rothgar It's mostly expose docker-env and then `make` receipes around it for building images.
+
+Just make sure the… https://t.co/5AsDmDATOd
+
+----------------------------
+@rothgar 2/2
+
+Pushing is registry can be painful in situations of slow network. Which you don't want during local development.
+
+----------------------------
+@rothgar 1/2
+
+Iterative development cycle is faster on minikube.
+
+On remote cluster the typical cycle would be:
+
+Bu… https://t.co/vivPGlFgS9
+
+----------------------------
+A cmd line paste utility written in golang: https://t.co/EuvH5c7uho
+
+When you don't have root access to install pac… https://t.co/PxtP0e4sY0
+
+----------------------------
+Kubernetes Tips - Part 3 https://t.co/oYFr3tIFMd via @alenkomljen
+
+----------------------------
+Kubernetes Tips - Part 1 https://t.co/KQ4jpN0iFd via @alenkomljen
+
+----------------------------
+All about #Kubernetes service
+
+https://t.co/I8GbrJYrUy
+
+----------------------------
+RT @KubicProject: It's official, CRI-O is now default container runtime interface of the @KubicProject 
+
+Read the blogpost to learn more ab…
+
+----------------------------
+RT @mhausenblas: Where I talk about @kubernetesio and how naming and referring to things is hard (aka: my name is Michael, not dad ;)
+
+http…
+
+----------------------------
+Vault and Secret management in #Kubernetes by @armon
+https://t.co/X0mdSlKBKI
+
+----------------------------
+RT @nixcraft: If you want to live a happy life, tie it to a goal, not to people or things. — Albert Einstein #MondayMotivation #quoteofthed…
+
+----------------------------
+RT @newsycombinator: Linus, His Apology, and Why We Should Support Him https://t.co/DUzqzG0lHN
+
+----------------------------
+The Machines Can Do the Work, a Story of #Kubernetes Testing, CI, and Automating the Contributor Experience
+
+An awe… https://t.co/VUL0h0zLH6
+
+----------------------------
+ghProxy is a reverse proxy HTTP cache optimized for use with the GitHub API.
+
+https://t.co/mqvE5oFnQ4
+
+----------------------------
+ghCache is an HTTP cache optimized for caching responses from the GitHub API 
+
+https://t.co/PAqp9gDUZn
+
+----------------------------
+How to explain Hash DoS to your parents by using cats https://t.co/bKCJ8O6JE3 via @anchorsystems
+
+----------------------------
+Hash DOS explained in btrfs by @cryptopathe https://t.co/qWh9vQk5Ct
+
+----------------------------
+RT @kumar_pravin: This is an eye opener talk for every #go programmer https://t.co/EigvFc5dqI find time and watch it till end, you will nev…
+
+----------------------------
+RT @b0rk: she also has this awesome bingo card at https://t.co/z7ojqBmNkY https://t.co/EGj4PZPL3C
+
+----------------------------
+RT @b0rk: what's your manager's job? https://t.co/lpew2KgJxc
+
+----------------------------
+Dynamic Admission Control, write your own admission policies!
+
+#Kubernetes
+
+https://t.co/eU6fZuonMd
+
+----------------------------
+RT @fs0c131y: Thank you @UIDAI for the laugh 😂Are you able to see how ridicule you are? https://t.co/ebmeHxnIhO
+
+----------------------------
+Using Admission Controllers
+
+#Kubernetes
+
+Third step in your request processing after Authentication and Authorizat… https://t.co/l7xyMhd1yS
+
+----------------------------
+OH: "I hope our paths cross and remain parallel for rest of our lives".
+
+----------------------------
+Authorization overview
+
+- Determine Whether a Request is Allowed or Denied
+- Review Your Request Attributes
+- Deter… https://t.co/ZKGm4ZkMK3
+
+----------------------------
+Controlling Access to the #Kubernetes API
+
+- Talks about steps any request to API server goes through
+- Talks about… https://t.co/QvhEFVFtvW
+
+----------------------------
+RT @KubernetesPod: This week’s guest is author of “Cloud Native Infrastructure”, Justin Garrison, a.k.a. @rothgar.
+
+O’Reilly books all have…
+
+----------------------------
+#Kubernetes Impact with @smarterclayton
+
+https://t.co/uNE3Db9Qfs
+
+----------------------------
+Exhaustive guide of #kubernetes rbac
+
+https://t.co/cXV6uBs4w9
+
+----------------------------
+2/2
+
+But rather than doing this, just put the password in the file and then use that file to create secret using fl… https://t.co/1AjezVmft5
+
+----------------------------
+1/2
+
+When creating #Kubernetes secret in an imperative way using the flag `--from-literal` you will need to escape… https://t.co/vZJaxZuC5m
+
+----------------------------
+RT @ahmetb: I took time to explain interesting Kubernetes health-check patterns you construct with the simpler health-check probes. Namely:…
+
+----------------------------
+RT @siosm: Alpine Linux?
+  * Package download without HTTPS;
+  * Operation on archive content before signature checks;
+  * Custom updater &amp;…
+
+----------------------------
+RT @CodeWisdom: Bram Cohen (@bramcohen) - Computer programmer and inventor of BitTorrent. https://t.co/1Jb2wgZSbi
+
+----------------------------
+RT @jeremyeder: Hoarding knowledge and carving out a deep niche is about as non-collaborative and career-limiting as it gets.  Real winners…
+
+----------------------------
+RT @kumar_pravin: #git Tip "$ git diff branch_A branch_B -- foo.go" =&gt; provide you the changes in the foo.go file for these 2 branches.
+
+----------------------------
+How to secure your #kubernetes cluster? 
+https://t.co/ZkrDXAQ4Ha
+
+----------------------------
+RT @sathishvj: Building Microservices with Go.  Free #golang #ebook for a few more hours.
+https://t.co/EWeYhNu4py
+
+----------------------------
+RT @PodCtl: PodCTL #48 - “Patching VMs, OS, Containers”
+
+https://t.co/Ad4p2Eix8W
+
+Brian and Tyler try and clarify some confusion about how…
+
+----------------------------
+RT @PodCtl: PodCTL #49 - “Security &amp; Service Meshes” 
+
+https://t.co/k1LALLwQv1
+
+----------------------------
+A **projected volume** maps several existing volume sources into the same directory.
+
+Mount: secret, configMap, ser… https://t.co/gHV0XLJxYW
+
+----------------------------
+@embano1 When I read it for the first time from docs, I was like is there a typo, seems like natural language written in command section.
+
+----------------------------
+TIL: Found an awesome way to know what you can do and what you cannot on #kubernetes.
+
+```
+kubectl auth can-i ...
+`… https://t.co/9qmWvUWeeg
+
+----------------------------
+If you are a cluster admin and want to try out something with less privileges that a service account has, try out f… https://t.co/Msk8OhtrVI
+
+----------------------------
+RBAC: #Kubernetes
+
+Things you can bind -- Where
+--------------------------------------------------------
+Role, Clus… https://t.co/ojlPMpTOqT
+
+----------------------------
+RT @soltysh: "I like learning! It’s fun!" and other important aspects of self-learning by @b0rk: https://t.co/nGP7we4emG, you're the best 👍…
+
+----------------------------
+RT @SaraJChipps: At @StackOverflow there is a rule that if one person is remote for a meeting we all have to be remote. I love this and I’v…
+
+----------------------------
+RT @red_suraj: Found this image on #LinkedIn 
+Credit: anonymous https://t.co/5g6LyT4HwZ
+
+----------------------------
+Hacking and Hardening Kubernetes Clusters by Example - @bradgeesaman https://t.co/cLJmrCPfcs
+
+----------------------------
+`shfmt` on the lines of `gofmt`
+
+A shell parser, formatter and interpreter. Supports POSIX Shell, Bash and mksh.… https://t.co/khl4rD4PVT
+
+----------------------------
+Full video: https://t.co/4iPaI8BWrb
+
+----------------------------
+@red_suraj TFS :-)
+
+----------------------------
+Kubernetes Deconstructed: Understanding Kubernetes by Breaking It Down - @carson_ops https://t.co/SNBE6iyorw
+
+Reall… https://t.co/BzT8tDIpOk
+
+----------------------------
+`limits`   ✅
+`requests` ❌
+
+In a pod request then, `requests` = `limits` when pod is deployed.
+
+`limits`   ❌
+`reques… https://t.co/uFuxh0z1VC
+
+----------------------------
+RT @red_suraj: To export the #Kubernetes configs for reuse:
+
+```
+kubectl get &lt;resource&gt;/&lt;resouce_name&gt; -o yaml --export=true
+```
+
+----------------------------
+Understanding Shell Script's idiom: 2&gt;&amp;1 https://t.co/mQpK4xuSpl
+
+```
+ls foo &gt; /dev/null 2&gt;&amp;1
+```
+
+----------------------------
+Symlink race is a kind of software security vulnerability that results from a program creating files in an insecure… https://t.co/OPJCqjVUCV
+
+----------------------------
+Time of check to time of use (TOCTTOU or TOCTOU, pronounced "tock too")
+
+https://t.co/N6EgVYGsek
+
+----------------------------
+Kubernetes Security Announcement - 1.7.14, 1.8.9, 1.9.4 released to address volume vulnerabilities… https://t.co/T4UwuoOjBz
+
+----------------------------
+Fixing the Subpath Volume Vulnerability in #Kubernetes https://t.co/Ieq4rjwxoG
+
+----------------------------
+Interactive jq https://t.co/pN9lEDaOXr 
+
+TFS: @indradhanush92
+
+----------------------------
+RT @BiIndia: #WATCH | Why @Google needs more time to comply with @RBI’s data storage order
+
+#BiIndiaVideos https://t.co/7vR7lckXBd
+
+----------------------------
+A Note About Git Commit Messages https://t.co/W1AyQSuUts
+
+----------------------------
 Single node #Kubernetes Cluster on Fedora with SELinux enabled using Kubeadm https://t.co/OUaZufD1je
 
 ----------------------------
@@ -323,6 +866,11 @@ JavaZone 2018: Stranger Strings
 https://t.co/weN1YRxvQh
 
 about legacy code, enterprises, java, gosling, mainframes, etc.
+
+----------------------------
+Add a Static Route on CentOS
+
+https://t.co/ksqiS0pcrB
 
 ----------------------------
 Add a Static Route on CentOS
@@ -828,9 +1376,6 @@ Closing #golang channels https://t.co/bJ4nOB2JTX
 @gh05t_r00t @red_suraj @captn3m0 some insights https://t.co/5fqc9MMBcb
 
 ----------------------------
-@gh05t_r00t @red_suraj @captn3m0 some insights https://t.co/5fqc9MMBcb
-
-----------------------------
 RT @r00k: Ever typed a command and then realized it needs sudo? 
 
 Try this: `sudo !!`. 
@@ -1113,6 +1658,9 @@ When you put culture unfit people incharge of culture fit people, it's a call fo
 
 ----------------------------
 Think and Grow Rich: 11 attributes of leadership https://t.co/0SCyJkTxOe
+
+----------------------------
+@fs0c131y ✋
 
 ----------------------------
 @fs0c131y ✋
@@ -1568,9 +2116,6 @@ cc… https://t.co/ros5MJYwuJ
 Leaking Goroutines https://t.co/o3wCcD9om3 #golang
 
 ----------------------------
-Leaking Goroutines https://t.co/o3wCcD9om3 #golang
-
-----------------------------
 A simple utility for running exhaustiveness checks on type switch statements. Exhaustiveness checks are only run on… https://t.co/tEClxPjDHF
 
 ----------------------------
@@ -1846,6 +2391,9 @@ Multiple RU… https://t.co/qOuKFEhJd0
 
 ----------------------------
 RT @SathyaBhat: Another reminder not to run random scripts off the Internet, even if on Github unless you read  and understand.. https://t.…
+
+----------------------------
+RT @rhatdan: I just published “New Blog on Podman on https://t.co/i6zOHICdc1” https://t.co/GjdjLfXNb4
 
 ----------------------------
 RT @rhatdan: I just published “New Blog on Podman on https://t.co/i6zOHICdc1” https://t.co/GjdjLfXNb4
@@ -2384,9 +2932,6 @@ RT @CentOS: CESA 2018:0007 Important Kernel Update for CentOS Linux 7 x86_64 was
 @embano1 @arschles Yes this is awesome content !  +1
 
 ----------------------------
-@embano1 @arschles Yes this is awesome content !  +1
-
-----------------------------
 dotGo 2014 - Gabriel Aszalos - Mocking in #Golang : Using interfaces for fun and profits by @gabrielaszalos 
 https://t.co/Yr2bl4TyAQ
 
@@ -2672,6 +3217,9 @@ echo ${RANDOM}
 ```
 
 outpu… https://t.co/kcRGVsV5BB
+
+----------------------------
+RT @ProfFeynman: Give me questions I can't answer not answers I can't question. https://t.co/i31FodycBo
 
 ----------------------------
 RT @ProfFeynman: Give me questions I can't answer not answers I can't question. https://t.co/i31FodycBo
@@ -3162,11 +3710,6 @@ RT @ThePracticalDev: 9 Software Engineering Career Mistakes To Avoid At All Cost
 https://t.co/OI64s3vM0u
 
 ----------------------------
-RT @ThePracticalDev: 9 Software Engineering Career Mistakes To Avoid At All Costs
-{ author: @lpasqualis }
-https://t.co/OI64s3vM0u
-
-----------------------------
 When your forked repo is very old than upstream, to fetch all the latest tags:
 
 ```
@@ -3436,6 +3979,9 @@ RT @IanMLewis: How to do Blue/Green Deployments on Kubernetes https://t.co/fDmLc
 
 ----------------------------
 “12 cool things you can do with GitHub” by @D__Gilbertson https://t.co/W7lifpyk8q
+
+----------------------------
+@iwavethegrain @TheNikhita ... on running k8s cluster
 
 ----------------------------
 @iwavethegrain @TheNikhita ... on running k8s cluster
@@ -3865,9 +4411,6 @@ Sarvanakumar talking about @openshift s2i source to image builder at @k8sBLR at 
 .@kamesh_sampath talking about @IstioMesh at @k8sBLR meetup #Kubernetes @rhdevelopers https://t.co/W7ytQPnHXb
 
 ----------------------------
-.@kamesh_sampath talking about @IstioMesh at @k8sBLR meetup #Kubernetes @rhdevelopers https://t.co/W7ytQPnHXb
-
-----------------------------
 .@kiranmova demoing @openebs at @k8sBLR https://t.co/OmLNU6yhoN
 
 ----------------------------
@@ -4102,6 +4645,9 @@ RT @karthik_padman: #kubernetes Meetup at @GoogleDevsIndia BLR RMZ Infinity Offi
 
 ----------------------------
 Design Philosophy On Logging in @golang by @goinggodotnet https://t.co/nCuTnKzsMK
+
+----------------------------
+“The 50 Top Kubernetes Influencers” by @jtroyer https://t.co/eqTM5CSEpZ
 
 ----------------------------
 “The 50 Top Kubernetes Influencers” by @jtroyer https://t.co/eqTM5CSEpZ
@@ -4505,9 +5051,6 @@ Autoscaling based on CPU/Memory in #Kubernetes — Part 2 https://t.co/pZssd
 @embano1 @paxoszen @kars7e @imkin TFS ☺👍
 
 ----------------------------
-@embano1 @paxoszen @kars7e @imkin TFS ☺👍
-
-----------------------------
 What is #Kubernetes? An Intro for Beginners https://t.co/v1LyxUPcg0 by @ThatMightBePaul
 
 ----------------------------
@@ -4751,6 +5294,9 @@ Using vi-mode in your shell https://t.co/pqeie3Isus via @opensourceway by @TheMa
 
 ----------------------------
 Lessons learned from reading postmortems by @danluu https://t.co/K3W7KADJyL
+
+----------------------------
+"Design Philosophy On Integrity" by @goinggodotnet  https://t.co/pYSF00sThK
 
 ----------------------------
 "Design Philosophy On Integrity" by @goinggodotnet  https://t.co/pYSF00sThK
@@ -5185,9 +5731,6 @@ RT @sauro: OMG IT FINALLY HAPPENED! THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG 
 @realquidnunc @zee_10000 My name is Suraj (sun in hindi) tell me about fire! OTOH we have excellent fire safety in office.
 
 ----------------------------
-@realquidnunc @zee_10000 My name is Suraj (sun in hindi) tell me about fire! OTOH we have excellent fire safety in office.
-
-----------------------------
 @realquidnunc @zee_10000 see you in dry pantry at 1100hrs IST
 
 ----------------------------
@@ -5450,6 +5993,9 @@ How #Kubernetes Was the Secret Sauce in Our Globally Distributed Team’s Transi
 
 ----------------------------
 RT @embano1: Compiling to Containers by @brendandburns https://t.co/7B9s2h8iNg &lt; so curious where we´re heading. same w/ @kelseyhightower h…
+
+----------------------------
+More details about #containerd, @Docker’s core #container runtime component https://t.co/7dTGZ2Oesh via @docker
 
 ----------------------------
 More details about #containerd, @Docker’s core #container runtime component https://t.co/7dTGZ2Oesh via @docker
@@ -5897,9 +6443,6 @@ Secure Your Containers with this One Weird Trick https://t.co/egQegGRR6N via @ki
 OpenShift and “manifest unknown” https://t.co/Fvau6tP4OI via @openshift
 
 ----------------------------
-OpenShift and “manifest unknown” https://t.co/Fvau6tP4OI via @openshift
-
-----------------------------
 Running an open source and upstream oriented team in agile mode https://t.co/QQptdKgZFZ
 
 ----------------------------
@@ -6143,6 +6686,10 @@ Why Your Open Source Project Is Not A Product https://t.co/9bQqmhq1az
 
 ----------------------------
 Awesome news, congratulations!👌👍 https://t.co/QVBudJx0av
+
+----------------------------
+Julian Berman - Introduction to JSON schema
+https://t.co/gckNG4Z9ig
 
 ----------------------------
 Julian Berman - Introduction to JSON schema
@@ -6610,10 +7157,6 @@ Bangalore @docker Meetup Event Report https://t.co/MMAj72f4h7 by @hussainweb cc:
 https://t.co/vUAT8lBFT5
 
 ----------------------------
-@kubernetesio 1.3: Bridging Cloud Native and Enterprise Workloads
-https://t.co/vUAT8lBFT5
-
-----------------------------
 The code that took America to the moon was just published to GitHub, and it’s like a 1960s time capsule https://t.co/oEIHvx0Jx7 via @qz
 
 ----------------------------
@@ -6876,6 +7419,9 @@ RT @budhrg: #RedHat Join 1st ADB video series on "Native Docker experience on an
 A Technical Overview of @kubernetesio at @coreoslinux Fest 2015
 @brendandburns
 https://t.co/jJa6ytww30
+
+----------------------------
+How to avoid wasting megabytes of memory a few bytes at a time https://t.co/PlBWViGLgn via @rhdevelopers
 
 ----------------------------
 How to avoid wasting megabytes of memory a few bytes at a time https://t.co/PlBWViGLgn via @rhdevelopers
@@ -7358,9 +7904,6 @@ https://t.co/2ovhGJ3Bgi
 New, no-cost course: Deploying Containerized Applications https://t.co/gDW8zJE4wL via @rhdevelopers
 
 ----------------------------
-New, no-cost course: Deploying Containerized Applications https://t.co/gDW8zJE4wL via @rhdevelopers
-
-----------------------------
 Securing Containers on OpenShift - Ryan Jarvinen @ryanj
 Nice explanation of Openshift components and Security
 https://t.co/GrTMGA9u4h
@@ -7608,6 +8151,10 @@ Red Hat Container Development Kit 2 Beta https://t.co/ZsuvQwFNn0 via @rhdevelope
 ----------------------------
 Go by Example is a hands-on introduction to Go using annotated example programs.
 https://t.co/MKu6VO6Chx
+
+----------------------------
+Biggest reason to love @golang : Its simple. Participate in #GopherMonth: https://t.co/VSaa34GF8T
+@GopherConIndia https://t.co/kueZr8YPCu
 
 ----------------------------
 Biggest reason to love @golang : Its simple. Participate in #GopherMonth: https://t.co/VSaa34GF8T
@@ -8048,11 +8595,6 @@ https://t.co/Aamu6uzvIq
 Slides https://t.co/8nyS3L2o5E
 
 ----------------------------
-Kenneth Love: Getting Started with Django, a crash course - PyCon 2014 
-https://t.co/Aamu6uzvIq
-Slides https://t.co/8nyS3L2o5E
-
-----------------------------
 SSH keys Detailed Explained https://t.co/SgkuXivh1v
 
 ----------------------------
@@ -8330,6 +8872,18 @@ http://t.co/E7ZlnpoOfg
 #Python command line argument parser very handy #optparse
 
 http://t.co/XaaKDGEpDB
+
+----------------------------
+Nice library to handle datasets easily 
+Tablib: format-agnostic tabular dataset library
+JSON
+YAML
+HTML
+TSV
+CSV
+DBF
+
+https://t.co/rPjfgvRS2v
 
 ----------------------------
 Nice library to handle datasets easily 
