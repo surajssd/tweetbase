@@ -1,5 +1,215 @@
 
 ----------------------------
+RT @heptio: Hot off the press! Check out new O'Reilly eBook Managing Kubernetes by @brendandburns and @craig_tracey. This is such a practic…
+
+----------------------------
+RT @jimmyzelinskie: I just discovered https://t.co/8EwlcmH1NA which tracks what versions of kubernetes every vendor is shipping. nice job @…
+
+----------------------------
+@nixcraft T440p and T480s(Sep 2018) both running @fedora 28
+
+----------------------------
+Shell Style Guide
+https://t.co/MDWv4O770Q
+
+TFS: @schux00
+
+----------------------------
+Eric S. Raymond on Keeping the Bazaar Secure and Functional https://t.co/hRhw6zWVEF
+
+----------------------------
+A First Look at the Helm 3 Plan - https://t.co/VqQObHzRmr
+
+----------------------------
+RT @fatih: ⭐️I have some big news to share with you. Starting today, I'll be no longer maintaining vim-go and will sunset most of my Go pac…
+
+----------------------------
+RT @ismonkeyuser: Architecture (https://t.co/RLbGtGrKUO) https://t.co/A4hQzlVFn9
+
+----------------------------
+RT @kinvolkio: New blog post from our CTO @albcr &amp; @Cloudflare engineer Lorenz Bauer abt features &amp; conventions of BPF ELF loaders. This co…
+
+----------------------------
+#Kubernetes scheduler https://t.co/B7vbNgrvGt and https://t.co/62Cnjfso6c and algorithm explained in https://t.co/n55P3Uhhyv
+
+----------------------------
+RT @WSJTech: BREAKING: Google opted not to disclose its discovery of a bug in Google+ that exposed the data of hundreds of thousands of use…
+
+----------------------------
+Why work doesn't happen at work by @jasonfried https://t.co/PzaepsB8Yq
+
+TFS: @aditya_konarde
+
+----------------------------
+@red_suraj @pyconindia Reminds me of the quote:
+
+https://t.co/6Gfjf17mLc
+
+----------------------------
+RT @b0rk: what's a senior engineer's job? https://t.co/ik21xbdTdB
+
+----------------------------
+.@fb_engineering Continues Making Extensive Use Of systemd
+https://t.co/USxR99WXEb
+
+----------------------------
+.@fb_engineering backported RPMs for @CentOS https://t.co/YjYoFkRQbo
+src: https://t.co/USxR99WXEb
+
+----------------------------
+kubectl command line cheat sheet https://t.co/S2iaG779l7
+
+----------------------------
+And more comes to the list https://t.co/XiUdScR96G
+
+----------------------------
+List all the pods with it's quality of service class
+
+```
+kubectl get pods -o custom-columns=NAME:.metadata.name,QO… https://t.co/vP3bLcYIr8
+
+----------------------------
+TIL: colordiff &gt;&gt;&gt;&gt; diff
+
+https://t.co/v2mcvClrJD
+
+Install:
+
+```
+dnf install colordiff
+```
+
+----------------------------
+Portable Services are Ready to Use by @pid_eins @ASGConf 
+https://t.co/8YS8Z96xeM
+
+Interesting mix of container san… https://t.co/3J0bRScq3e
+
+----------------------------
+Cilium - Bringing the BPF Revolution to Kubernetes Networking and Security by @tgraf__  @ASGConf https://t.co/10l7iGpUhP
+
+----------------------------
+@yudocaa https://t.co/54GGPeJ1jF
+
+----------------------------
+Early boot provisioning systems by @dghubble @ASGConf 
+https://t.co/oVU4GAbxGX
+
+----------------------------
+@yudocaa I will miss it this year 🙄
+
+----------------------------
+RT @surajd_: Life of a Packet [I] - Michael Rubin, Google
+https://t.co/ybQvqmeFQA at @kubecon 2017 #kubernetes Networking in depth, very we…
+
+----------------------------
+kubectl convert ...
+Convert config files between different API versions. 
+
+e.g.
+Before conversion this is the versi… https://t.co/7DJ06NV9ZR
+
+----------------------------
+RT @lxfontes: k8s chaosmonkey oneliner
+
+kubectl pod -o name | shuf | head -1 | xargs kubectl delete
+
+- replace shuf with gshuf on mac
+- app…
+
+----------------------------
+@LiliCosic @SlackHQ Should integrate with Google calendar, so no need provide PTO info in two places.
+
+----------------------------
+Know more about your current cert that you are using to talk to the #kubernetes cluster 
+
+```
+$ kubectl config view… https://t.co/l0OhySGIxl
+
+----------------------------
+RT @LachlanEvenson: "Scaling yourself" - I stumbled across this gem the other day from GOTO 2012. Even more relevant today. Thanks for shar…
+
+----------------------------
+@joshwget Same for YouTube as well, make video of the latest trending thing and earn more views.
+
+Riding on the trend 🌊
+
+----------------------------
+@BryanLunduke https://t.co/nNx6GbHKsb
+
+----------------------------
+RT @jpetazzo: "Containers are processes,
+born from tarballs,
+anchored to namespaces,
+controlled by cgroups"
+💯
+@alicegoldfuss #VelocityConf
+
+----------------------------
+RT @nstielau: Nice work @DavidStrauss talking about defense in depth with sealed capabilities at @ASGConf : https://t.co/jWzF20G4XA
+
+----------------------------
+Why Meat is the Best Worst Thing in the World 🍔
+https://t.co/X9RIymuCiC
+
+----------------------------
+Self-Hosted #Kubernetes: How and Why - @step_function https://t.co/MayVg5M94b
+
+nice introduction to bootkube https://t.co/1aMYK6szJ6
+
+----------------------------
+@embano1 TFS: TIL :-)
+
+----------------------------
+@harshal2623 Like @embano1 mentioned in his talk https://t.co/zwRz9Eb17h using kubelet flag `--system-reserved` see… https://t.co/UuGIhjmHsq
+
+----------------------------
+Inside #Kubernetes Resource Management (QoS) – Mechanics and Lessons from the Field - @embano1… https://t.co/xILXal4pDg
+
+----------------------------
+@shahidh_k spotted your blog in a kubecon presentation https://t.co/DKM5wTWtqe
+
+----------------------------
+RT @ismonkeyuser: Applied TDD (https://t.co/64NXQDOKdS) https://t.co/a037v9cI5S
+
+----------------------------
+RT @asynchio: ⚡️ I am incredibly honored and excited to launch @OSSCapital: A new, highly differentiated VC firm, the worlds first and only…
+
+----------------------------
+RT @srcgraph: Sourcegraph is now open source 🚀 
+
+https://t.co/swseBZpXD6
+
+https://t.co/sLPfVZjXHq
+
+----------------------------
+RT @kubernetesio: Don't miss today's post, "Health checking @grpcio servers on #Kubernetes," for @ahmetb's dive into grpc-health-probe – a…
+
+----------------------------
+Digging into Kubernetes 1.12 @google https://t.co/rQ4Bpezf3N
+
+----------------------------
+@TheNikhita @Loodse Congratulations :-)
+
+----------------------------
+shellcheck: ShellCheck, a static analysis tool for shell scripts https://t.co/pKD3YcWpeY
+
+For fedora install using:… https://t.co/Dgt7CyQLgt
+
+----------------------------
+@indradhanush92 When one teaches, two learn.
+
+- Robert Heinlein
+
+----------------------------
+@hacktohell @aditya_konarde Nice that it's configurable than running random pause containers. TFS ☺️
+
+----------------------------
+Avengers Infinity War releasing in Hindi https://t.co/ZZG11FRNbD :-D
+
+cc: @red_suraj https://t.co/ASd8L8tx62
+
+----------------------------
 @aditya_konarde the discussion we had sometime back IRL.
 
 ----------------------------
@@ -638,6 +848,11 @@ Encrypt the #kubernetes resources in etcd by providing
 `EncryptionConfig` resource to kube-apiserver, read about… https://t.co/Q0wa3a2OxO
 
 ----------------------------
+Encrypt the #kubernetes resources in etcd by providing 
+
+`EncryptionConfig` resource to kube-apiserver, read about… https://t.co/Q0wa3a2OxO
+
+----------------------------
 RT @rachelpage13: I quit my job today &amp; my coworker told me to find my “Ikigai”   
 Thought this was awesome so just wanted to share https:/…
 
@@ -866,11 +1081,6 @@ JavaZone 2018: Stranger Strings
 https://t.co/weN1YRxvQh
 
 about legacy code, enterprises, java, gosling, mainframes, etc.
-
-----------------------------
-Add a Static Route on CentOS
-
-https://t.co/ksqiS0pcrB
 
 ----------------------------
 Add a Static Route on CentOS
@@ -1203,11 +1413,6 @@ Remote Work: 2 Years In - @chimeracoder https://t.co/8JeTaFFJ0x
 Yesterday was my last day at @RedHat it was a very nice journey! Started working at @kinvolkio today!
 
 ----------------------------
-RT @jensimmons: If you are a developer, and you feel bad about not knowing everything, I have one item I want you to memorize:
-
-No one know…
-
-----------------------------
 RT @_askcarter: Anytime you give presentation, you're taking the audience on a journey....
 
 This maps that. 👍🏾 https://t.co/M32qTd5TmY
@@ -1468,6 +1673,9 @@ RT @k8sBLR: Group photo from our yesterday's meetup. https://t.co/7MiKUDVNEj
 RT @_AnirudhM: Great talks by @hashfyre, @SatyamZode, @gh05t_r00t and @zee_10000. Thanks for organizing @k8sBLR and @surajd_. 😁 https://t.c…
 
 ----------------------------
+RT @_AnirudhM: Great talks by @hashfyre, @SatyamZode, @gh05t_r00t and @zee_10000. Thanks for organizing @k8sBLR and @surajd_. 😁 https://t.c…
+
+----------------------------
 @jesslynnrose https://t.co/cMPId9jOUG
 
 ----------------------------
@@ -1658,9 +1866,6 @@ When you put culture unfit people incharge of culture fit people, it's a call fo
 
 ----------------------------
 Think and Grow Rich: 11 attributes of leadership https://t.co/0SCyJkTxOe
-
-----------------------------
-@fs0c131y ✋
 
 ----------------------------
 @fs0c131y ✋
@@ -2184,10 +2389,10 @@ RT @GopherConIndia: “Get into mindset of building air conditioners, nobody sho
 “If most computer people lack understanding and knowledge, then what they will select will also be lacking.” - Alan… https://t.co/geVt7ai1Z5
 
 ----------------------------
-RT @DhritiShikhar: What's the difference between junior and senior developer? Its the personal responsibility of the software you write - @…
+.@goinggodotnet kick started #GopherConIndia 2018 #GCI18 #golang https://t.co/7982wHaLvf
 
 ----------------------------
-.@goinggodotnet kick started #GopherConIndia 2018 #GCI18 #golang https://t.co/7982wHaLvf
+#golang https://t.co/6Y5lOg2GUk
 
 ----------------------------
 #golang https://t.co/6Y5lOg2GUk
@@ -2391,9 +2596,6 @@ Multiple RU… https://t.co/qOuKFEhJd0
 
 ----------------------------
 RT @SathyaBhat: Another reminder not to run random scripts off the Internet, even if on Github unless you read  and understand.. https://t.…
-
-----------------------------
-RT @rhatdan: I just published “New Blog on Podman on https://t.co/i6zOHICdc1” https://t.co/GjdjLfXNb4
 
 ----------------------------
 RT @rhatdan: I just published “New Blog on Podman on https://t.co/i6zOHICdc1” https://t.co/GjdjLfXNb4
@@ -3019,6 +3221,11 @@ Multitasking is merely the opportunity to screw up more than one thing at a time
 #TheOneThing
 
 ----------------------------
+Multitasking is merely the opportunity to screw up more than one thing at a time - Steve Uzzell
+
+#TheOneThing
+
+----------------------------
 Multiple cursors in vscode `Shift + Alt + up` &amp; `Shift + Alt + down`
 
 https://t.co/64db2Gqq6h
@@ -3217,9 +3424,6 @@ echo ${RANDOM}
 ```
 
 outpu… https://t.co/kcRGVsV5BB
-
-----------------------------
-RT @ProfFeynman: Give me questions I can't answer not answers I can't question. https://t.co/i31FodycBo
 
 ----------------------------
 RT @ProfFeynman: Give me questions I can't answer not answers I can't question. https://t.co/i31FodycBo
@@ -3804,6 +4008,9 @@ Chandresh of Arvind Internet talking about their journey from VMs to #kubernetes
 .@vinothecloudone talking about @openshift networking at #kubernetes Bangalore meetup @k8sBLR https://t.co/59TdgGDVZ3
 
 ----------------------------
+.@vinothecloudone talking about @openshift networking at #kubernetes Bangalore meetup @k8sBLR https://t.co/59TdgGDVZ3
+
+----------------------------
 .@sreeharimohan talking about the @myntra 's move from Docker Swarm mode to #kubernetes at @k8sBLR meetup. https://t.co/nLejsXL5m2
 
 ----------------------------
@@ -3979,9 +4186,6 @@ RT @IanMLewis: How to do Blue/Green Deployments on Kubernetes https://t.co/fDmLc
 
 ----------------------------
 “12 cool things you can do with GitHub” by @D__Gilbertson https://t.co/W7lifpyk8q
-
-----------------------------
-@iwavethegrain @TheNikhita ... on running k8s cluster
 
 ----------------------------
 @iwavethegrain @TheNikhita ... on running k8s cluster
@@ -4485,6 +4689,9 @@ RT @asynchio: Oldie but still great by @mcavage: "There's Just No Getting around
 Red Hat moves into remote offices with Hyperconverged Infrastructure https://t.co/Cjmr5uUoh1 via @ZDNet &amp; @sjvn
 
 ----------------------------
+Red Hat moves into remote offices with Hyperconverged Infrastructure https://t.co/Cjmr5uUoh1 via @ZDNet &amp; @sjvn
+
+----------------------------
 RT @ProjectAtomic: Build containers with Buildah: https://t.co/nU99KNuEEZ
 
 ----------------------------
@@ -4645,9 +4852,6 @@ RT @karthik_padman: #kubernetes Meetup at @GoogleDevsIndia BLR RMZ Infinity Offi
 
 ----------------------------
 Design Philosophy On Logging in @golang by @goinggodotnet https://t.co/nCuTnKzsMK
-
-----------------------------
-“The 50 Top Kubernetes Influencers” by @jtroyer https://t.co/eqTM5CSEpZ
 
 ----------------------------
 “The 50 Top Kubernetes Influencers” by @jtroyer https://t.co/eqTM5CSEpZ
@@ -5129,6 +5333,9 @@ yum install -y epel-release &amp;&amp; yum install -y kompose
 Advanced Scheduling in #Kubernetes https://t.co/rt4yUGnmuy by @IanMLewis at the @kubernetesio blog
 
 ----------------------------
+Advanced Scheduling in #Kubernetes https://t.co/rt4yUGnmuy by @IanMLewis at the @kubernetesio blog
+
+----------------------------
 RT @K8sPort: Nice shot from the #Kubernetes Bangalore Meetup sent in by @red_suraj. 
 Key takeways:
 -CRIO
@@ -5294,9 +5501,6 @@ Using vi-mode in your shell https://t.co/pqeie3Isus via @opensourceway by @TheMa
 
 ----------------------------
 Lessons learned from reading postmortems by @danluu https://t.co/K3W7KADJyL
-
-----------------------------
-"Design Philosophy On Integrity" by @goinggodotnet  https://t.co/pYSF00sThK
 
 ----------------------------
 "Design Philosophy On Integrity" by @goinggodotnet  https://t.co/pYSF00sThK
@@ -5817,6 +6021,9 @@ RT @LinuxDotCom: Keynote: From DaVinci to The Avengers by Dr. Thomas Di Giacomo,
 Kubernetes: #Kubernetes Containers Logging and Monitoring with Sematext: https://t.co/DhpILVmdCb
 
 ----------------------------
+Kubernetes: #Kubernetes Containers Logging and Monitoring with Sematext: https://t.co/DhpILVmdCb
+
+----------------------------
 “5 things to watch in Go programming in 2017” by Susan Conant https://t.co/2x49op0ZLs
 
 ----------------------------
@@ -5993,9 +6200,6 @@ How #Kubernetes Was the Secret Sauce in Our Globally Distributed Team’s Transi
 
 ----------------------------
 RT @embano1: Compiling to Containers by @brendandburns https://t.co/7B9s2h8iNg &lt; so curious where we´re heading. same w/ @kelseyhightower h…
-
-----------------------------
-More details about #containerd, @Docker’s core #container runtime component https://t.co/7dTGZ2Oesh via @docker
 
 ----------------------------
 More details about #containerd, @Docker’s core #container runtime component https://t.co/7dTGZ2Oesh via @docker
@@ -6525,6 +6729,9 @@ Introducing cri-o - OCI-based implementation of #Kubernetes Container Runtime In
 Ready Docker Containers for a RunC Runtime with Riddler  https://t.co/7MoH9GXpnx
 
 ----------------------------
+Ready Docker Containers for a RunC Runtime with Riddler  https://t.co/7MoH9GXpnx
+
+----------------------------
 Red Hat's OCID is a Docker Alternative, But Not a Fork https://t.co/xYXlBkCtGI via @containerblog
 
 ----------------------------
@@ -6686,10 +6893,6 @@ Why Your Open Source Project Is Not A Product https://t.co/9bQqmhq1az
 
 ----------------------------
 Awesome news, congratulations!👌👍 https://t.co/QVBudJx0av
-
-----------------------------
-Julian Berman - Introduction to JSON schema
-https://t.co/gckNG4Z9ig
 
 ----------------------------
 Julian Berman - Introduction to JSON schema
@@ -7239,6 +7442,9 @@ setcap cap_net_admin,cap_net_raw+p /usr/bin/ping
 RT @b0rk: thinking of expanding this into a zine for strange loop https://t.co/Tc5bGP9r8X
 
 ----------------------------
+RT @b0rk: thinking of expanding this into a zine for strange loop https://t.co/Tc5bGP9r8X
+
+----------------------------
 Building Longevity into Kubernetes by @thockin at @coreosfest 2016 San Francisco
 Notes:https://t.co/cJjDcSifHk
 Video:https://t.co/UIKDRvH6Ns
@@ -7419,9 +7625,6 @@ RT @budhrg: #RedHat Join 1st ADB video series on "Native Docker experience on an
 A Technical Overview of @kubernetesio at @coreoslinux Fest 2015
 @brendandburns
 https://t.co/jJa6ytww30
-
-----------------------------
-How to avoid wasting megabytes of memory a few bytes at a time https://t.co/PlBWViGLgn via @rhdevelopers
 
 ----------------------------
 How to avoid wasting megabytes of memory a few bytes at a time https://t.co/PlBWViGLgn via @rhdevelopers
@@ -7986,6 +8189,9 @@ https://t.co/SNo2ieNw0x
 Best thing of being at @redhatopen is that you get to hang out with pros.
 
 ----------------------------
+Best thing of being at @redhatopen is that you get to hang out with pros.
+
+----------------------------
 RT @CentOS: #CentOSShirtFriday from Bangalore! With @BitIntegrity @lalatenduM and @rtnpro https://t.co/kunTh6KyEn
 
 ----------------------------
@@ -8151,10 +8357,6 @@ Red Hat Container Development Kit 2 Beta https://t.co/ZsuvQwFNn0 via @rhdevelope
 ----------------------------
 Go by Example is a hands-on introduction to Go using annotated example programs.
 https://t.co/MKu6VO6Chx
-
-----------------------------
-Biggest reason to love @golang : Its simple. Participate in #GopherMonth: https://t.co/VSaa34GF8T
-@GopherConIndia https://t.co/kueZr8YPCu
 
 ----------------------------
 Biggest reason to love @golang : Its simple. Participate in #GopherMonth: https://t.co/VSaa34GF8T
@@ -8500,9 +8702,6 @@ Install Sublime Text 3 on almost any Linux
 http://t.co/09Ir95Ez61
 
 ----------------------------
-RT @DhritiShikhar: PyCon India 2015 https://t.co/1Nlt8XGvo6 http://t.co/oolDANEoSf
-
-----------------------------
 My Experiences at #PyconIndia 2015 http://t.co/tttp5DvwVW via @wordpressdotcom
 
 ----------------------------
@@ -8672,6 +8871,9 @@ Install mdk3 on ubuntu 14.04 http://t.co/UA1WVebg3y
 
 ----------------------------
 802.11 Sniffer Capture Analysis - Management Frames and Open Auth https://t.co/mZl8tPjgio
+
+----------------------------
+802.11 frames : A starter guide to learn wireless sniffer traces https://t.co/BMHzdRaWZg
 
 ----------------------------
 802.11 frames : A starter guide to learn wireless sniffer traces https://t.co/BMHzdRaWZg
@@ -8886,18 +9088,6 @@ DBF
 https://t.co/rPjfgvRS2v
 
 ----------------------------
-Nice library to handle datasets easily 
-Tablib: format-agnostic tabular dataset library
-JSON
-YAML
-HTML
-TSV
-CSV
-DBF
-
-https://t.co/rPjfgvRS2v
-
-----------------------------
 How Project Maelstrom by BitTorrent Will Change the Internet http://t.co/99VMIxxWWK
 
 ----------------------------
@@ -8920,9 +9110,6 @@ Learn Python - Free Interactive Python Tutorial: http://t.co/JNaKjXboq4
 
 ----------------------------
 @clubhack is clubhack Pune community active? If yes how often do you meet? What else happen at meetup?
-
-----------------------------
-RT @DhritiShikhar: Pune Python Meetup - March 2015 http://t.co/xuebnSfNv1
 
 ----------------------------
 My first contribution to an open source  project http://t.co/7GcKfBxSmn via @wordpressdotcom
