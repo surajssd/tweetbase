@@ -1,5 +1,317 @@
 
 ----------------------------
+If you have regex which you don't understand this website helps you do so https://t.co/kP1A4RZLl9
+
+----------------------------
+RT @github: As of today you all have created 100M repositories on GitHub—nearly ⅓ of those in the last year. 🎉 
+
+And with roughly 100 repos…
+
+----------------------------
+RT @pid_eins: Here's a little toy I hacked on the past week: "systemd-analyze security". If you pass it a systemd service name it will chec…
+
+----------------------------
+Comparison of various #Kubernetes ingresses
+
+Nginx-ingress vs
+Kong vs
+Traefik vs
+Haproxy vs
+Voyager vs
+Contour vs
+A… https://t.co/qSmlcRsOsR
+
+----------------------------
+@rtnpro Nevermind let me know next you are in Bangalore
+
+----------------------------
+@rtnpro Ah you left already, wished we could have met before you left.
+
+Anyway all the best!
+
+----------------------------
+@aditya_konarde Humans can't deal with so many moving parameters.
+
+Even though those websites provide us way to giv… https://t.co/lzDNa5R6ZG
+
+----------------------------
+@opsgoodness @joshrosso @stevesloka Are you using any RBAC groups to assign permissions to?
+
+Groups assigned by gan… https://t.co/bqzwsgLvuF
+
+----------------------------
+RT @fatih: ⭐️ It's time to announce!
+
+Here is @fixmieapp🧞‍♂️, a service that analyzes and automatically fixes your source code by providing…
+
+----------------------------
+@hrishike8 Yes same technology but for networking.
+
+----------------------------
+4/4
+
+Overconfidence bias
+
+https://t.co/bDCyE3rda7
+
+----------------------------
+3/n
+
+Pricing effect
+
+https://t.co/sxQLcdNkXy
+
+----------------------------
+2/n
+
+Anchoring effect
+
+https://t.co/rPoMKu8B2x
+
+----------------------------
+Why are we all so stupid?
+
+1/n
+
+Availability bias
+
+https://t.co/g9CrcMfUgV
+
+----------------------------
+Lessons from the Cryptojacking Attack at Tesla https://t.co/CSXHtnEZ9E
+
+----------------------------
+RT @b0rk: conntrack https://t.co/dVU3UZZUx1
+
+----------------------------
+RT @jimmyzelinskie: just in case you thought things weren't meta enough https://t.co/hfLjEHslsl
+
+----------------------------
+RT @mhausenblas: Interesting! Facebook open-sources new suite of Linux kernel components and tools:
+
+https://t.co/Go9MEYrVir
+
+----------------------------
+RT @jessfraz: I wrote a blog post in 5 minutes. https://t.co/lwRh3dZvqo https://t.co/6KSLI8BYuZ
+
+----------------------------
+@embano1 @jbeda Congratulations :-)
+
+----------------------------
+https://t.co/GZtkxU8Y4f
+
+----------------------------
+What a perfect resume looks like
+
+https://t.co/o0ZKqNRX6H
+
+----------------------------
+Daniel Kahneman fathoms the human mind
+https://t.co/tomJWP62wM
+
+----------------------------
+Thanks @fedora 
+
+Been a user for &gt; 4yrs now, there were rough times but it's got better with every release.
+
+Thanks… https://t.co/mQwHjSauVg
+
+----------------------------
+RT @tasdikrahman: Amazing write-up from @github on the incident on October 21/22
+https://t.co/ZTZlx4qn7G
+
+----------------------------
+Developers’ side projects
+
+https://t.co/ERkwMtwAc3
+
+----------------------------
+Random corporate jargon generator
+
+https://t.co/tYcNxTTuP0
+
+TFS: @aditya_konarde
+
+----------------------------
+@embano1 The 📖 is an awesome read, give it a try.
+
+----------------------------
+Google's Retreat from Berlin, Explained https://t.co/9IJwYOkzXf
+
+TFS: @j_lieb
+
+----------------------------
+The riddle of experience vs memory
+
+https://t.co/2y1FhvHpQg
+
+----------------------------
+RT @github: Starting today, you can prioritize your notifications
+
+Save it now, read it later 🔖 https://t.co/oilRzTuMxj
+
+----------------------------
+Why we make bad decisions about money 
+https://t.co/AI1U9BHcNX
+
+----------------------------
+Are we in control of our decision making?
+
+https://t.co/K7wXndgdBr
+
+Gist of the talk:
+
+We prefer defaults set by ot… https://t.co/XTh02insII
+
+----------------------------
+Nobel Laureate(Daniel Kahneman) Says There's A Better Way To Make Hiring Decisions
+
+https://t.co/OuXxhiN5E5
+
+----------------------------
+The trouble with confidence - Daniel Kahneman
+https://t.co/6T8Kov62e5
+
+----------------------------
+People can maintain an unshakable faith in any proposition, however absurd, when they are sustained by a community… https://t.co/J13hMvqqpF
+
+----------------------------
+RT @k8sBLR: We have updated the venue and timings for the November #Kubernetes meetup, check it out at https://t.co/jGwM6bjQNg
+
+----------------------------
+RT @k8sBLR: CFP for the meetup on 17th November is open and the theme is "Serverless on Kubernetes" https://t.co/jGwM6bBsbQ
+
+----------------------------
+Red Hat's co-founder was unemployed and working in a closet when he started the company IBM is buying for $34 billi… https://t.co/Cc6T7JAPCA
+
+----------------------------
+RT @dhh: If your releases always require people to stay late, your process sucks. Change that rather than indulge in discrimination against…
+
+----------------------------
+RT @github: Issue filed in the wrong repo? 
+
+We know your pain! And now we've got a fix. 
+
+Repo admins can transfer issues to wherever they…
+
+----------------------------
+RT @farbodsaraf: The bosses we remember:
+
+1 provided safe space to grow
+2 opened career doors 
+3 defended us when we needed it
+4 recognized…
+
+----------------------------
+RT @fedora: Announcing the #release of #Fedora 29! Learn more here: https://t.co/DryvRoRN0A #linux #foss #community
+
+----------------------------
+Understanding and learning #Terraform for beginners, this is a really great place to start https://t.co/DuyaFF1zR0… https://t.co/3oMFIIKFAo
+
+----------------------------
+Accelerating #Kubernetes Native Applications - @BrandonPhilips 
+https://t.co/D6OLHrNOwY
+
+----------------------------
+@LiliCosic @fredbrancz Frederic: Go back to sleep Frederic it was just a bad bad nightmare.
+
+----------------------------
+WTH is "Operator Lifecycle Manager" by @jimmyzelinskie https://t.co/nKeuARwKu0
+
+----------------------------
+@runc0m IKR :-/
+
+----------------------------
+RT @_no_rules_: Great video to understand OAuth 2.0 and OpenID Connect (in plain English) https://t.co/nDnbA7sCzt via @YouTube
+
+----------------------------
+The Influence of Organizational Structure On Software Quality: An Empirical Case Study https://t.co/7K8w2kMS5L
+
+----------------------------
+RT @KubernetesPod: Send traffic from the @GCPcloud Load Balancer directly to your GKE Pods: it’s better for routing /and/ load balancing. L…
+
+----------------------------
+RT @PodCtl: PodCTL #52 - “OpenShift 3.11 and OpenShift Container Engine”
+
+https://t.co/dXAEuzxtDD
+
+Updates to OpenShift 3.11, including new…
+
+----------------------------
+@DramebaazPorgi Mysuru Pak outside Karnataka is better IMO but YMMV!
+
+----------------------------
+RT @rusrushal13: @surajd_ talking about deployment with YAML at @RedHat 
+@k8sBLR https://t.co/B6akOU8yMy
+
+----------------------------
+RT @pmishra1598: Post break, Deploying containers using yaml session by @surajd_ at @k8sBLR @kubernetesio 101 meetup at Red hat 😄. @CloudNa…
+
+----------------------------
+RT @kubernetesio: #currentlyreading ➡️ @tomgco's take on "Testing #Kubernetes RBAC" – featuring an easy method of implementing testing for…
+
+----------------------------
+How To Use GPG to Encrypt and Sign Messages
+https://t.co/YZ8bMcupR5
+
+----------------------------
+5 Keys to End Your Speech with a Great Call-to-Action
+https://t.co/W8ctelzMPc
+
+----------------------------
+What’s in a Title? Everything! The Importance of Writing Effective Blog Post Titles https://t.co/6jo8cnqW8q
+
+----------------------------
+Add new Node to #Kubernetes cluster using bootstrap token https://t.co/f75q2dKYqt
+
+----------------------------
+Verifying myself: I am surajd on https://t.co/vSPDiHa6Tu. g2qr8FycUjDF6_V3k_tXb8jqcDzXnbdUjAjN / https://t.co/mFE4BciKha
+
+----------------------------
+On Pioneers, Settlers, Town Planners and Theft - @swardley https://t.co/RvvcPZJj3m
+
+----------------------------
+Dunbar's number is a suggested cognitive limit to the number of people with whom one can maintain stable social rel… https://t.co/kYon11aRL9
+
+----------------------------
+Proposal: rename 'staging' to 'theory'. "It works in theory, not on production." —Najaf Ali
+
+https://t.co/sUlTjNFYD8
+
+----------------------------
+Containers Will Not Fix Your Broken Culture (and Other Hard Truths) - @bridgetkromhout 
+
+https://t.co/sUlTjNFYD8
+
+----------------------------
+PodSecurityPolicy on existing #Kubernetes clusters https://t.co/zc8bOQrX8M
+
+----------------------------
+#Kubernetes auth: X509 client certificates
+https://t.co/wLSoirKuWn
+
+The script in this blog simplifies user creation for you.
+
+----------------------------
+@xcoulon Thanks Xavier :-)
+
+----------------------------
+RT @KentBeck: OH: “you don’t get what you deserve, you get what you negotiate”. Wisdom from the lips of an investment banker.
+
+----------------------------
+RT @PCMag: Everything you need to know about USB-C: https://t.co/WWDpTpNJJP https://t.co/Y4iXerIoHn
+
+----------------------------
+@SatyamZode @CloudNativeFdn Thanks Satyam.
+
+----------------------------
+cc: @lalatenduM
+
+----------------------------
+My experience with the #CKA exam and in general list of resources for the exam
+https://t.co/QrJOLEMNNt
+
+----------------------------
 @arush_sal @CloudNativeFdn Thanks Arush.
 
 ----------------------------
@@ -506,6 +818,10 @@ RT @CommitStrip: Troll d'IA
  https://t.co/nnz27QcVls https://t.co/WrRO8zJ5cH
 
 ----------------------------
+RT @CommitStrip: Troll d'IA
+ https://t.co/nnz27QcVls https://t.co/WrRO8zJ5cH
+
+----------------------------
 Running your project's e2e tests on #kubernetes here is a library that can ease your pain for doing that https://t.co/oyX1iE05DG
 
 ----------------------------
@@ -808,11 +1124,6 @@ Full video: https://t.co/4iPaI8BWrb
 
 ----------------------------
 @red_suraj TFS :-)
-
-----------------------------
-Kubernetes Deconstructed: Understanding Kubernetes by Breaking It Down - @carson_ops https://t.co/SNBE6iyorw
-
-Reall… https://t.co/BzT8tDIpOk
 
 ----------------------------
 Kubernetes Deconstructed: Understanding Kubernetes by Breaking It Down - @carson_ops https://t.co/SNBE6iyorw
@@ -1377,6 +1688,11 @@ $ grep . /sys/devices/system… https://t.co/W4Z4KamGmX
 Also for my current use case, wanted to get access to this machine s… https://t.co/xxkJjPDe5o
 
 ----------------------------
+@hashfyre @ethicalaakash Missed that talk :-(
+
+Also for my current use case, wanted to get access to this machine s… https://t.co/xxkJjPDe5o
+
+----------------------------
 Managing multiple ssh keys https://t.co/M45EvFa4uf
 
 TIL: don't use same ssh key everywhere, use a different one, just like passwords.
@@ -1644,11 +1960,6 @@ https://t.co/YGrqvzcIxE
 
 ----------------------------
 Writing #Kubernetes Controllers for CRDs: Challenges, Approaches and Solutions - @Lemonjet https://t.co/iXPuWUCPru
-
-----------------------------
-RT @openshift: Want to get hands-on and learn more about OpenShift? Check out https://t.co/f9yO2Jd6GF
-
-#Kubernetes #Istio #ServiceMesh #Con…
 
 ----------------------------
 RT @openshift: Want to get hands-on and learn more about OpenShift? Check out https://t.co/f9yO2Jd6GF
@@ -2132,6 +2443,9 @@ https://t.co/V2dolmRCIJ
 .@TechGirlPooja talking about "Increase Test Coverage with each code push" @rootconf https://t.co/tJEkFEAEj6
 
 ----------------------------
+.@TechGirlPooja talking about "Increase Test Coverage with each code push" @rootconf https://t.co/tJEkFEAEj6
+
+----------------------------
 .@kashifrazzaqui talking about immutable infra using @HashiCorp @rootconf https://t.co/PVQY5zTiws
 
 ----------------------------
@@ -2403,9 +2717,6 @@ RT @JWhitehurst: Jellyfish!! A safe word to keep meetings on track and avoid the
 RT @deniseyu21: I get asked a lot about how we pair program with distributed teams. So I drew it #sketchnotes https://t.co/7Fb615xYJQ
 
 ----------------------------
-RT @deniseyu21: I get asked a lot about how we pair program with distributed teams. So I drew it #sketchnotes https://t.co/7Fb615xYJQ
-
-----------------------------
 If you wanna learn about #blockchain then this is gonna be an awesome session cause it's led by @sathishvj and he i… https://t.co/3hEqpz4rOZ
 
 ----------------------------
@@ -2509,6 +2820,9 @@ RT @GopherConIndia: “Get into mindset of building air conditioners, nobody sho
 
 ----------------------------
 “If most computer people lack understanding and knowledge, then what they will select will also be lacking.” - Alan… https://t.co/geVt7ai1Z5
+
+----------------------------
+RT @DhritiShikhar: What's the difference between junior and senior developer? Its the personal responsibility of the software you write - @…
 
 ----------------------------
 .@goinggodotnet kick started #GopherConIndia 2018 #GCI18 #golang https://t.co/7982wHaLvf
@@ -2899,6 +3213,9 @@ https://t.co/UbDHw38xsH
 Methods that satisfy interfaces in #golang https://t.co/Kb25bP6OCu via @surajd_
 
 ----------------------------
+Methods that satisfy interfaces in #golang https://t.co/Kb25bP6OCu via @surajd_
+
+----------------------------
 "familiarity admits brevity" - #golang Code Review Comments
  https://t.co/DvzgiKvBui
 
@@ -3211,11 +3528,6 @@ RT @ContainsCafeine: It's a cycle.
 @thrillophilia Sourabhmulavekar1@gmail.com was the email Id used for the booking.
 
 And whatever you promised on the… https://t.co/AZKdCpY7v8
-
-----------------------------
-@thrillophilia why do you keep hidden charges for treks, why the cost is not mentioned when you take money? 
-
-Also… https://t.co/SfnY4GDqZD
 
 ----------------------------
 @thrillophilia why do you keep hidden charges for treks, why the cost is not mentioned when you take money? 
@@ -3711,6 +4023,9 @@ Gitops - Operations by Pull Request https://t.co/j7Vapjk0tm via @weaveworks
 “How to become a better Stack Overflow user in five simple steps” by Artem Stepanenko https://t.co/rkk2aBsCYy
 
 ----------------------------
+“How to become a better Stack Overflow user in five simple steps” by Artem Stepanenko https://t.co/rkk2aBsCYy
+
+----------------------------
 RT @obeattie: I just posted a technical postmortem about @monzo's outage on Friday, if you were curious what happened 🚨 https://t.co/9AMDdY…
 
 ----------------------------
@@ -3985,9 +4300,6 @@ by @the_sttts &amp; @mhausenblas https://t.co/7nqCvEUT96 @openshift
 
 ----------------------------
 @arush_sal if you can't beat them, join them!
-
-----------------------------
-@Docker @kubernetesio How are you converting Docker-Compose to #kubernetes manifests?
 
 ----------------------------
 @Docker @kubernetesio How are you converting Docker-Compose to #kubernetes manifests?
@@ -4454,6 +4766,9 @@ Kubernetes - from development to production | PyCon India 2017 https://t.co/5P0l
 @pradeepto @psankar @kubernetesio @ContainsCafeine We did 101 workshop this month, next will be soon. Join… https://t.co/i7h0mygE3f
 
 ----------------------------
+@pradeepto @psankar @kubernetesio @ContainsCafeine We did 101 workshop this month, next will be soon. Join… https://t.co/i7h0mygE3f
+
+----------------------------
 What are Kubernetes Pods Anyway? https://t.co/XpdPfLOjbr via @IanMLewis
 
 ----------------------------
@@ -4695,9 +5010,6 @@ History of containers AFTER Docker narrated by @rhatdan  https://t.…
 
 ----------------------------
 RT @pradeepto: kompose.io has now graduated from kubernetes-incubator to Kubernetes. Kudos to all contributors and community. #kompose
-
-----------------------------
-RT @swardley: One of my favourite quotes https://t.co/vSn4cC5Qie
 
 ----------------------------
 RT @swardley: One of my favourite quotes https://t.co/vSn4cC5Qie
@@ -5109,6 +5421,10 @@ RT @red_suraj: @kubernetesio 101 meetup in action
 @redhatopen @surajd_ @zee_10000  @procrypt0 https://t.co/g2DsHWmYfr
 
 ----------------------------
+RT @red_suraj: @kubernetesio 101 meetup in action
+@redhatopen @surajd_ @zee_10000  @procrypt0 https://t.co/g2DsHWmYfr
+
+----------------------------
 Great turn out at k8s 101 in today's Kubernetes Bangalore Meetup! https://t.co/RSaogw2ZP5
 
 ----------------------------
@@ -5335,9 +5651,6 @@ It’s Always Hybrid and Intermodal! https://t.co/tx8kRyCrtZ via @openshift
 
 ----------------------------
 Managing the Lifecycle of OpenShift Clusters: Vetting OpenShift Installations https://t.co/uMP4U2bHTa via @openshift
-
-----------------------------
-Go Code Review Comments https://t.co/G69vY9vdlk @golang #golang
 
 ----------------------------
 Go Code Review Comments https://t.co/G69vY9vdlk @golang #golang
@@ -5768,6 +6081,9 @@ Migration to Hugo https://t.co/geQJpn48Yc by @red_suraj
 When u have time, when u dont have crappy relationships to suck ur time invest in yourself,be a better person - @ContainsCafeine #sageadvice
 
 ----------------------------
+When u have time, when u dont have crappy relationships to suck ur time invest in yourself,be a better person - @ContainsCafeine #sageadvice
+
+----------------------------
 Pycharm, export file watchers, Share a same File watchers between all my projects https://t.co/2Hp92NOi3z
 
 ----------------------------
@@ -6015,9 +6331,6 @@ Got my Red Hat tattoo at #devconf Thanks @redhatopen https://t.co/LnpJ1dWmO7
 
 ----------------------------
 Kernel has no concept of containers, containers are like Santa Claus everyone has their own concept of containers -… https://t.co/0g0gquaKHA
-
-----------------------------
-3d printing at @fedora booth in @devconf_cz #devconfcz #fedora https://t.co/R0WRoTThQD
 
 ----------------------------
 3d printing at @fedora booth in @devconf_cz #devconfcz #fedora https://t.co/R0WRoTThQD
@@ -6473,6 +6786,10 @@ Using vimdiff as your git diff tool.
 https://t.co/27KnjdMFXl
 
 ----------------------------
+Using vimdiff as your git diff tool.
+https://t.co/27KnjdMFXl
+
+----------------------------
 find who made a specific change:
 ```
 git blame &lt;filename&gt;
@@ -6723,9 +7040,6 @@ RT @opensourceway: How to ask technical questions to get quality answers https:/
 
 ----------------------------
 3 Reasons I Should Build My Containerized Applications on RHEL and OpenShift https://t.co/8SXH52i462 via @rhdevelopers
-
-----------------------------
-The Dirty Cow Linux bug: A silly name for a serious problem https://t.co/ZFa9lnS0ev via @ZDNet &amp; @sjvn
 
 ----------------------------
 The Dirty Cow Linux bug: A silly name for a serious problem https://t.co/ZFa9lnS0ev via @ZDNet &amp; @sjvn
@@ -7157,6 +7471,9 @@ RT @neependra: @surajd_ from @RedHatAtomic is talking about @kubernetesio 1.3 fe
 RT @ContainsCafeine: What's new and shiny with Kubernetes? Explains @surajd_ at #Kubernetes meetup, Bangalore! https://t.co/gYSDO6fAhJ
 
 ----------------------------
+RT @ContainsCafeine: What's new and shiny with Kubernetes? Explains @surajd_ at #Kubernetes meetup, Bangalore! https://t.co/gYSDO6fAhJ
+
+----------------------------
 RT @RedHatNews: Big win for #opensource, #RedHat named 25th most innovative company in the world! @Forbes https://t.co/G4qWe4X4YT https://t…
 
 ----------------------------
@@ -7434,10 +7751,6 @@ Digital Ocean meetup Bangalore @adityapatawari talking about @ansible @digitaloc
 
 ----------------------------
 Container Design Patterns https://t.co/GiqdYgqnX9
-
-----------------------------
-KubeCon 'Application Development on a Cloud-Native Platform' by @smarterclayton #kubernetes #openshift
-Video: https://t.co/hbIz3phZ8P
 
 ----------------------------
 KubeCon 'Application Development on a Cloud-Native Platform' by @smarterclayton #kubernetes #openshift
@@ -7900,6 +8213,9 @@ RT @quayio: Benefits of torrenting: Using BitTorrent with containers and Quay #C
 RT @cdmwebs: @bcardarella https://t.co/eHlHqVWpo6
 
 ----------------------------
+RT @cdmwebs: @bcardarella https://t.co/eHlHqVWpo6
+
+----------------------------
 Docker Networking and DNS: The Good, The Bad, And The Ugly https://t.co/3zIxYDC25r via @vfarcic
 
 ----------------------------
@@ -8179,10 +8495,6 @@ RT @RedHatNews: Red Hat ❤ developers. Have you joined the new @rhdevelopers pr
 
 ----------------------------
 RT @nixcraft: LOL. Yes. Jail all fat a$$ process ;) Via https://t.co/IYk50bh6ua #sysadmin #linux #docker #IT https://t.co/njWwxrc0ap
-
-----------------------------
-Dropbox Uploader - Great tool to Upload files from Commandline to Dropbox
-https://t.co/KfLoWGarJj
 
 ----------------------------
 Dropbox Uploader - Great tool to Upload files from Commandline to Dropbox
@@ -8624,6 +8936,10 @@ Journey of packets explained nicely in various scenario by @rossella_s_
 I Cant Ping My VM Learn How to Debug Neutron https://t.co/SHiFmePiOe
 
 ----------------------------
+Journey of packets explained nicely in various scenario by @rossella_s_
+I Cant Ping My VM Learn How to Debug Neutron https://t.co/SHiFmePiOe
+
+----------------------------
 New Documentary Encouraging Girls to Code Debuts for Free on YouTube https://t.co/HzrSt67m6S
 
 ----------------------------
@@ -8823,6 +9139,9 @@ Install Sublime Text 3 on almost any Linux
 http://t.co/09Ir95Ez61
 
 ----------------------------
+RT @DhritiShikhar: PyCon India 2015 https://t.co/1Nlt8XGvo6 http://t.co/oolDANEoSf
+
+----------------------------
 My Experiences at #PyconIndia 2015 http://t.co/tttp5DvwVW via @wordpressdotcom
 
 ----------------------------
@@ -8872,9 +9191,6 @@ Scapy – Network Packet Crafting Tool | PyCon India 2015 poster session https:/
 
 ----------------------------
 Setting up Developer Environment for Scapy http://t.co/DViBNdLlK5 via @wordpressdotcom
-
-----------------------------
-Generate QR code for URL using http://t.co/5aDfnMS8qT and scan it using application https://t.co/viCyLsEo1P
 
 ----------------------------
 Generate QR code for URL using http://t.co/5aDfnMS8qT and scan it using application https://t.co/viCyLsEo1P
@@ -9233,6 +9549,9 @@ Learn Python - Free Interactive Python Tutorial: http://t.co/JNaKjXboq4
 @clubhack is clubhack Pune community active? If yes how often do you meet? What else happen at meetup?
 
 ----------------------------
+RT @DhritiShikhar: Pune Python Meetup - March 2015 http://t.co/xuebnSfNv1
+
+----------------------------
 My first contribution to an open source  project http://t.co/7GcKfBxSmn via @wordpressdotcom
 
 ----------------------------
@@ -9343,6 +9662,9 @@ Anonymous Web Scraping using Python and Tor http://t.co/QDL15dM8vc via @wordpres
 ----------------------------
 Activity log manager nice tool for Ubuntu to clear clutter
 http://t.co/nxy6WKAi6f
+
+----------------------------
+My @Quora answer to Why is it better to have Unix? http://t.co/ac9zzG9ZaX
 
 ----------------------------
 My @Quora answer to Why is it better to have Unix? http://t.co/ac9zzG9ZaX
