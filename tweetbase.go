@@ -108,6 +108,7 @@ func main() {
 
 	for _, t := range tweets {
 		fmt.Printf("\n----------------------------\n%s\n", t.Text)
+		fmt.Printf("URL: https://twitter.com/surajd_/status/%s\n", t.IDStr)
 	}
 
 }
