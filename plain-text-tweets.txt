@@ -1,5 +1,916 @@
 
 ----------------------------
+@mehulved Bagheera
+URL: https://twitter.com/surajd_/status/1337261257875812352
+
+----------------------------
+RT @Oprah: Did y’all know that me and former President @BarackObama weren’t even in the same room for this interview? He was in D.C. and I…
+URL: https://twitter.com/surajd_/status/1337251226535174145
+
+----------------------------
+The Buffett Formula: Going to Bed Smarter Than When You Woke Up ⁦@farnamstreet⁩  https://t.co/ovoFsa322Q
+URL: https://twitter.com/surajd_/status/1337228790225723392
+
+----------------------------
+The Most Effective Way to Retain What You Read ⁦@farnamstreet⁩  https://t.co/womgrQpYoD
+URL: https://twitter.com/surajd_/status/1337217290660507648
+
+----------------------------
+Schools Don’t Support Personal Development, They Distort It | by ⁦@maartenvdoorn⁩ | The Understanding Project https://t.co/pfhCBdyJcW
+URL: https://twitter.com/surajd_/status/1336995737536630786
+
+----------------------------
+Integrative Complexity (SOCIAL PSYCHOLOGY) - iResearchNet https://t.co/RQk1vJexRf
+URL: https://twitter.com/surajd_/status/1336992661371162624
+
+----------------------------
+@albcr @flatcar_linux Yep, that monospace formatting causes those problems. I did post in monospace because twitter… https://t.co/MMAnydckeW
+URL: https://twitter.com/surajd_/status/1336923665531748352
+
+----------------------------
+TIL about @gmail Gmail: If you say in a mail, "I have attached document ..." and if you forget to attach and premat… https://t.co/zy1QKSmIm9
+URL: https://twitter.com/surajd_/status/1336918043276967937
+
+----------------------------
+@j_lieb @flatcar_linux Haha you got me 🤣
+URL: https://twitter.com/surajd_/status/1336667530719502336
+
+----------------------------
+Find the file system layout on the latest stable @flatcar_linux:
+
+```
+curl https://t.co/O9iWU0r0ws
+```
+
+Replace the… https://t.co/nF3vDYzW3L
+URL: https://twitter.com/surajd_/status/1336627140565946368
+
+----------------------------
+TFS @ThiloFM 🙌 https://t.co/wH6WdGFVfM
+URL: https://twitter.com/surajd_/status/1336617114082267138
+
+----------------------------
+Replace 𝚌𝚞𝚛𝚛𝚎𝚗𝚝 with specific version, like 𝟸𝟼𝟶𝟻.𝟿.𝟶, if you are running different "stable" version.
+URL: https://twitter.com/surajd_/status/1336614886730727425
+
+----------------------------
+Wanna find all the packages installed in latest @flatcar_linux ?
+
+𝚌𝚞𝚛𝚕 𝚑𝚝𝚝𝚙𝚜://𝚜𝚝𝚊𝚋𝚕𝚎.𝚛𝚎𝚕𝚎𝚊𝚜𝚎.𝚏𝚕𝚊𝚝𝚌𝚊𝚛-𝚕𝚒𝚗𝚞𝚡.𝚗𝚎𝚝/𝚊𝚖𝚍… https://t.co/NM8ZhdPGBs
+URL: https://twitter.com/surajd_/status/1336614523252326402
+
+----------------------------
+@ShaneAParrish Getting things done by David Allen.
+URL: https://twitter.com/surajd_/status/1336565349592928256
+
+----------------------------
+RT @andrew_randall: CN: Blatant favor request. Normal shitposting will resume shortly.
+If you're using @flatcar_linux in @Azure... it would…
+URL: https://twitter.com/surajd_/status/1336508878050131970
+
+----------------------------
+RT @ProfFeynman: • Work hard.
+• What others think of you is none of your business.
+• It's OK not to have all the answers.
+• Experiment, Fai…
+URL: https://twitter.com/surajd_/status/1336508035984805889
+
+----------------------------
+#github went dark https://t.co/YGaXr5trbW https://t.co/kUd38vWByK
+URL: https://twitter.com/surajd_/status/1336371689739878406
+
+----------------------------
+@ThiloFM I believe small D would be safer option.
+URL: https://twitter.com/surajd_/status/1335928457541259266
+
+----------------------------
+I just used https://t.co/PNbimz7e5T @carbon_app to create this beautiful screenshot: https://t.co/Qx8d4CiU3V
+URL: https://twitter.com/surajd_/status/1335924778981474304
+
+----------------------------
+Delete old branches in #git.
+
+𝚐𝚒𝚝 𝚋𝚛𝚊𝚗𝚌𝚑 -𝙳 $(𝚐𝚒𝚝 𝚋𝚛𝚊𝚗𝚌𝚑 --𝚖𝚎𝚛𝚐𝚎𝚍 𝚖𝚊𝚜𝚝𝚎𝚛 | 𝚐𝚛𝚎𝚙 -𝚟 𝚖𝚊𝚜𝚝𝚎𝚛) https://t.co/PxbUiJE3dt
+URL: https://twitter.com/surajd_/status/1335922261212028928
+
+----------------------------
+4/4
+
+- Go to sleep with a question in mind and you will have solution, answered by your sub-conscious in the morning.
+URL: https://twitter.com/surajd_/status/1335910043091259394
+
+----------------------------
+3/4
+
+- Use mind mapping tools to create mental models. (Miro is one such tool).
+- Start with why, when reading a bo… https://t.co/j0v0hwSBYt
+URL: https://twitter.com/surajd_/status/1335910006550454272
+
+----------------------------
+2/4
+
+- Whatever you read, you will forget overtime unless you remember the mental models and fundamentals.
+- Things… https://t.co/JuVHj59Suo
+URL: https://twitter.com/surajd_/status/1335909953152827392
+
+----------------------------
+Some notes ^^
+
+1/4
+
+- Ensure that you understand the fundamentals of anything that you are reading. The fundamental… https://t.co/EtOROxTK20
+URL: https://twitter.com/surajd_/status/1335909907686543363
+
+----------------------------
+The Complete Guide to Effective Reading by ⁦@maartenvdoorn⁩  https://t.co/zGhjhGlLnJ
+URL: https://twitter.com/surajd_/status/1335905588832681989
+
+----------------------------
+RT @newsycombinator: How I read books: a guide on how to learn https://t.co/pYrZadVAi0
+URL: https://twitter.com/surajd_/status/1335889458638426112
+
+----------------------------
+RT @bbcnewsmarathi: डॉ. बाबासाहेब आंबेडकर यांनी 6 डिसेंबर 1956 रोजी दिल्लीतल्या ज्या घरी अखेरचा श्वास घेतला तिथं आता राष्ट्रीय स्मारक तयार…
+URL: https://twitter.com/surajd_/status/1335473850297937921
+
+----------------------------
+@indradhanush92 The trial shows “willingness” to accept criticism and make amends. The willingness is lacking .
+URL: https://twitter.com/surajd_/status/1335472781987737604
+
+----------------------------
+This teacher used QR code to encode educational content and won best teacher competition. In these difficult times… https://t.co/GdPqxwKCye
+URL: https://twitter.com/surajd_/status/1335086175950815233
+
+----------------------------
+4/4
+
+- Humans have been enslaved by the stories they have created since the dawn of modern human kind.
+
+- Don't dis… https://t.co/uhb9jJYOaX
+URL: https://twitter.com/surajd_/status/1335082383339450373
+
+----------------------------
+3/4
+- Corporations are imaginary story that everyone has agreed to believe in. Only humans can fathom it, non-human… https://t.co/fjbMQ1aHcX
+URL: https://twitter.com/surajd_/status/1335082335444717571
+
+----------------------------
+2/4
+- Any platform/medium that spreads information is capable of spreading truth and conspiracies alike. This has b… https://t.co/OiRpaXno0E
+URL: https://twitter.com/surajd_/status/1335082299516284929
+
+----------------------------
+1/4
+Some notes from this awesome podcast (@GatesNotes):
+
+- Religions aren't deliberate lies but fiction. It is not… https://t.co/UgvdTbBK5K
+URL: https://twitter.com/surajd_/status/1335082243182612480
+
+----------------------------
+RT @nytimes: The police in India have made their first arrest under a new anti-conversion law. The law was passed to address accusations by…
+URL: https://twitter.com/surajd_/status/1334803286147272707
+
+----------------------------
+RT @1ndus: TIL: This is such a brilliant initiative to capture the oral history of the 1947 Partition of India! 
+
+Started here in the SF Ba…
+URL: https://twitter.com/surajd_/status/1334788318630842368
+
+----------------------------
+@ramkrsna Hehe 😜
+URL: https://twitter.com/surajd_/status/1334754102748672000
+
+----------------------------
+Taj of Deccan from Aurangabad (Buddha) caves. https://t.co/9VdcMfbo83
+URL: https://twitter.com/surajd_/status/1334682776717541377
+
+----------------------------
+RT @ShaneAParrish: If you're not seeking approval, they have no power.
+URL: https://twitter.com/surajd_/status/1334649930997092353
+
+----------------------------
+RT @k8sBLR: Join us on 15th of this month. https://t.co/EI9Y4c4Osf
+
+Topics ranging from the secret management tool Vault to your AI/ML work…
+URL: https://twitter.com/surajd_/status/1334348120092594176
+
+----------------------------
+RT @ProfFeynman: You're under no obligation to remain the same person you were a year ago, a month ago, or even a day ago. You are here to…
+URL: https://twitter.com/surajd_/status/1334344285747961858
+
+----------------------------
+Finally @Twitter started flagging Indian propagandists!
+
+👏 @TwitterIndia https://t.co/3WPdszAHTt
+URL: https://twitter.com/surajd_/status/1334095995735396356
+
+----------------------------
+@_swanand On similar lines: https://t.co/9Y6FTzUt5m
+URL: https://twitter.com/surajd_/status/1334020368269393920
+
+----------------------------
+Flatcar Container #Linux (@flatcar_linux) Moves Beyond CoreOS Roots with Commercial Editions  https://t.co/PQAaIUU7RX
+URL: https://twitter.com/surajd_/status/1333776690925821952
+
+----------------------------
+RT @iamdevloper: via @DT_comic https://t.co/AKBta1R76Z
+URL: https://twitter.com/surajd_/status/1333754487694008325
+
+----------------------------
+RT @scroll_in: He spent 50 years and India. At times, he would shuttle between Delhi and Beijing with messages of goodwill even as the stor…
+URL: https://twitter.com/surajd_/status/1333639570705895424
+
+----------------------------
+India’s diminishing democracy - Narendra Modi threatens to turn India into a one-party state | Briefing | The Econo… https://t.co/h6Y6Cz8Wn8
+URL: https://twitter.com/surajd_/status/1333453894194655233
+
+----------------------------
+RT @dhruv_rathee: Look how all indicators of Democracy, freedom, rule of law have been falling down after 2014. 
+
+The last time situation w…
+URL: https://twitter.com/surajd_/status/1333446280517808131
+
+----------------------------
+@bargava - Stackexchange Blackbox
+- Bitwarden
+URL: https://twitter.com/surajd_/status/1333328433007378437
+
+----------------------------
+India Has Not Reported 3.4 Million Covid Cases - NDTV https://t.co/DCfsiNDHst
+URL: https://twitter.com/surajd_/status/1333311098582286336
+
+----------------------------
+RT @nytimes: Here are the 10 Best Books of 2020, selected by the editors of The New York Times Book Review. https://t.co/8ZkicvyziW
+URL: https://twitter.com/surajd_/status/1333274629591363588
+
+----------------------------
+cc: @ajaylinge
+URL: https://twitter.com/surajd_/status/1332928034437885954
+
+----------------------------
+🚲 to Daulatabad fort. https://t.co/IOIoqQS5O4
+URL: https://twitter.com/surajd_/status/1332927480038998016
+
+----------------------------
+A good compromise between space suit and an uncomfortable 😷! https://t.co/uiF8dK81ao
+URL: https://twitter.com/surajd_/status/1332711422736752642
+
+----------------------------
+kakorrhaphiophobia: abnormal fear of failure
+URL: https://twitter.com/surajd_/status/1332628142666653699
+
+----------------------------
+The formula for duration:
+
+- 𝚍𝚞𝚛𝚊𝚝𝚒𝚘𝚗 (𝚒𝚗 𝚜𝚎𝚌𝚘𝚗𝚍𝚜) = 𝚗𝚞𝚖-𝚌𝚘𝚗𝚗 / 𝚛𝚊𝚝𝚎
+- 𝟷𝟸𝟶𝟶𝟶𝟶𝟶 / 𝟺𝟶𝟶𝟶 = 𝟹𝟶𝟶 𝚜𝚎𝚌
+URL: https://twitter.com/surajd_/status/1332302715066544128
+
+----------------------------
+httperf starter: https://t.co/Lo6Qv2hE6p
+
+$ 𝚑𝚝𝚝𝚙𝚎𝚛𝚏 --𝚑𝚘𝚐 --𝚜𝚎𝚛𝚟𝚎𝚛 &lt;𝚎𝚗𝚍𝚙𝚘𝚒𝚗𝚝&gt; --𝚞𝚛𝚒 "/" --𝚗𝚞𝚖-𝚌𝚘𝚗𝚗 𝟷𝟸𝟶𝟶𝟶𝟶𝟶 --𝚗𝚞𝚖-𝚌𝚊… https://t.co/ZowHLlmnp1
+URL: https://twitter.com/surajd_/status/1332302641083269126
+
+----------------------------
+RT @techinsider: This Hydro-wheel pumps water to villages https://t.co/4TxvdRJiRH
+URL: https://twitter.com/surajd_/status/1331983513957011462
+
+----------------------------
+RT @yudocaa: Yaaas! 🏠We are looking for a flatmate in a 3BHK flat in a well-known gated society in Domlur/Indiranagar #Bangalore. The flat…
+URL: https://twitter.com/surajd_/status/1331933554381451265
+
+----------------------------
+RT @ProfFeynman: The problem is not you being uneducated.
+The problem is that you are educated just enough to believe what you have been ta…
+URL: https://twitter.com/surajd_/status/1331476790062182400
+
+----------------------------
+RT @nytimes: An on-screen kiss between two college students in love — one a Muslim and the other Hindu — has entangled Netflix in India’s r…
+URL: https://twitter.com/surajd_/status/1331116233782018049
+
+----------------------------
+The Rise and Fall of Getting Things Done https://t.co/pcmBKc1YYX  @NewYorker
+URL: https://twitter.com/surajd_/status/1331081740857741312
+
+----------------------------
+RT @ProfFeynman: • See failure as a beginning.
+• Never stop learning.
+• Assume nothing, question everything.
+• Teach others what you know.…
+URL: https://twitter.com/surajd_/status/1330855818862858240
+
+----------------------------
+@LinkedInIndia Transparency
+URL: https://twitter.com/surajd_/status/1330776673508237312
+
+----------------------------
+@rajat404 https://t.co/vCRmKtyztG
+URL: https://twitter.com/surajd_/status/1330775615658618881
+
+----------------------------
+@rajat404 * app’s
+URL: https://twitter.com/surajd_/status/1330774129067192326
+
+----------------------------
+@rajat404 That’s weird because the link says “GLOBAL” and I was able to open it in Twitter apps browser view. https://t.co/1Xuo97oMoN
+URL: https://twitter.com/surajd_/status/1330774053511069697
+
+----------------------------
+RT @IrenaBuzarewicz: 2020 https://t.co/ymbfk25Jf5
+URL: https://twitter.com/surajd_/status/1330766608931819522
+
+----------------------------
+If you are tired &amp; frustrated by #docker hub throttling your CI and you haven't found solution yet. Here is a disco… https://t.co/oVUPRbgC1S
+URL: https://twitter.com/surajd_/status/1330766318593667073
+
+----------------------------
+@martinkl Updates on your book, any new insights, your new projects, your approach to research and information gathering, etc.
+URL: https://twitter.com/surajd_/status/1330536339595350017
+
+----------------------------
+RT @JamesClear: A simple question that can deliver  powerful results if taken seriously:
+
+What is the highest leverage action I can execute…
+URL: https://twitter.com/surajd_/status/1330536030106054661
+
+----------------------------
+Let us C - Yashwant Kanetkar https://t.co/69fZaSs2yg
+URL: https://twitter.com/surajd_/status/1330380514377703425
+
+----------------------------
+RT @kinvolkio: Don't miss building #Linux distributions for fun and profit with @kinvolkio's Staff Software Engineer @marga_manterola today…
+URL: https://twitter.com/surajd_/status/1329767105206489088
+
+----------------------------
+This too shall pass. https://t.co/73mKU1DcJS
+URL: https://twitter.com/surajd_/status/1329766991683411969
+
+----------------------------
+RT @BrutIndia: Upon reaching the US in 1928, this is how the great Sarojini Naidu introduced herself. https://t.co/Z6imCuwBIo
+URL: https://twitter.com/surajd_/status/1329741530798518279
+
+----------------------------
+Some more goodness about scrape duration and monitoring the duration itself, limiting the scrape sample for high vo… https://t.co/FWpmGHp6wP
+URL: https://twitter.com/surajd_/status/1329739746139021312
+
+----------------------------
+How long or short your scrape_interval for Prometheus should be? Is it worthwhile to modify scrape interval per app… https://t.co/OpSHL8PQ2X
+URL: https://twitter.com/surajd_/status/1329733542352281600
+
+----------------------------
+This is blasphemy https://t.co/oxi6tUZnhw
+URL: https://twitter.com/surajd_/status/1329672072306388992
+
+----------------------------
+RT @penpencildraw: Cow cabinet. https://t.co/gSSH7YJbzF
+URL: https://twitter.com/surajd_/status/1329444317186969605
+
+----------------------------
+How India is transforming towards authoritarianism | DW Analysis https://t.co/ZYwaG1NaKX
+URL: https://twitter.com/surajd_/status/1329365139288596480
+
+----------------------------
+3 Remote Productivity Hacks We Wish We Knew: Mattermost's Journey https://t.co/tcv7t6nHbx
+URL: https://twitter.com/surajd_/status/1329239115452219392
+
+----------------------------
+@pradeepto Be ready to be disappointed!
+URL: https://twitter.com/surajd_/status/1329081447781580802
+
+----------------------------
+@RiRa12621 @aditya_konarde https://t.co/15egq2GaRt
+URL: https://twitter.com/surajd_/status/1328952463429398530
+
+----------------------------
+The Day You Became A Better Writer
+
+Some really good nuggets in this post about writing clearly in a business setti… https://t.co/v3gCOJSTgd
+URL: https://twitter.com/surajd_/status/1328293664519380994
+
+----------------------------
+RT @ProfFeynman: Be careful when you follow the masses. Sometimes the M is silent.
+URL: https://twitter.com/surajd_/status/1328145108793925632
+
+----------------------------
+This is a testimonial to @b0rk’s awesomeness!
+
+I haven’t seen many products/services (except the large streaming we… https://t.co/JME6tCPLHv
+URL: https://twitter.com/surajd_/status/1327920632579772416
+
+----------------------------
+RT @martinkl: Over 100,000 copies of my book @intensivedata have now been sold. In this blog post I examine some of the economics of book-w…
+URL: https://twitter.com/surajd_/status/1327781987155787776
+
+----------------------------
+Happy Diwali 🪔 folks!
+
+May your life lighten up from the darkness of the recent past. https://t.co/yt8KTepVFG
+URL: https://twitter.com/surajd_/status/1327599872564858881
+
+----------------------------
+@raydeeam @Apple It’s fast only when it works 🤣
+URL: https://twitter.com/surajd_/status/1327276674044416001
+
+----------------------------
+India didn’t make it to the list of “demagogue-led-countries”?
+
+Is there a threshold to cross before we make it to… https://t.co/nVbJew2NfN
+URL: https://twitter.com/surajd_/status/1326852394957697035
+
+----------------------------
+Tagore would definitely be disappointed by the self appointed “nationalists”. https://t.co/5F9dam198m https://t.co/YEBWpVd5Yd
+URL: https://twitter.com/surajd_/status/1326488466297774080
+
+----------------------------
+RT @thingskatedid: 💡FAQ about displaying stuff in a terminal https://t.co/XQBOezyJAx
+URL: https://twitter.com/surajd_/status/1326483922562154497
+
+----------------------------
+@blixtra Because the first releases are always buggy? 😜
+URL: https://twitter.com/surajd_/status/1326435872737144832
+
+----------------------------
+RT @HuffPostIndia: The UN human rights chief pointed to three “problematic” laws in India that have variously tightened restrictions on NGO…
+URL: https://twitter.com/surajd_/status/1326366434943905792
+
+----------------------------
+@NCResq I think thoughts are more fluid to be bound by a Kanban cards. Some people use @RoamResearch to collect net… https://t.co/3SQSFgFJaA
+URL: https://twitter.com/surajd_/status/1326114311463264256
+
+----------------------------
+How To Take Smart Notes: 10 Principles to Revolutionize Your Note-Taking and Writing https://t.co/6rtZmP0dVy via @fortelabs
+URL: https://twitter.com/surajd_/status/1326091564926423042
+
+----------------------------
+RT @epw_in: The author tries to bring out the urban narrative of the movie Parasite using Giroux’s concept of the “biopolitics of disposabi…
+URL: https://twitter.com/surajd_/status/1325767939543367681
+
+----------------------------
+@aditya_konarde Even if the connectivity is provided via standard ports, but at the software level the photos are n… https://t.co/y93OBGpIAg
+URL: https://twitter.com/surajd_/status/1325469758788022272
+
+----------------------------
+Ugh ☹️ https://t.co/ktm7mukQqC
+URL: https://twitter.com/surajd_/status/1325419892221247491
+
+----------------------------
+@aditya_konarde It’s futile to expect specific details. Just rely on the benchmarks folks have done.
+URL: https://twitter.com/surajd_/status/1325419144309735424
+
+----------------------------
+@sathishvj Came back to native place Aurangabad 🙃
+URL: https://twitter.com/surajd_/status/1325056142637101056
+
+----------------------------
+@knrt_10 Yep leaving Bangalore for the near future!
+URL: https://twitter.com/surajd_/status/1324930718028365825
+
+----------------------------
+Adios, garden city! https://t.co/PFIylNA7nI
+URL: https://twitter.com/surajd_/status/1324847533017894912
+
+----------------------------
+RT @k8sBLR: What metrics exporters are to the Prometheus, similarly custom autoscalers to KEDA, learn more about it in the ongoing talk in…
+URL: https://twitter.com/surajd_/status/1324723340406267904
+
+----------------------------
+RT @k8sBLR: How to go beyond the alertmanager's alert and automate the actions to take by @RaviHari2 https://t.co/b9Nrzd0GC5
+URL: https://twitter.com/surajd_/status/1324710511032770560
+
+----------------------------
+RT @k8sBLR: Project Active Monitor being explained by @RaviHari2 https://t.co/a6DQjHqA4X
+URL: https://twitter.com/surajd_/status/1324710482587000837
+
+----------------------------
+RT @k8sBLR: Deep monitoring and self healing in Kubernetes by @RaviHari2 in today's #kubernetes meetup. Join us live here: https://t.co/Kza…
+URL: https://twitter.com/surajd_/status/1324707486322941953
+
+----------------------------
+RT @golang: 🥳 Go 1.15.4 and 1.14.11 are released!
+
+🗣 Announcement: https://t.co/DzrOQlTBwU
+
+📦 Download: https://t.co/abkmwkugM7
+
+#golang ht…
+URL: https://twitter.com/surajd_/status/1324679623385309185
+
+----------------------------
+RT @PCMag: Authentication via face-scanning is a terrible idea. https://t.co/Zk4pdeoZB7
+URL: https://twitter.com/surajd_/status/1324324706787315714
+
+----------------------------
+RT @mipsytipsy: questionable advice: "i'm the most senior engineer at my company, i spend all my time unblocking others instead of writing…
+URL: https://twitter.com/surajd_/status/1323680147065638912
+
+----------------------------
+@noelgeorgi One was added later and other was kept because the pod spec is v1 already.
+URL: https://twitter.com/surajd_/status/1323599441387900928
+
+----------------------------
+TIL: #kubernetes
+If you have a deployment on the cluster and if you edit it (using 𝚔𝚞𝚋𝚎𝚌𝚝𝚕 𝚎𝚍𝚒𝚝) on the fly and onl… https://t.co/FgbgTyCOR1
+URL: https://twitter.com/surajd_/status/1323587885119930368
+
+----------------------------
+@RajePranit Congratulations 🥳
+URL: https://twitter.com/surajd_/status/1323311931256528897
+
+----------------------------
+@NagendraManne @andrew_randall Ah, maybe it is available on @softwarecircus website.
+URL: https://twitter.com/surajd_/status/1322848202924568579
+
+----------------------------
+RT @k8sBLR: We are doing a meetup next friday. Join us live or set a reminder on youtube: https://t.co/Kza9qq5tX9
+
+More details: https://t.…
+URL: https://twitter.com/surajd_/status/1322117626395385856
+
+----------------------------
+Security in #kubernetes from the perspective of ghosts and angels. This is the most fun talk I have watched in a wh… https://t.co/9SofN9VEih
+URL: https://twitter.com/surajd_/status/1322078129305788417
+
+----------------------------
+RT @tferriss: NEW podcast episode is up! 
+
+"Yuval Noah Harari (@harari_yuval) on The Story of Sapiens, The Power of Awareness, and The Bril…
+URL: https://twitter.com/surajd_/status/1322061150868041728
+
+----------------------------
+@akothari @NotionHQ I am guessing the efforts behind that 2 week course maybe certainly of few months with insights of many years.
+URL: https://twitter.com/surajd_/status/1321807833784963072
+
+----------------------------
+@vinitkme What book is this?
+URL: https://twitter.com/surajd_/status/1321706868176166912
+
+----------------------------
+I like the way #kubernetes tools now incorporate upcoming changes in the CLI:
+𝚆𝙰𝚁𝙽𝙸𝙽𝙶: "𝚔𝚞𝚋𝚎𝚛𝚗𝚎𝚝𝚎𝚜-𝚌𝚑𝚊𝚛𝚝𝚜.𝚜𝚝𝚘𝚛𝚊𝚐𝚎.𝚐… https://t.co/trUSPrrN67
+URL: https://twitter.com/surajd_/status/1321706376448544768
+
+----------------------------
+RT @epw_in: The challenge is to convince the silent majority of India which is either not unduly bothered about the threat posed by Hindutv…
+URL: https://twitter.com/surajd_/status/1321632743399198722
+
+----------------------------
+Cassandra should’ve been the name of an alerting solution than a distributed database 😅 https://t.co/uoRniDhej8
+URL: https://twitter.com/surajd_/status/1321503038004023302
+
+----------------------------
+RT @bbcnewsmarathi: संसदेतील लोकसभेच्या सभागृहात हा नेता शिरल्यानंतर सत्ताधारी बाकांवरील नेत्यांना घाम फुटत असे, की आज कुणाला धारेवर धरणार?…
+URL: https://twitter.com/surajd_/status/1321054206422249472
+
+----------------------------
+💯 https://t.co/u9TAsqvoqR
+URL: https://twitter.com/surajd_/status/1320634974135988224
+
+----------------------------
+@agarwalpacker You have shittiest service ever. Your customer service can't even generate a quotation within the pr… https://t.co/T2SuGrbwO6
+URL: https://twitter.com/surajd_/status/1320624458139226112
+
+----------------------------
+RT @epw_in: #EPWDistilled: Why are the upper castes enabled to think of themselves as "casteless," while the lower castes are forced to int…
+URL: https://twitter.com/surajd_/status/1320586062956146689
+
+----------------------------
+RT @techinsider: This is what it's like to get laser eye surgery https://t.co/ofKCrZoJYV
+URL: https://twitter.com/surajd_/status/1320002596652789760
+
+----------------------------
+RT @BiIndia: Light box therapy: How to combat seasonal #depression with the power of light 
+
+https://t.co/WJhlfEwlIF https://t.co/hdiZsQcy8X
+URL: https://twitter.com/surajd_/status/1319998755228143617
+
+----------------------------
+@darshanime @tom_wilkie @_codesome @grafana I read that as a single word, “Lota”.
+URL: https://twitter.com/surajd_/status/1319890343806996485
+
+----------------------------
+@dims तथास्तु ✋
+URL: https://twitter.com/surajd_/status/1319700851535998976
+
+----------------------------
+@MelanieCebula @rothgar Designing Data Intensive Applications.
+URL: https://twitter.com/surajd_/status/1319696729822744577
+
+----------------------------
+🙌 https://t.co/d99KI4GMOC
+URL: https://twitter.com/surajd_/status/1319655301772001281
+
+----------------------------
+@red_suraj @JCBmachines @JCBIndiaLtd can do that :D
+URL: https://twitter.com/surajd_/status/1319580466559660035
+
+----------------------------
+RT @k8sBLR: Join us for the Nov iteration of our online meetup, RSVP here: https://t.co/su2HfrgBGc
+(Date is 6th Nov, 7PM IST / 3.30PM CEST…
+URL: https://twitter.com/surajd_/status/1319235752379600896
+
+----------------------------
+RT @the_hindu: “If the focus (under #AatmaNirbharBharat initiative) is on import substitution by erecting tariffs, which we have done lot o…
+URL: https://twitter.com/surajd_/status/1319192029029515264
+
+----------------------------
+The Collector’s Fallacy by @ctietze 
+
+- Reading is not learning.
+- To learn you need a mechanism to assimilate the… https://t.co/l3t5UGNQIo
+URL: https://twitter.com/surajd_/status/1318957058964688897
+
+----------------------------
+@kausv @ankitdaf I will recommend, of course: https://t.co/do2J5cC5eY
+URL: https://twitter.com/surajd_/status/1318948193074180096
+
+----------------------------
+"Indian media, at present is at such a point where they have to choose to be subservient as part of their survival.… https://t.co/A7AOOvRuWF
+URL: https://twitter.com/surajd_/status/1318894111370268675
+
+----------------------------
+Zettelkasten — How One German Scholar Was So Freakishly Productive by @davidbclear in @writingcoop https://t.co/dcuriMNwot
+URL: https://twitter.com/surajd_/status/1318819797459554304
+
+----------------------------
+@kelseyhightower Kelsey would’ve said, “It’s dope”!
+URL: https://twitter.com/surajd_/status/1318616143439953922
+
+----------------------------
+RT @Appyg99: My first blogpost - How to waste your career, one comfortable year at a time https://t.co/WYCevY1Jpf
+URL: https://twitter.com/surajd_/status/1318085946743476225
+
+----------------------------
+@alexellisuk This looks super cool though!
+URL: https://twitter.com/surajd_/status/1317826423755661312
+
+----------------------------
+Documentary "Germany and the Cold War" by DW
+
+1/2: https://t.co/j3chJASZL2
+2/2: https://t.co/lwmZaDrtBW
+URL: https://twitter.com/surajd_/status/1317426709281427456
+
+----------------------------
+RT @b0rk: ${...}: how to do string operations in bash 
+
+permalink: https://t.co/6lJmoE8I2B https://t.co/b40jt20HoI
+URL: https://twitter.com/surajd_/status/1317301283770880005
+
+----------------------------
+RT @olix0r: stable-2.9 is out of the oven and cooling on the sill. come on by and take a whiff!
+URL: https://twitter.com/surajd_/status/1316944850743341056
+
+----------------------------
+Kindle app is showing reading stats now.
+
+I wasn’t sure if there was any streak but lockdown and all helped I guess… https://t.co/RhEYQHIfAo
+URL: https://twitter.com/surajd_/status/1316596131359461377
+
+----------------------------
+The video for my talk in the #Berlin meetup is out! 🎉 https://t.co/HFYNTM6O3m
+URL: https://twitter.com/surajd_/status/1316320552806612992
+
+----------------------------
+- Don't create silver bullets, one size fits all, they work for nobody.
+
+TFS @red_suraj
+URL: https://twitter.com/surajd_/status/1316260717847142401
+
+----------------------------
+Some Insights:
+
+- Don't over simplify things for users, if you do you might leave no clue for your users as to why… https://t.co/R3UEOl47KG
+URL: https://twitter.com/surajd_/status/1316260394021711872
+
+----------------------------
+This blog by @ShaneAParrish is a must read for anyone designing products and services for humans to use. 
+https://t.co/2rAkgyW6JG
+URL: https://twitter.com/surajd_/status/1316260199229923328
+
+----------------------------
+RT @IanColdwater: https://t.co/HhsgGexyvo
+URL: https://twitter.com/surajd_/status/1316026818508419072
+
+----------------------------
+Check out my review of the book "Algorithms to Live By": https://t.co/tvqxb3rqxE
+URL: https://twitter.com/surajd_/status/1315277545516888065
+
+----------------------------
+s e t    - e u o    p i p e f a i l 
+
+FTW 🙌 I also put it above all my bash scripts!! https://t.co/bFLXibzjTc
+URL: https://twitter.com/surajd_/status/1315165460350955522
+
+----------------------------
+A blog about tools and techniques stop 🛑 websites tracking you over the web. How various browsers’ default settings… https://t.co/GpksHdcaRl
+URL: https://twitter.com/surajd_/status/1315164336524935169
+
+----------------------------
+@rajat404 Blue Dart supports door pickup now. Schedule it and they will come to collect.
+URL: https://twitter.com/surajd_/status/1314834451608657920
+
+----------------------------
+RT @ismonkeyuser: Reverse Turing Test (https://t.co/8T4vUabiEt) https://t.co/R4MdEaiael
+URL: https://twitter.com/surajd_/status/1314460945922449408
+
+----------------------------
+Found this profound image today, as they say a picture is worth thousand words.
+
+Source: https://t.co/0Sto7WWBTn https://t.co/zDGWH63Mob
+URL: https://twitter.com/surajd_/status/1314446583312785408
+
+----------------------------
+You Accomplished Something Great. So Now What? https://t.co/CLi2P0XqIO
+
+A great article on arrival fallacy.
+URL: https://twitter.com/surajd_/status/1314226232758734849
+
+----------------------------
+2/2
+
+... is not helpful in this case because you are looking at the host traffic and there is no way to distinguish… https://t.co/V1bvK8TCaC
+URL: https://twitter.com/surajd_/status/1314134329979817984
+
+----------------------------
+1/2
+
+If there is a pod using host network and if you are monitoring it to track its bandwidth (network usage/bytes… https://t.co/MMvi0yJkzY
+URL: https://twitter.com/surajd_/status/1314134206201487360
+
+----------------------------
+LF11 - Cohort Futures https://t.co/JS54IkSdzW
+URL: https://twitter.com/surajd_/status/1314099303225335808
+
+----------------------------
+RT @k8sBLR: .@neependra has started his talk about "Backing up your Kubernetes cluster and saving the state on Minio".
+
+Go to YT to watch:…
+URL: https://twitter.com/surajd_/status/1313843578095853568
+
+----------------------------
+RT @k8sBLR: .@nitisht_ has started talking about "Deployment Strategies for Minio" 
+
+Join us live here: https://t.co/QUT9aCnFue https://t.c…
+URL: https://twitter.com/surajd_/status/1313840672198205441
+
+----------------------------
+RT @k8sBLR: And we are live. https://t.co/LUaVH6znrS
+URL: https://twitter.com/surajd_/status/1313840648257118209
+
+----------------------------
+RT @k8sBLR: We are going live in 30 mins join us here 👇
+URL: https://twitter.com/surajd_/status/1313826875802677255
+
+----------------------------
+"Wat" - A lightning talk by @garybernhardt from CodeMash 2012
+
+This hilarious!!
+
+TFS: @andrew_randall
+URL: https://twitter.com/surajd_/status/1313755178747617281
+
+----------------------------
+RT @github: ProTip: You can quickly publish a public or private gist with GitHub CLI e.g.
+
+❯ gh gist create output.txt -d "Debugging info"…
+URL: https://twitter.com/surajd_/status/1313753440233820160
+
+----------------------------
+RT @b0rk: bash cheat sheet: what (), {}, $(()), $(), ${}, [], [[]] mean
+
+permalink: https://t.co/5KOFmzGz1g https://t.co/EF0Ew9NogQ
+URL: https://twitter.com/surajd_/status/1313753147714625536
+
+----------------------------
+@k8sBLR @nitisht_ @neependra @hashfyre not on weekends anymore 😹.
+
+Took few months to realise, but better late than never😸.
+URL: https://twitter.com/surajd_/status/1313731810254151680
+
+----------------------------
+RT @k8sBLR: Today's meetup is on the theme "Disaster Recovery in #Kubernetes" by @nitisht_ and @neependra at 7PM IST or 3.30PM CEST.
+
+Join…
+URL: https://twitter.com/surajd_/status/1313731490560106497
+
+----------------------------
+RT @Kurz_Gesagt: NEW VIDEO: When Time Became History - The Human Era
+
+https://t.co/EMgcnqjW95
+URL: https://twitter.com/surajd_/status/1313510427746136067
+
+----------------------------
+RT @jcderr: We do follow the sun support with three offices roughly 8-10 hours apart. In theory we have engineers available 24/7 during the…
+URL: https://twitter.com/surajd_/status/1313474842486878210
+
+----------------------------
+RT @paulocoelho: Never argue with a fool.
+People watching 
+may not be able 
+to tell the difference
+URL: https://twitter.com/surajd_/status/1312927901226987520
+
+----------------------------
+RT @Saptak013: #dgplug staircase meeting happened over video call this time. #PyConIndia2020 @pyconindia (blurred out the faces because I f…
+URL: https://twitter.com/surajd_/status/1312363291570708482
+
+----------------------------
+Whenever you find yourself on the side of the majority, it is time to pause and reflect. —MARK TWAIN
+URL: https://twitter.com/surajd_/status/1312352040106881024
+
+----------------------------
+TIL: @googledocs could be used as a lazy blogging platform.
+
+Very low barrier to entry in terms of publishing. The… https://t.co/nVhz8nxWnv
+URL: https://twitter.com/surajd_/status/1312328129315106818
+
+----------------------------
+Digital gardens let you cultivate your own little bit of the internet 
+
+TFS ⁦@augustbradley⁩  https://t.co/VxfCO2hR1T
+URL: https://twitter.com/surajd_/status/1312326902208557057
+
+----------------------------
+RT @xkcdComic: Masks https://t.co/eD8TjYbNs2 https://t.co/7Ezbi4ttn1 https://t.co/L77HiJ2Qw6
+URL: https://twitter.com/surajd_/status/1312231462549086208
+
+----------------------------
+Happy Birthday Bapu https://t.co/ZsfFWYG0Q7
+URL: https://twitter.com/surajd_/status/1311961577910751232
+
+----------------------------
+RT @skpodila: Every now and then, I just look at @lizandmollie’s feed because there is always something there that would be exactly what I…
+URL: https://twitter.com/surajd_/status/1311212408396865537
+
+----------------------------
+TFS the cool demo on this cool terminal @ThiloFM https://t.co/EygOkUpzd4
+URL: https://twitter.com/surajd_/status/1311000765331243008
+
+----------------------------
+I and @ThiloFM are talking about "Service Mesh Benchmark Framework".
+
+Join here: https://t.co/iOPHkk720o https://t.co/AJHUuDXI6N
+URL: https://twitter.com/surajd_/status/1310988350141079552
+
+----------------------------
+@BiIndia @SanchDash @BLRAirport Lol 😂 
+
+Rather use the tech to connect BLR to rest of the country. We can avoid thi… https://t.co/4bjp71PqYB
+URL: https://twitter.com/surajd_/status/1310933803985141760
+
+----------------------------
+RT @kinvolkio: Join us for Cloud Native Computing Berlin Meetup, where @kinvolkio's Director of OS and Security @ThiloFM and Senior Softwar…
+URL: https://twitter.com/surajd_/status/1310920228201619458
+
+----------------------------
+RT @lehrjulian: ~ New essay ~
+
+𝗜𝘀 𝘁𝗵𝗶𝘀 𝗿𝗲𝗮𝗹 𝗹𝗶𝗳𝗲? 🌓
+
+• We live in multiple realities
+• Why Silicon Valley is the new Hollywood
+• What socia…
+URL: https://twitter.com/surajd_/status/1310911297794367488
+
+----------------------------
+Similar views were presented by Swami Vivekanand in his Chennai speeches. The upper caste folks are/were responsibl… https://t.co/jX9KlCDSSp
+URL: https://twitter.com/surajd_/status/1310894966126698496
+
+----------------------------
+RT @amnesty: The continuing crackdown on @AIIndia over the last two years and the complete freezing of bank accounts is not accidental. Thi…
+URL: https://twitter.com/surajd_/status/1310856097603805184
+
+----------------------------
+RT @dhruv_rathee: "Merciless criticism and independent thinking are the two necessary traits of revolutionary thinking."
+
+- Bhagat Singh
+URL: https://twitter.com/surajd_/status/1310573139538055168
+
+----------------------------
+RT @vpavlin: Just found gtk-v4l package which allows you to tweak the video feed from your webcam...this is awesome (and packaged in @fedor…
+URL: https://twitter.com/surajd_/status/1310562640662392833
+
+----------------------------
+@red_suraj @aditya_konarde @dims hehe, beer(alcohol) ain't the solution for coffee induced insomnia:
+https://t.co/Vf0tmgX91v
+URL: https://twitter.com/surajd_/status/1310536011810631680
+
+----------------------------
+@aditya_konarde Caffeination 😉
+URL: https://twitter.com/surajd_/status/1310259094498938881
+
+----------------------------
+@dims This is cool :-) https://t.co/Y7YjsohyMA
+URL: https://twitter.com/surajd_/status/1310206479060795394
+
+----------------------------
+Origin of the word “Serendipity”. 
+
+Excerpts of the 📖 “Algorithms to live by” 👇 https://t.co/Ar23jeh5wE
+URL: https://twitter.com/surajd_/status/1310074399999946752
+
+----------------------------
 I liked this podcast from @dhruv_rathee talks about Indian governmental systems, history about them, why certain la… https://t.co/f0nnfgKcBS
 URL: https://twitter.com/surajd_/status/1308973769151705088
 
@@ -24,6 +935,10 @@ URL: https://twitter.com/surajd_/status/1308647958175391745
 ----------------------------
 @dims https://t.co/86yT6qeXad
 URL: https://twitter.com/surajd_/status/1308420109304819712
+
+----------------------------
+@dims Not sure if this ~decade old thing still exists on Mac https://t.co/tkhsqglPHa
+URL: https://twitter.com/surajd_/status/1308419534043389954
 
 ----------------------------
 @dims Not sure if this ~decade old thing still exists on Mac https://t.co/tkhsqglPHa
@@ -797,12 +1712,6 @@ When you are trying to give 𝚙𝚊𝚝𝚌𝚑 permission to a 𝚂𝚎𝚛�
 URL: https://twitter.com/surajd_/status/1283354799816060929
 
 ----------------------------
-RT @gonsalves_r: Where in India would you move to with the following constraints:
-1. Good connectivity (digital+physical) 📞+✈️
-2. Culturall…
-URL: https://twitter.com/surajd_/status/1283304923975741440
-
-----------------------------
 RT @kelseyhightower: While open source projects die over time their ideas and the code behind them don't have to. CoreOS Container Linux li…
 URL: https://twitter.com/surajd_/status/1283282183365357569
 
@@ -959,10 +1868,6 @@ RT @k8sBLR: .@pensu91 talking in today's #Kubernetes meetup https://t.co/sEg9wtQ
 URL: https://twitter.com/surajd_/status/1276798608851865600
 
 ----------------------------
-RT @k8sBLR: .@pensu91 talking in today's #Kubernetes meetup https://t.co/sEg9wtQI8z
-URL: https://twitter.com/surajd_/status/1276798608851865600
-
-----------------------------
 RT @k8sBLR: We are going live today with our June 2020 meet-up where we would be discussing Kubernetes Networking on @YouTube, here: https:…
 URL: https://twitter.com/surajd_/status/1276795707505045506
 
@@ -991,6 +1896,12 @@ URL: https://twitter.com/surajd_/status/1275381737711783936
 ----------------------------
 RT @epw_in: Fiction has the power to make life more meaningful, instructive, and valuable. https://t.co/FqCVaWt7JL
 URL: https://twitter.com/surajd_/status/1275345635038752769
+
+----------------------------
+RT @Kurz_Gesagt: NEW VIDEO: Who Is Responsible For Climate Change? – Who Needs To Fix It?
+
+https://t.co/WBCBiqmhx8
+URL: https://twitter.com/surajd_/status/1274694608866250752
 
 ----------------------------
 RT @Kurz_Gesagt: NEW VIDEO: Who Is Responsible For Climate Change? – Who Needs To Fix It?
@@ -1711,6 +2622,10 @@ We are only as safe as our least-protected neighbours.
 URL: https://twitter.com/surajd_/status/1243522834837602305
 
 ----------------------------
+RT @TUCKmeinatnight: With more people working from home due to COVID-19, I’m starting to notice some distinct webcam personalities during m…
+URL: https://twitter.com/surajd_/status/1243513304015831040
+
+----------------------------
 RT @CloudNativeFdn: We are pleased to announce that the new event dates for #KubeCon + #CloudNativeCon Europe 2020 have been confirmed and…
 URL: https://twitter.com/surajd_/status/1243464889617661953
 
@@ -1928,10 +2843,6 @@ I answer it is they all have pretended to not hear what I am saying and have dis
 URL: https://twitter.com/surajd_/status/1238392807141724161
 
 ----------------------------
-I answer it is they all have pretended to not hear what I am saying and have disconnected. WTF is going on?
-URL: https://twitter.com/surajd_/status/1238392807141724161
-
-----------------------------
 @ixigo whenever I call the customer care number 0124-6682160 first of all it does not connect properly and I only h… https://t.co/9QLjwF8dym
 URL: https://twitter.com/surajd_/status/1238392778146467840
 
@@ -1954,6 +2865,12 @@ URL: https://twitter.com/surajd_/status/1237718161337667585
 ----------------------------
 RT @ShashiTharoor: It’s a shame that the British Parliament has found time to discuss the mindless killings in Delhi but the Parliament of…
 URL: https://twitter.com/surajd_/status/1235946547675680769
+
+----------------------------
+Very powerful heart touching short film 🎥 about women safety in India.
+
+The name of the film is very apropos, you w… https://t.co/Fu2UmQGY0O
+URL: https://twitter.com/surajd_/status/1235924460680515584
 
 ----------------------------
 Very powerful heart touching short film 🎥 about women safety in India.
@@ -2662,6 +3579,12 @@ Calling old software, that still works, legacy has derogatory c… https://t.co/
 URL: https://twitter.com/surajd_/status/1203217664782430208
 
 ----------------------------
+RT @zdfs: I feel seen. 
+
+https://t.co/7pGuWKfyR7
+URL: https://twitter.com/surajd_/status/1202624387540586496
+
+----------------------------
 Here is a flow chart that can help you while debugging #kubernetes https://t.co/Tu78b2RFOx
 
 And the blog… https://t.co/2HWO8bAjFn
@@ -2899,10 +3822,6 @@ URL: https://twitter.com/surajd_/status/1197284816078565376
 URL: https://twitter.com/surajd_/status/1197282327958704129
 
 ----------------------------
-@krisnova @kushaldas because he has been an inspiration for his technology knowledge and leadership skills!
-URL: https://twitter.com/surajd_/status/1197282327958704129
-
-----------------------------
 Taking the photo down because someone raised concerns of putting it here, but you can find the photo on Kubernetes… https://t.co/hHVP5AYaQQ
 URL: https://twitter.com/surajd_/status/1197239410476998656
 
@@ -2927,6 +3846,12 @@ URL: https://twitter.com/surajd_/status/1197211331385970689
 ----------------------------
 Was fun talking about cert-manager and how we can use it to also use it during bootstrap of the Cluster, ⁦… https://t.co/ZxxxCdXdmk
 URL: https://twitter.com/surajd_/status/1197035875722383361
+
+----------------------------
+.@plmuir it was nice to catch up with you after a long time!
+
+cc: @red_suraj https://t.co/3XJsivRJdg
+URL: https://twitter.com/surajd_/status/1197004592329809920
 
 ----------------------------
 .@plmuir it was nice to catch up with you after a long time!
@@ -3393,13 +4318,6 @@ URL: https://twitter.com/surajd_/status/1180116326125162496
 URL: https://twitter.com/surajd_/status/1180045924363423744
 
 ----------------------------
-RT @eladgil: Potentially false signs of traction:
--CEO speaking at a lot of events
--"Thought leader" piece in a media outlet
--Growing headc…
-URL: https://twitter.com/surajd_/status/1180045519197888512
-
-----------------------------
 @gh05t_r00t Can you login using different run level?
 URL: https://twitter.com/surajd_/status/1180042695579856896
 
@@ -3710,10 +4628,6 @@ URL: https://twitter.com/surajd_/status/1166400121518452742
 URL: https://twitter.com/surajd_/status/1165593133553373185
 
 ----------------------------
-RT @jessfraz: "That person who helps others simply because it should or must be done, and because it is the right thing to do, is indeed wi…
-URL: https://twitter.com/surajd_/status/1165570026574729219
-
-----------------------------
 Netflix Discovers Severe Kubernetes HTTP/2 Vulnerabilities  https://t.co/FxOSqd913s
 URL: https://twitter.com/surajd_/status/1165495857434595333
 
@@ -3801,10 +4715,6 @@ RT @dhh: "This is the planned structure for The We Company after its IPO, as it 
 URL: https://twitter.com/surajd_/status/1162138538244132864
 
 ----------------------------
-RT @jessfraz: It's not your customers job to test your shit for you.
-URL: https://twitter.com/surajd_/status/1162133916439834626
-
-----------------------------
 RT @HuffPostIndia: Add this to your shopping list. https://t.co/R6ju4Wc2y1
 URL: https://twitter.com/surajd_/status/1162132251611557890
 
@@ -3827,11 +4737,6 @@ URL: https://twitter.com/surajd_/status/1162086241011027968
 ----------------------------
 RT @b0rk: HTTPS: HTTP + security https://t.co/pkk7ZVzjz3
 URL: https://twitter.com/surajd_/status/1162085802332962818
-
-----------------------------
-RT @jessfraz: "...the term “Open Source” no longer seems to mean anything. And yes, that’s a very big problem.”
-https://t.co/ITFnhe6vdz
-URL: https://twitter.com/surajd_/status/1162050394316398592
 
 ----------------------------
 RT @DuckDuckGo: "New laws to ensure higher standards for software security &amp; data privacy [are coming], meaning [the end of an era for] tec…
@@ -3903,10 +4808,6 @@ Are you using PodSecurityPolicy to block hostPath type volumes? Well, that's not
 URL: https://twitter.com/surajd_/status/1160826680987934727
 
 ----------------------------
-Are you using PodSecurityPolicy to block hostPath type volumes? Well, that's not enough🤷‍♂️! Users can still get ar… https://t.co/e1TLjMZlrN
-URL: https://twitter.com/surajd_/status/1160826680987934727
-
-----------------------------
 Kubernetes – Don’t Use Certificates for Authentication
 https://t.co/05ufsIEu5V
 URL: https://twitter.com/surajd_/status/1160819163176136706
@@ -3952,6 +4853,10 @@ URL: https://twitter.com/surajd_/status/1159692166509154305
 ----------------------------
 RT @b0rk: the most important HTTP request headers https://t.co/vfVxeQg5d7
 URL: https://twitter.com/surajd_/status/1159691958798786560
+
+----------------------------
+RT @kinvolkio: Find out more about how PubNative saves on infrastructure costs with Kinvolk's Lokomotive and Packet: https://t.co/ckVpCFGMC…
+URL: https://twitter.com/surajd_/status/1159648300154228736
 
 ----------------------------
 RT @kinvolkio: Find out more about how PubNative saves on infrastructure costs with Kinvolk's Lokomotive and Packet: https://t.co/ckVpCFGMC…
@@ -4768,10 +5673,6 @@ URL: https://twitter.com/surajd_/status/1144665081101180928
 URL: https://twitter.com/surajd_/status/1144664938708779011
 
 ----------------------------
-RT @jessfraz: this talk is hilarious, as are all @bcantrill talks but like this is really hilarious https://t.co/YwYlXJeu9Y
-URL: https://twitter.com/surajd_/status/1144603724792250369
-
-----------------------------
 Second System Syndrome: the tendency of small, elegant, and successful systems, to be succeeded by over-engineered,… https://t.co/cZ9jNHIbdy
 URL: https://twitter.com/surajd_/status/1144580076677165061
 
@@ -4982,12 +5883,6 @@ TFS: @envy229
 URL: https://twitter.com/surajd_/status/1142723649935294464
 
 ----------------------------
-Exploring the Security of Helm https://t.co/yAlEbBDwHA 
-
-TFS: @envy229
-URL: https://twitter.com/surajd_/status/1142723649935294464
-
-----------------------------
 10 Ways to Shoot Yourself in the Foot with Kubernetes, #9 Will Surprise You - Laurent Bernaille
 https://t.co/qE7lfr4wbN
 URL: https://twitter.com/surajd_/status/1142721733398429696
@@ -5062,6 +5957,14 @@ Scale #MySQL beyond limits with #ProxySQL
 URL: https://twitter.com/surajd_/status/1142297656129048576
 
 ----------------------------
+.@rtnpro of @zapier talking about 
+
+Scale #MySQL beyond limits with #ProxySQL
+@rootconf
+#rootconf https://t.co/JEr2eUhe4w
+URL: https://twitter.com/surajd_/status/1142297656129048576
+
+----------------------------
 RT @k8sBLR: We are at @rootconf please catch @red_suraj @surajd_ if you wanna know more about the #kubernetes community in Bangalore and th…
 URL: https://twitter.com/surajd_/status/1142294777410363392
 
@@ -5114,14 +6017,6 @@ URL: https://twitter.com/surajd_/status/1142003612177952768
 ----------------------------
 RT @hashfyre: Great to see real world gotchas with PSP https://t.co/XqaslYO2TX
 URL: https://twitter.com/surajd_/status/1142002511030579211
-
-----------------------------
-RT @davecheney: Readability vs Clarity.
-
-Readability is how long it took you to read a book, a paper, a program, a function, and so on. 
-
-C…
-URL: https://twitter.com/surajd_/status/1142001965515202560
 
 ----------------------------
 RT @rootconf: Suraj Deshmukh (@surajd_) presenting a demonstration of a Kubernetes cluster hardened with use of pod security policies #root…
@@ -5615,11 +6510,6 @@ URL: https://twitter.com/surajd_/status/1116569893220913152
 URL: https://twitter.com/surajd_/status/1116371585114497027
 
 ----------------------------
-RT @jessfraz: I wrote a blog post on what I think it means to be a distinguished engineer or technical fellow.
-https://t.co/agq1eh4nc7
-URL: https://twitter.com/surajd_/status/1115706750496382976
-
-----------------------------
 RT @turnoff_us: My Adorable Useless Code
 #comic #devhumor
 https://t.co/Erpba05jes https://t.co/YMrEypQmAM
@@ -5981,12 +6871,6 @@ https://t.co/fDeV3JHYGH
 URL: https://twitter.com/surajd_/status/1102549110442393601
 
 ----------------------------
-@gh05t_r00t @hashfyre @shahidh_k This should help:
-
-https://t.co/fDeV3JHYGH
-URL: https://twitter.com/surajd_/status/1102549110442393601
-
-----------------------------
 @gh05t_r00t @hashfyre @shahidh_k Yes that correlation holds true to certain extent.
 URL: https://twitter.com/surajd_/status/1102544605915070464
 
@@ -6046,6 +6930,10 @@ URL: https://twitter.com/surajd_/status/1101143037755961344
 
 - create a read replica on RDS &amp; once the… https://t.co/01HApOu57G
 URL: https://twitter.com/surajd_/status/1101138933793083392
+
+----------------------------
+@Tirumarai @gh05t_r00t @hashfyre @vinothecloudone Using init containers yes we can do a mysqldump and import it in… https://t.co/2yoOS5Wyhg
+URL: https://twitter.com/surajd_/status/1101137785153572864
 
 ----------------------------
 @Tirumarai @gh05t_r00t @hashfyre @vinothecloudone Using init containers yes we can do a mysqldump and import it in… https://t.co/2yoOS5Wyhg
@@ -6144,10 +7032,6 @@ TFS: @indradhanush92
 
 "Talk about what you want to code, t… https://t.co/j0EZx23vEz
 URL: https://twitter.com/surajd_/status/1099878435860541440
-
-----------------------------
-RT @jessfraz: this @bcantrill talk is brilliant (a sentence said frequently) except this one is on hiring engineers, the best engineers are…
-URL: https://twitter.com/surajd_/status/1099188681091407872
 
 ----------------------------
 RT @github: Your PR was already reviewed,
@@ -6994,12 +7878,6 @@ Here is @fixmieapp🧞‍♂️, a service that analyzes and automatically fixes
 URL: https://twitter.com/surajd_/status/1060163427707076608
 
 ----------------------------
-RT @fatih: ⭐️ It's time to announce!
-
-Here is @fixmieapp🧞‍♂️, a service that analyzes and automatically fixes your source code by providing…
-URL: https://twitter.com/surajd_/status/1060163427707076608
-
-----------------------------
 @hrishike8 Yes same technology but for networking.
 URL: https://twitter.com/surajd_/status/1060037517095956480
 
@@ -7056,10 +7934,6 @@ https://t.co/Go9MEYrVir
 URL: https://twitter.com/surajd_/status/1059803150604009472
 
 ----------------------------
-RT @jessfraz: I wrote a blog post in 5 minutes. https://t.co/lwRh3dZvqo https://t.co/6KSLI8BYuZ
-URL: https://twitter.com/surajd_/status/1059781972048908289
-
-----------------------------
 @embano1 @jbeda Congratulations :-)
 URL: https://twitter.com/surajd_/status/1059764966012596224
 
@@ -7085,6 +7959,11 @@ Been a user for &gt; 4yrs now, there were rough times but it's got better with e
 
 Thanks… https://t.co/mQwHjSauVg
 URL: https://twitter.com/surajd_/status/1059439075114082305
+
+----------------------------
+RT @tasdikrahman: Amazing write-up from @github on the incident on October 21/22
+https://t.co/ZTZlx4qn7G
+URL: https://twitter.com/surajd_/status/1059289604078125057
 
 ----------------------------
 RT @tasdikrahman: Amazing write-up from @github on the incident on October 21/22
@@ -8002,12 +8881,6 @@ Certs needed to various components of the #Kubernetes Control plane. https://t.c
 URL: https://twitter.com/surajd_/status/1043794807024480256
 
 ----------------------------
-Who needs what?
-
-Certs needed to various components of the #Kubernetes Control plane. https://t.co/ducyBXdd5b
-URL: https://twitter.com/surajd_/status/1043794807024480256
-
-----------------------------
 Certifik8s: All You Need to Know About Certificates in #Kubernetes - @AlexBrand
 https://t.co/WfMiDgoTTZ
 URL: https://twitter.com/surajd_/status/1043794446104571904
@@ -8084,6 +8957,12 @@ On remote cluster the typical cycle would be:
 
 Bu… https://t.co/vivPGlFgS9
 URL: https://twitter.com/surajd_/status/1042214458964291592
+
+----------------------------
+A cmd line paste utility written in golang: https://t.co/EuvH5c7uho
+
+When you don't have root access to install pac… https://t.co/PxtP0e4sY0
+URL: https://twitter.com/surajd_/status/1041918238957821953
 
 ----------------------------
 A cmd line paste utility written in golang: https://t.co/EuvH5c7uho
@@ -8795,10 +9674,6 @@ https://t.co/MuBBMzk746
 URL: https://twitter.com/surajd_/status/1030856696095223808
 
 ----------------------------
-RT @davecheney: #golang top tip: a package that *only* defines interfaces for another package to implement is an anti pattern. Interfaces w…
-URL: https://twitter.com/surajd_/status/1030834077279109121
-
-----------------------------
 JavaZone 2018: Stranger Strings
 https://t.co/weN1YRxvQh
 
@@ -9070,10 +9945,6 @@ URL: https://twitter.com/surajd_/status/1026039027001114625
 URL: https://twitter.com/surajd_/status/1026027688698503169
 
 ----------------------------
-.@GrahamDumpleton talking about "Data science in cloud using @ProjectJupyter, #python and @openshift " at… https://t.co/aKQfzoszrt
-URL: https://twitter.com/surajd_/status/1026027688698503169
-
-----------------------------
 Openstack in fast lane - Sai
 
 @devconf_in #definefuture https://t.co/dBsdTVIFeh
@@ -9147,6 +10018,10 @@ URL: https://twitter.com/surajd_/status/1025963916235497475
 ----------------------------
 RT @meganeshkadam: Communities are about Togetherness! @devconf_in  #opensource #firstkeynote #day1 @redhatopen @RupaliTalwatkar @pjp_ @red…
 URL: https://twitter.com/surajd_/status/1025754216185430016
+
+----------------------------
+Janki talking about "Running containers on OpenStack" @devconf_in #definefuture https://t.co/4YeSNfiI3i
+URL: https://twitter.com/surajd_/status/1025663865626025984
 
 ----------------------------
 Janki talking about "Running containers on OpenStack" @devconf_in #definefuture https://t.co/4YeSNfiI3i
@@ -9297,10 +10172,6 @@ URL: https://twitter.com/surajd_/status/1017704515913568256
 ----------------------------
 RT @devconf_in: Want to attend 'RESTful API Development using Go' by @nogenerics , Please register at, https://t.co/KdyjWe8pqv
 URL: https://twitter.com/surajd_/status/1017577749290995712
-
-----------------------------
-RT @davecheney: Slices from the ground up. https://t.co/lp2GDnqJF4 #golang https://t.co/3t1xrGM6s3
-URL: https://twitter.com/surajd_/status/1017477073298833408
 
 ----------------------------
 RT @ro14nd: "Where GREP came from" - it's always important to know what your acronyms stand for. Awesome explanation by Brian Kernighan htt…
@@ -9497,13 +10368,6 @@ RT @jstrachan: a handy tool to decode a kubernetes secret: https://t.co/qu7Q0g3G
 
 kubectl get secret cheese -o yaml | ksd
 URL: https://twitter.com/surajd_/status/1011956962941169665
-
-----------------------------
-RT @jessfraz: The life of a programmer (imho) choose two:
-- the ability to plan things (herd sheep etc)
-- coding
-- having a life
-URL: https://twitter.com/surajd_/status/1011541233167097856
 
 ----------------------------
 if you wanna know all the processes on your machine and in tree format:
@@ -9868,10 +10732,6 @@ RT @juliusvolz: If you are using Chrome and @PrometheusIO, I recommend the Prome
 URL: https://twitter.com/surajd_/status/999676936896110593
 
 ----------------------------
-RT @jessfraz: Silence is the best https://t.co/MT4Vcs3hGS
-URL: https://twitter.com/surajd_/status/999604297007583232
-
-----------------------------
 RT @radhikapc: The May @k8sBLR meetup is announced. Check out the outstanding speaker lineup. You get to hear what @AppDynamics is doing wi…
 URL: https://twitter.com/surajd_/status/999602219036106752
 
@@ -9896,10 +10756,6 @@ URL: https://twitter.com/surajd_/status/998858306931298304
 ----------------------------
 @dnene Try Fedora, if you haven't, happy user for more than ~3yrs now.
 URL: https://twitter.com/surajd_/status/998843932430790656
-
-----------------------------
-RT @jessfraz: I ranted: https://t.co/NVk8aspeOB
-URL: https://twitter.com/surajd_/status/998793625126539264
 
 ----------------------------
 @radhikapc @_stultus That's cool, would like to visit SF and know how it feels :-)
@@ -10017,10 +10873,6 @@ RT @maria_fibonacci: Have you ever had a drink named after you OSS project? 😍
 URL: https://twitter.com/surajd_/status/994467502238453760
 
 ----------------------------
-RT @maria_fibonacci: Have you ever had a drink named after you OSS project? 😍 https://t.co/CvZfklFCr0
-URL: https://twitter.com/surajd_/status/994467502238453760
-
-----------------------------
 @red_suraj @lalatenduM @projectatomic @ksinny @RedHat Runs and hides 🙈
 URL: https://twitter.com/surajd_/status/994102771208114176
 
@@ -10131,6 +10983,10 @@ RT @RedHat: Introducing Vault Operator, a new #opensource project to install, ma
 URL: https://twitter.com/surajd_/status/987888314521923584
 
 ----------------------------
+RT @RedHat: Introducing Vault Operator, a new #opensource project to install, manage, and maintain secrets and #API keys on #kubernetes clu…
+URL: https://twitter.com/surajd_/status/987888314521923584
+
+----------------------------
 .@piyush_garg001 is talking about fabric8 maven plugin which helps Java devs to deploy apps on #Kubernetes at… https://t.co/wT9e3Qyf57
 URL: https://twitter.com/surajd_/status/987591712532033536
 
@@ -10159,12 +11015,6 @@ URL: https://twitter.com/surajd_/status/987551677434736640
 URL: https://twitter.com/surajd_/status/987549228246487040
 
 ----------------------------
-RT @bketelsen: "We built this app in 30 minutes with no code."
-
-No.  You built that app in 30 minutes and 80 years of everyone else's code.…
-URL: https://twitter.com/surajd_/status/986965794339815424
-
-----------------------------
 @IndianGuru How does it add any value or different experience to what the conference is?
 
 IMHO locking in the stay… https://t.co/q9Ooo5ygdM
@@ -10181,10 +11031,6 @@ URL: https://twitter.com/surajd_/status/986871995609513984
 ----------------------------
 RT @joncalhoun: "Every great developer you know got there by solving problems they were unqualified to solve until they actually did it." -…
 URL: https://twitter.com/surajd_/status/986592957804531712
-
-----------------------------
-RT @jessfraz: Seems to be some confusion about the difference between running a container as root without "privileged" &amp; actually being unp…
-URL: https://twitter.com/surajd_/status/986488542850404352
 
 ----------------------------
 RT @devconf_in: Last 20 days for your chance to be a speaker at https://t.co/MDs1Mj827P  if you have been speaking at meet ups here is the…
@@ -10613,11 +11459,6 @@ The Effects of Computer Programming on the Brain :: Grind Design and Development
 URL: https://twitter.com/surajd_/status/970636535677837318
 
 ----------------------------
-RT @jessfraz: Wrote a blog post: Nerd Sniped by BINFMT_MISC
-https://t.co/uHsv3iVmLk
-URL: https://twitter.com/surajd_/status/970633977953488896
-
-----------------------------
 Using Go as a scripting language in Linux https://t.co/p3DS77l03d
 URL: https://twitter.com/surajd_/status/970633058935296001
 
@@ -10996,10 +11837,6 @@ RT @kvlly: As a solo developer, this is as close as I come to pair programming. 
 URL: https://twitter.com/surajd_/status/966159827981471745
 
 ----------------------------
-RT @kvlly: As a solo developer, this is as close as I come to pair programming. #devdiscuss https://t.co/h4bsxylg7Y
-URL: https://twitter.com/surajd_/status/966159827981471745
-
-----------------------------
 A curated list of awesome Go frameworks, libraries and software https://t.co/54VdsT59Ce
 
 #golang
@@ -11133,6 +11970,10 @@ URL: https://twitter.com/surajd_/status/963676287951953920
 RT @red_suraj: #kedge 0.9.0 released along with much awaited validation feature :)
 For more, https://t.co/v3Z3WoW6w8 https://t.co/xGqHzD9xFy
 URL: https://twitter.com/surajd_/status/963675659494096896
+
+----------------------------
+@davecheney @golang Maybe Philiph knows about it ;)
+URL: https://twitter.com/surajd_/status/963363229719199745
 
 ----------------------------
 @davecheney @golang Maybe Philiph knows about it ;)
@@ -11999,10 +12840,6 @@ URL: https://twitter.com/surajd_/status/926672181525749760
 URL: https://twitter.com/surajd_/status/926665386682081280
 
 ----------------------------
-.@noufalibrahim talking about Mentoring at #pyconindia17 https://t.co/NnrG84A3u0
-URL: https://twitter.com/surajd_/status/926665386682081280
-
-----------------------------
 RT @spf13: "A life spent making mistakes is not only more honorable, but more useful than a life spent doing nothing." - George Bernard Shaw
 URL: https://twitter.com/surajd_/status/926483196220391424
 
@@ -12106,6 +12943,10 @@ URL: https://twitter.com/surajd_/status/922516388723310592
 ----------------------------
 RT @burrsutter: Big crowd for Kompose - Docker Compose to #Kubernetes @cdrage @AllThingsOpen https://t.co/RDLdptauFk
 URL: https://twitter.com/surajd_/status/922515522813534208
+
+----------------------------
+@embano1 @gbraad TFS :)
+URL: https://twitter.com/surajd_/status/922366805305200640
 
 ----------------------------
 @embano1 @gbraad TFS :)
@@ -12945,10 +13786,6 @@ What's new in #Kubernetes 1.7 podcast with @thockin hosted by @francesc https://
 URL: https://twitter.com/surajd_/status/900347964077424640
 
 ----------------------------
-What's new in #Kubernetes 1.7 podcast with @thockin hosted by @francesc https://t.co/z6oEr2mIQr
-URL: https://twitter.com/surajd_/status/900347964077424640
-
-----------------------------
 Deep Work by Cal Newport
 https://t.co/gAeDDVIja0
 URL: https://twitter.com/surajd_/status/900285900793331712
@@ -13043,6 +13880,10 @@ URL: https://twitter.com/surajd_/status/895814764647006209
 ----------------------------
 The missing piece - #Kubernetes ExternalDNS https://t.co/WRgNNChET0 by @LachlanEvenson
 URL: https://twitter.com/surajd_/status/895564261702893568
+
+----------------------------
+Using #Kubernetes w/ @Azure Container Instances https://t.co/g0PLSw7jV4 Featuring @DonovanBrown and @brendandburns, #k8port
+URL: https://twitter.com/surajd_/status/895562052152045568
 
 ----------------------------
 Using #Kubernetes w/ @Azure Container Instances https://t.co/g0PLSw7jV4 Featuring @DonovanBrown and @brendandburns, #k8port
@@ -13794,11 +14635,6 @@ https://t.co/GiqdYgqnX9 #kubernetes #containers #docker
 URL: https://twitter.com/surajd_/status/864541922446123008
 
 ----------------------------
-Container design patterns
-https://t.co/GiqdYgqnX9 #kubernetes #containers #docker
-URL: https://twitter.com/surajd_/status/864541922446123008
-
-----------------------------
 @embano1 Thanks for sharing, added to my to read list ☺👍
 URL: https://twitter.com/surajd_/status/864497773000794112
 
@@ -13890,6 +14726,10 @@ URL: https://twitter.com/surajd_/status/862359128458514432
 ----------------------------
 RT @redhatopen: Cockpit Comes To Ubuntu, Easier Linux Server Administration https://t.co/djz0PA7BRh &lt;- Nice to see!
 URL: https://twitter.com/surajd_/status/862174883878322176
+
+----------------------------
+node and npm without sudo https://t.co/CkxvqMboFG
+URL: https://twitter.com/surajd_/status/861880517054025728
 
 ----------------------------
 node and npm without sudo https://t.co/CkxvqMboFG
@@ -14656,10 +15496,6 @@ The Wood Cutter Stories https://t.co/PUHXHKnZeC Thanks @lalatenduM for Sharing �
 URL: https://twitter.com/surajd_/status/839333499718926336
 
 ----------------------------
-The Wood Cutter Stories https://t.co/PUHXHKnZeC Thanks @lalatenduM for Sharing 👍👌
-URL: https://twitter.com/surajd_/status/839333499718926336
-
-----------------------------
 How to get better at things you care about?
 
 https://t.co/2IYXAGmKyp
@@ -14768,6 +15604,10 @@ koji build
 https://t.co/5B2vEi08KF
 `kinit &lt;username&gt;@FEDORAPROJECT.ORG`
 URL: https://twitter.com/surajd_/status/835377707361804288
+
+----------------------------
+.@IanMLewis talking about go 1.8 and golang plugins #GopherConIndia https://t.co/C51zEMIzcQ
+URL: https://twitter.com/surajd_/status/835356861037584385
 
 ----------------------------
 .@IanMLewis talking about go 1.8 and golang plugins #GopherConIndia https://t.co/C51zEMIzcQ
@@ -14976,724 +15816,5 @@ URL: https://twitter.com/surajd_/status/819563370571382785
 URL: https://twitter.com/surajd_/status/819559539972280320
 
 ----------------------------
-Building a @golang Debugger by @nullisnt0 of @0xCD03 at @gothamgo 2016
-Detailed blog: https://t.co/5vIGfPbC62
-Vid: https://t.co/6Jr2IldSBI
-URL: https://twitter.com/surajd_/status/819452209293193216
-
-----------------------------
-RT @thedotpost: New @dotGoEu 2016 talk by Sébastien Binet @0xb1ns - pygo: Interpreters in Go and for Go
-https://t.co/ezF4fagAHz https://t.c…
-URL: https://twitter.com/surajd_/status/819441651496034304
-
-----------------------------
-How you got here by @doctorow of @EFF https://t.co/29TNJS7oXz Talk densely packed with so much info, loved it! #FLOSS #FOSS #opensource
-URL: https://twitter.com/surajd_/status/819436870618615812
-
-----------------------------
-Codebase Refactoring (with help from @golang) by @_rsc at GothamGo 2016 https://t.co/eiVkf9l1dJ
-URL: https://twitter.com/surajd_/status/819250109405765632
-
-----------------------------
-.@sjenninglinux thanks for cri-o demo, it helps https://t.co/fVJlw90LJV and @runc0m for all the scripts https://t.co/j6hD2OIczV
-URL: https://twitter.com/surajd_/status/819231891622481920
-
-----------------------------
-Cloning Git in @golang by @chimeracoder at GothamGo 2016
-slides: https://t.co/m2SSnQg8Ou
-video: https://t.co/fS3g3wWfbp
-URL: https://twitter.com/surajd_/status/819157958734934016
-
-----------------------------
-I'm going to "DevConf.cz 2017".  See you there? https://t.co/5Ipnk6OTir via @Eventbrite
-URL: https://twitter.com/surajd_/status/819157196512444416
-
-----------------------------
-Install EPEL in RHEL
-```
-wget https://t.co/uOGrgnpSWI …
-sudo rpm -Uvh epel-release-latest-7*.rpm
-```
-https://t.co/98OPMkzIAU
-URL: https://twitter.com/surajd_/status/819065292433170432
-
-----------------------------
-RT @openshift: “OpenShift Compliance Guide” - https://t.co/1B6HLROR84 
-#FISMA #CONOPS #SCTM
-URL: https://twitter.com/surajd_/status/819025407559118848
-
-----------------------------
-RT @jessfraz: FAQ: How to tell if some random shell you are in is a container?
-
-cat /proc/1/cgroup | grep docker
-
-#TheMoreYouKnow 🌠
-URL: https://twitter.com/surajd_/status/818712231961473025
-
-----------------------------
-50 ways to avoid getting hacked in 2017 https://t.co/7GG06prLrW via @opensourceway by @rhatdan
-URL: https://twitter.com/surajd_/status/818694481612390401
-
-----------------------------
-RT @dixus: How Developer Maturity Affects Building Teams https://t.co/7kk9tkqr8r #Developer #Build #Consultant
-URL: https://twitter.com/surajd_/status/818690299497037827
-
-----------------------------
-Demystifying Channels by @copyconstruct at GothamGo 2016
-Video: https://t.co/QtjdJVXeya
-Slides: https://t.co/aRn1i0sE3g
-URL: https://twitter.com/surajd_/status/818370878257774593
-
-----------------------------
-RT @tier2consulting: Up close &amp; personal with an @openshift PoC. @JohnCornforth proves he's no shadow puppet in this tech insights blog htt…
-URL: https://twitter.com/surajd_/status/818301787656503297
-
-----------------------------
-The Design of the @golang Assembler by @rob_pike https://t.co/PT9Nsl8HhI @GopherCon 2016
-URL: https://twitter.com/surajd_/status/817988390729588736
-
-----------------------------
-s2i workshop https://t.co/pKiKYaE67Q @openshift
-URL: https://twitter.com/surajd_/status/817980735780835328
-
-----------------------------
-7 common mistakes in @golang and when to avoid them by @spf13 https://t.co/nXc6cnpXdX
-URL: https://twitter.com/surajd_/status/817972025046142977
-
-----------------------------
-RT @runc0m: 9 lessons from 25 years of Linux kernel development https://t.co/EKG3DhZYAh via @opensourceway by @gregkh
-URL: https://twitter.com/surajd_/status/817789137671462913
-
-----------------------------
-#Kubernetes: Simple to Manage Anywhere - @BrandonPhilips of @coreos https://t.co/C6gxF70pam at @kubeconio 2016
-URL: https://twitter.com/surajd_/status/817716363401654272
-
-----------------------------
-RT @LinuxDotCom: Keynote: From DaVinci to The Avengers by Dr. Thomas Di Giacomo, Chief Technology Officer, SUSE The Linux Foundation https:…
-URL: https://twitter.com/surajd_/status/817703123292561408
-
-----------------------------
-Kubernetes: #Kubernetes Containers Logging and Monitoring with Sematext: https://t.co/DhpILVmdCb
-URL: https://twitter.com/surajd_/status/817658977160810496
-
-----------------------------
-“5 things to watch in Go programming in 2017” by Susan Conant https://t.co/2x49op0ZLs
-URL: https://twitter.com/surajd_/status/817274785650479104
-
-----------------------------
-5 Steps to Help Yourself Recover from a Setback
-
-https://t.co/jqVSPzOEAS
-URL: https://twitter.com/surajd_/status/817270204421939200
-
-----------------------------
-@LinuxDotCom If you want to start contribution to #Kubernetes fill this form https://t.co/ob86bJUvP8
-URL: https://twitter.com/surajd_/status/816939011394572289
-
-----------------------------
-RT @TheTechScribe: Linux 2017: With great power comes great responsibility https://t.co/rYLKrxuOG8 &lt;- More users could mean more hackers, w…
-URL: https://twitter.com/surajd_/status/816921473201807360
-
-----------------------------
-RT @LinuxDotCom: How the Kubernetes Community Drives The Project’s Success https://t.co/HrevPamD3D
-URL: https://twitter.com/surajd_/status/816911168946118657
-
-----------------------------
-Found this old one today: In remembrance of Ian Murdock https://t.co/XIimeLyIKv @debian
-URL: https://twitter.com/surajd_/status/816907935930421248
-
-----------------------------
-Everyone Should Make Time for Daydreaming https://t.co/Cny82uyU0C via @thescienceofus
-URL: https://twitter.com/surajd_/status/816736843257376768
-
-----------------------------
-RT @bradfitz: YouTube's experimental Python runtime based on Go, Grumpy:
-https://t.co/59zhxgQP0W
-Discussion: https://t.co/fqLcik6twa
-#golang
-URL: https://twitter.com/surajd_/status/816731302367895552
-
-----------------------------
-A Campaign Strategy for Your Career
-https://t.co/1EDx9LXGPJ
-URL: https://twitter.com/surajd_/status/816636579577925632
-
-----------------------------
-RT @turnoff_us: Adopt a good cause, protect the threads and processes against this horrible end. #dontsigkill #linux #tshirt 
-https://t.co/…
-URL: https://twitter.com/surajd_/status/816480197700558849
-
-----------------------------
-RT @mattdm: Great but short read from @joshbressers on "bundling" libs, the zlib fiasco of yore, and #containers today https://t.co/LdPRoZn…
-URL: https://twitter.com/surajd_/status/816479165478158336
-
-----------------------------
-RT @rhatdan: Checkout @Twistlock blog &amp; @docker auth plugins, making @openshift containers more secure @redhatnews @projectatomic https://t…
-URL: https://twitter.com/surajd_/status/816477745643294720
-
-----------------------------
-RT @htTweets: A trailblazing figure in field of women’s education in India, Google pays tribute to #SavitribaiPhule  https://t.co/dwP98cuwCw
-URL: https://twitter.com/surajd_/status/816149283623702528
-
-----------------------------
-RT @asynchio: The only way to truly immerse / fully understand something new and complex is to approach it with a childlike sense of wonder…
-URL: https://twitter.com/surajd_/status/815933139667161088
-
-----------------------------
-RT @CommitStrip: Terminal forever &lt;3
- https://t.co/QExfqRAa1a https://t.co/vsZW1SfDdv
-URL: https://twitter.com/surajd_/status/815389582627721217
-
-----------------------------
-Plan Your Professional Development for the Year
-
-https://t.co/O5rYQDNPmF
-URL: https://twitter.com/surajd_/status/814710384602927104
-
-----------------------------
-Here’s Why You Shouldn’t Multitask, According to a MIT Neuroscientist https://t.co/Jdh8LoOQmc
-URL: https://twitter.com/surajd_/status/814522010898284544
-
-----------------------------
-Commissaire Basic Usage https://t.co/5sXz6sn0WX bring up #kubernetes and @openshift clusters. @ProjectAtomic
-URL: https://twitter.com/surajd_/status/814516258934636544
-
-----------------------------
-.@docker vs #systemd by @rhatdan 
-https://t.co/vNjE3l0lxN
-text transcript: https://t.co/BUdGfImhAP by @fuzzychef
-YAS = yet another #systemd
-URL: https://twitter.com/surajd_/status/814514478351908864
-
-----------------------------
-“13 Things You Should Give Up If You Want To Be Successful” by @iamzdravko https://t.co/aNBEpW1LNC
-URL: https://twitter.com/surajd_/status/814358837297704960
-
-----------------------------
-Don’t Set Too Many Goals for Yourself
-
-https://t.co/5cfVHvxzbH
-URL: https://twitter.com/surajd_/status/814198844711763968
-
-----------------------------
-Think Strategically About Your Career Development
-
-https://t.co/FeVqwnibgh
-URL: https://twitter.com/surajd_/status/814196572003057665
-
-----------------------------
-Five Days of #Kubernetes 1.5
-
-https://t.co/rt6YOpvCh8
-@kubernetesio
-URL: https://twitter.com/surajd_/status/814084626729709568
-
-----------------------------
-#Kubernetes supports #OpenAPI
-https://t.co/HYmnp1vxcu
-@OpenApiSpec @kubernetesio
-URL: https://twitter.com/surajd_/status/814055420226506756
-
-----------------------------
-Introducing Container Runtime Interface (CRI) in #Kubernetes https://t.co/c7MXpGlNhX #crio #ocid
-URL: https://twitter.com/surajd_/status/814002179744763904
-
-----------------------------
-docker exec the hard way: https://t.co/hwP9sznYRT #nsenter @jpetazzo
-URL: https://twitter.com/surajd_/status/813995515188645888
-
-----------------------------
-RT @jzemlin: This is making the internet more secure with thanks to @mer__edith and Google team. Devs should check this out: https://t.co/k…
-URL: https://twitter.com/surajd_/status/813336902191329280
-
-----------------------------
-“How to Do What You Love for a Living” by Eric Kim https://t.co/CPjBQLM115
-URL: https://twitter.com/surajd_/status/813229645763969024
-
-----------------------------
-The Double Helix of Open Source Software &amp; Companies by @storming https://t.co/9Zn8Px7SHa
-at #LinuxCon Europe 2016
-URL: https://twitter.com/surajd_/status/813030181736574976
-
-----------------------------
-RT @fatih: My talk "How to write your own Go tool" at @GothamGo is released now: https://t.co/oG2LEg3vO1 #golang
-URL: https://twitter.com/surajd_/status/813024044454854657
-
-----------------------------
-RT @LachlanEvenson: Ever wanted to run multiple schedulers on #kubernetes? Here's how https://t.co/jy1E5i8wbg
-URL: https://twitter.com/surajd_/status/812660430657110020
-
-----------------------------
-Container Live Migration Using runC and CRIU https://t.co/wECEmKonDJ via @kimberlycraven
-URL: https://twitter.com/surajd_/status/812629613687894016
-
-----------------------------
-From Checkpoint/Restore to Container Migration https://t.co/Ds76fVNRKn via @kimberlycraven
-URL: https://twitter.com/surajd_/status/812627472562819072
-
-----------------------------
-RT @ikai: The "Write in Go" song, as performed by Scalability, one of the acapella groups at Google #golang https://t.co/8wxgLK8YAM
-URL: https://twitter.com/surajd_/status/812624203992080384
-
-----------------------------
-Watch “Live Coding: Terraform CLI Bug (#7975)” on #Vimeo https://t.co/IwbqcKMMvD by @mitchellh
-URL: https://twitter.com/surajd_/status/812612286703505408
-
-----------------------------
-RT @joefern1: "No one does more than Red Hat to make #Kubernetes enterprise-ready." @openshift is Kubernetes for the enterprise.  https://t…
-URL: https://twitter.com/surajd_/status/812599511772106752
-
-----------------------------
-Thinking about $GOPATH by @davecheney 
-https://t.co/RWgQ3MIKEu @golang
-URL: https://twitter.com/surajd_/status/812230643706802176
-
-----------------------------
-Time to Dump Time Zones https://t.co/NhFWTNtxdH
-URL: https://twitter.com/surajd_/status/812225145116864512
-
-----------------------------
-Zero Downtime Upgrades with Openshift Ansible https://t.co/kfFEd45Hq3 via @openshift
-URL: https://twitter.com/surajd_/status/812212500250796032
-
-----------------------------
-Looking forward to working with containerd by @rhatdan 
-https://t.co/pGHd95E0hn
-@docker #runc #kubernetes #crio
-URL: https://twitter.com/surajd_/status/812193034825699329
-
-----------------------------
-RT @dustymabe: "Among the Gnome bunch, it’s Funky Fedora that offers the best results overall" -  https://t.co/iIIc1mL5qo
-URL: https://twitter.com/surajd_/status/812005202756706304
-
-----------------------------
-@github enabling 2 factor authentication, no way I can select India's STD code? https://t.co/cXE35TBYoR
-URL: https://twitter.com/surajd_/status/810914795897622529
-
-----------------------------
-RT @Science__Dan: "State of Surveillance". This interview of @Snowden by @VICE on @HBO is a must see. 
-https://t.co/kuEdWoKFQx
-URL: https://twitter.com/surajd_/status/810547674826960897
-
-----------------------------
-@djfarrelly sure np, any feedback on Kompose is appreciated! :-)
-URL: https://twitter.com/surajd_/status/809815280025092096
-
-----------------------------
-IntelliJ IDEA Default Keymap
-https://t.co/wQTZutkZoQ @pycharm Shortcuts
-URL: https://twitter.com/surajd_/status/809815036516442112
-
-----------------------------
-@djfarrelly You mentioned bringing docker-compose to prod with Kubernetes in your Kubecon talk, see if this helps https://t.co/S1xvJ2EBMW
-URL: https://twitter.com/surajd_/status/809649498993459200
-
-----------------------------
-How #Kubernetes Was the Secret Sauce in Our Globally Distributed Team’s Transition to Microservices by @djfarrelly https://t.co/MoLuv2GU9o
-URL: https://twitter.com/surajd_/status/809648960465866752
-
-----------------------------
-RT @embano1: Compiling to Containers by @brendandburns https://t.co/7B9s2h8iNg &lt; so curious where we´re heading. same w/ @kelseyhightower h…
-URL: https://twitter.com/surajd_/status/809457784316039168
-
-----------------------------
-More details about #containerd, @Docker’s core #container runtime component https://t.co/7dTGZ2Oesh via @docker
-URL: https://twitter.com/surajd_/status/809369466379214848
-
-----------------------------
-RT @estesp: Please read my own take on today's @docker announcement about #containerd. Looking forward to this project! https://t.co/kwrMXo…
-URL: https://twitter.com/surajd_/status/809368186525138945
-
-----------------------------
-RT @dustymabe: When you get @smarterclayton @kelseyhightower @brendandburns and @BrandonPhilips on stage you have to watch #k8s https://t.c…
-URL: https://twitter.com/surajd_/status/809299131176873984
-
-----------------------------
-Copy to clipboard from CLI
-`
-xsel --clipboard &lt; new-text-to-clipboard
-xsel --clipboard &gt; clipboard-text
-`
-src: https://t.co/9i8llrrfbw
-URL: https://twitter.com/surajd_/status/809276255497428992
-
-----------------------------
-“Golang tips you might not know” by @haya14busa https://t.co/lRc4dT3AaD
-URL: https://twitter.com/surajd_/status/809026030853701632
-
-----------------------------
-RT @linuxfoundation: The OS matters even more in 2017. @ghaff explains: https://t.co/UDYkClL5U9 feat. @OCI_ORG https://t.co/MP2tqHE5MO
-URL: https://twitter.com/surajd_/status/808201221555163136
-
-----------------------------
-RT @SysAdvent: Day 11 - Going from local Docker-compose to Kubernetes - By: @sebgoa - Editor: @kangman - https://t.co/st7PJO6am3 #kubernete…
-URL: https://twitter.com/surajd_/status/807988822130585600
-
-----------------------------
-Check out this Meetup with Kubernetes &amp; Openshift India Community https://t.co/qbeISb5DNe @karthik_padman
-URL: https://twitter.com/surajd_/status/807445385027284992
-
-----------------------------
-RT @ncoghlan_dev: Nice write-up from @kushaldas on 10 years of the #dgplug (northern hemisphere) summer training: https://t.co/odj18ulpnA
-URL: https://twitter.com/surajd_/status/807432441782620160
-
-----------------------------
-RT @climagic: 37, the age at which Grace Hopper joined the Navy, learned logic and later invented the compiler. Its never too late to start.
-URL: https://twitter.com/surajd_/status/807291539516837890
-
-----------------------------
-Performance &amp; Scalability Tuning @kubernetesio for @openshift &amp; @docker by @jeremyeder of @redhatopen at @kubeconio https://t.co/CVbJUxeHTd
-URL: https://twitter.com/surajd_/status/807277196276400128
-
-----------------------------
-PostgreSQL on PetSet by @fuzzychef of @redhatopen 
-https://t.co/0VfH4eZk8g
-#kubernetes @openshift
-URL: https://twitter.com/surajd_/status/806835470193700864
-
-----------------------------
-RT @redhatopen: Python Has Big Impact at Red Hat https://t.co/fDexUvfxpm &lt;- @kushaldas outlines the many #Python projects
-URL: https://twitter.com/surajd_/status/806814916564762624
-
-----------------------------
-Level-triggered and edge-triggered in distributed systems
-
-https://t.co/OVOp4FqteM
-URL: https://twitter.com/surajd_/status/806698020796403712
-
-----------------------------
-Say what? You're Running the Storage Platform In #Kubernetes?
-https://t.co/yjx9HOy15B
-@kubernetesio @gluster
-URL: https://twitter.com/surajd_/status/806366822002032640
-
-----------------------------
-10 key security terms devops ninjas need to know https://t.co/gyvIrppfjU via @infoworld
-URL: https://twitter.com/surajd_/status/806359240180895744
-
-----------------------------
-RT @francesc: These are hilarious! 😂
-https://t.co/iN1Gvpomyt
-by @DavidMarinology
-#programming #golang #rustlang #clang #pyhton https://t.co…
-URL: https://twitter.com/surajd_/status/806354864791949312
-
-----------------------------
-Everything You Ever Wanted to Know About Resource Scheduling in #Kubernetes, But Were Afraid to Ask by @thockin 
-https://t.co/whI8V20vsR
-URL: https://twitter.com/surajd_/status/806200142965579779
-
-----------------------------
-@ContainsCafeine @OnionIoT this is current state of my laptop https://t.co/hvLLoHGeEL
-URL: https://twitter.com/surajd_/status/806170497004077056
-
-----------------------------
-@ContainsCafeine export above in ~/.bash_profile and then it becomes system wide once you log in again.
-URL: https://twitter.com/surajd_/status/806058588091232256
-
-----------------------------
-RT @mattfarina: Why Glide doesn't strip unused packages from the vendor/ folders in #golang https://t.co/t5wqbGi2cB
-URL: https://twitter.com/surajd_/status/805641351018577920
-
-----------------------------
-RT @IanMLewis: kubeadm in Kuberenetes 1.4.0 makes setting up a cluster so much easier. The way it does it is really awesome too! https://t.…
-URL: https://twitter.com/surajd_/status/805633618202673152
-
-----------------------------
-RT @AndyFitz: Woo hoo  Finally we've released Overpass 3.0  https://t.co/J4REoS5Pkt https://t.co/bZh33pS4yz via @rh_openstudio
-URL: https://twitter.com/surajd_/status/805616057654218756
-
-----------------------------
-Open For Good by @JWhitehurst President &amp; CEO, @RedHatNews
-https://t.co/StEywXmD4x
-URL: https://twitter.com/surajd_/status/805415725703671808
-
-----------------------------
-.@kernel_girl talking about Process of Linux Kernel development in Bangalore Kernel meetup at @redhatopen https://t.co/2vFQUDC9kR
-URL: https://twitter.com/surajd_/status/804914706100031488
-
-----------------------------
-RT @linuxfoundation: Sebastien Goasguen of @skippbox explains a new tool to move from ‘docker-compose’ to Kubernetes: https://t.co/iu4rAYxs…
-URL: https://twitter.com/surajd_/status/804759680505364480
-
-----------------------------
-Fedora's New System for Building Containers You Can Trust
-https://t.co/Cfqj68Pnzs
-@fedora @openshift @docker
-URL: https://twitter.com/surajd_/status/804703186741174273
-
-----------------------------
-RT @glyph: New Blog: A Container Is A Function Call https://t.co/EJaFZNPLWA
-URL: https://twitter.com/surajd_/status/804682994296360960
-
-----------------------------
-RT @kubernetesio: Kubernetes Architecture 101, knowledge drop -- an informative series led by @janakiramm
-https://t.co/ynwMk45aGm
-URL: https://twitter.com/surajd_/status/804671371762466816
-
-----------------------------
-Life of a #Kubernetes API Request by @originalavalamp of @google
-https://t.co/CFCffGmrFG
-@kubernetesio
-URL: https://twitter.com/surajd_/status/804609259732221952
-
-----------------------------
-Eclipse Che on OpenShift by @mariolet of @redhatopen at #CheConf16
-https://t.co/vfd5n1d3HS
-@eclipse_che @openshift
-URL: https://twitter.com/surajd_/status/804577864779608064
-
-----------------------------
-RT @rhdevelopers: Kompose Up for OpenShift and Kubernetes https://t.co/m0la1Xvvkb
-URL: https://twitter.com/surajd_/status/804406001394794497
-
-----------------------------
-Red Hat’s CEO on how to apologize when you screw up at work via @FortuneMagazine https://t.co/C9j96UEGKf
-URL: https://twitter.com/surajd_/status/804403522527629312
-
-----------------------------
-How Do Software Developers in New York, San Francisco, London and Bangalore Differ? – Stack Overflow Blog https://t.co/E0TwEsGty2
-URL: https://twitter.com/surajd_/status/804285326420156416
-
-----------------------------
-RT @RedHat_Services: Did you hear that we have a new, free @ansible essentials course? | https://t.co/TGOm00TR13 https://t.co/KtNY5ewC7j
-URL: https://twitter.com/surajd_/status/804266614459748353
-
-----------------------------
-RT @donne_martin: gitsome: A Supercharged #Git/Shell Autocompleter + #GitHub Integration #Python  #Programming https://t.co/n5SUzIFVXj http…
-URL: https://twitter.com/surajd_/status/804176398076153857
-
-----------------------------
-RT @DevOpsDaysIN: Video: Day 2: Lalatendu Mohanty - OpenShift as a DevOps platform https://t.co/yO628bpu30 #DevOpsDaysIN #DODI16
-URL: https://twitter.com/surajd_/status/804040544536006656
-
-----------------------------
-RT @RedHatNews: Wise words, #AmyPoehler. Feeling challenged &amp; inspired by the folks at @RedHatJobs. https://t.co/ty6NLnkovF https://t.co/fk…
-URL: https://twitter.com/surajd_/status/804036148326633472
-
-----------------------------
-RT @anildash: This is a very funny, incisive and worthwhile talk by @jennschiffer. You can tell because I get a name-drop at 4:30. https://…
-URL: https://twitter.com/surajd_/status/804034777544175616
-
-----------------------------
-RT @mattdm: #Fedora 25 now available in @digitalocean (nice work, @dustymabe and digital ocean team!) https://t.co/Jr9ANklIpd
-URL: https://twitter.com/surajd_/status/803790503170838529
-
-----------------------------
-Please stop using git 
-https://t.co/lL4qpC2pvJ
-:D
-URL: https://twitter.com/surajd_/status/803674919594639360
-
-----------------------------
-Using vimdiff as your git diff tool.
-https://t.co/27KnjdMFXl
-URL: https://twitter.com/surajd_/status/803655014711324676
-
-----------------------------
-find who made a specific change:
-```
-git blame &lt;filename&gt;
-```
-https://t.co/fdrbIReKR9
-URL: https://twitter.com/surajd_/status/803620180710412288
-
-----------------------------
-@kumar_pravin well TIL :)
-URL: https://twitter.com/surajd_/status/803496248279826432
-
-----------------------------
-@kumar_pravin @github oh wow that's cool, thanks for digging that! ☺
-URL: https://twitter.com/surajd_/status/803449560525701124
-
-----------------------------
-@kumar_pravin i was doing this with minikube in my fedora machine, i don't think I have libmachine
-URL: https://twitter.com/surajd_/status/803435351985356800
-
-----------------------------
-run vlc on @fedora 25 with proper resolution
-```
-QT_SCREEN_SCALE_FACTORS=0.5 vlc
-```
-https://t.co/cGEHV1KmEC
-URL: https://twitter.com/surajd_/status/803183595405778948
-
-----------------------------
-$ echo 'EXTRA_ARGS="--insecure-registry YOUR_INSECURE_HOST"' | sudo tee -a /var/lib/boot2docker/profile &amp;&amp; sudo /etc/init.d/docker restart
-URL: https://twitter.com/surajd_/status/803159513989664769
-
-----------------------------
-RT @opensourceway: New to our YouTube channel: @thomasdcameron explains why Red Hat takes an "upstream first" approach https://t.co/DMnkPIB…
-URL: https://twitter.com/surajd_/status/802795636403773440
-
-----------------------------
-RT @glyph: New Blog: What Am Container https://t.co/01pCuNQ3qY
-URL: https://twitter.com/surajd_/status/801752233696104448
-
-----------------------------
-RT @budhrg: How to get faster PR reviews - https://t.co/LRPmzO1doH
-URL: https://twitter.com/surajd_/status/801699132314296320
-
-----------------------------
-@jawnsy awesome thing, will try that. Thanks for pointing out ☺
-URL: https://twitter.com/surajd_/status/801698836540366848
-
-----------------------------
-RT @tbyeaton: Why Red Hat is happy to have others make billions on its open source dime https://t.co/2XZs5WsctY via @techrepublic
-URL: https://twitter.com/surajd_/status/801671411785814016
-
-----------------------------
-list all vms
-```
-sudo virsh list --all
-```
-https://t.co/7UYzRHfYIQ
-URL: https://twitter.com/surajd_/status/801669602182737920
-
-----------------------------
-RT @kubernetesio: A k8s-incubator project: Kompose, automatically transform your Docker Compose application into Kubernetes manifests
-https…
-URL: https://twitter.com/surajd_/status/801167599627141120
-
-----------------------------
-"Minimum Viable Technology (MVT) — Move Fast &amp; Keep Shipping" https://t.co/4cKk5qkabW by @ajayshr on @LinkedIn
-URL: https://twitter.com/surajd_/status/800377493068746753
-
-----------------------------
-RT @thedotpost: New talk: @peter_szilagyi at @dotGoEu 2016: Immutability in Go: Post mortem from a DoS-ed blockchain https://t.co/Qq1WLOMPZ…
-URL: https://twitter.com/surajd_/status/800335752005464066
-
-----------------------------
-TIL: TMTOWTDI
-Source: https://t.co/kkRZXmR4CS and https://t.co/ha0W74AEOs
-URL: https://twitter.com/surajd_/status/800323516721602560
-
-----------------------------
-TIL: TMTOWTDI
-Source: https://t.co/kkRZXmR4CS and https://t.co/ha0W74AEOs
-URL: https://twitter.com/surajd_/status/800323516721602560
-
-----------------------------
-How Successful People Stay Productive and In Control https://t.co/743CXR6gFi via @Entrepreneur
-URL: https://twitter.com/surajd_/status/799657576568754177
-
-----------------------------
-7 Qualities of People with High Emotional Intelligence https://t.co/OYxxRY4l3g via @SUCCESSMagazine
-URL: https://twitter.com/surajd_/status/799649545164492800
-
-----------------------------
-Disable auto-suspend on lid close in laptop
-`HandleLidSwitch=ignore`
-
-https://t.co/KS7nWmGx33
-URL: https://twitter.com/surajd_/status/799613465581105153
-
-----------------------------
-How does the @golang build command work ?
-https://t.co/tlUVTFdKku
-by @davecheney #Golang
-URL: https://twitter.com/surajd_/status/799605124804902912
-
-----------------------------
-RT @SiliconANGLE: Can an orchestration layer contain the container sprawl at enterprises? | #KubeCon https://t.co/LJex6SAddB
-URL: https://twitter.com/surajd_/status/799305046395473920
-
-----------------------------
-RT @ALRubinger: "As developers, we are often one of the last lines of defense against ...unethical practices." via @BillSourour https://t.c…
-URL: https://twitter.com/surajd_/status/799077307595919360
-
-----------------------------
-Why Are Tech Workers So Satisfied With Their Jobs? via @forbes https://t.co/uqaau0WQcB
-URL: https://twitter.com/surajd_/status/799075778847641601
-
-----------------------------
-RT @arcolife: Taking Ownership Is The Most Effective Way to Get What You Want https://t.co/6ah5KrrzJ2 via @edmondlau
-URL: https://twitter.com/surajd_/status/799073985614913536
-
-----------------------------
-RT @CloudNativeFdn: The moment you've all been waiting for... #CloudNativeCon + #KubeCon talks are now LIVE on our YouTube channel 🎉 https:…
-URL: https://twitter.com/surajd_/status/798968900339666944
-
-----------------------------
-RT @kushaldas: Register now to meet developers from the #Python #community from all over the world https://t.co/BmSobwcWQK   #pyconpune
-URL: https://twitter.com/surajd_/status/798965950443765760
-
-----------------------------
-RT @pyconpune: registration for #pyconpune has started https://t.co/36VN7cqkNz
-Hurry up guys.
-URL: https://twitter.com/surajd_/status/798857723353780225
-
-----------------------------
-.@golang Import declarations
-https://t.co/jMpiuNF80q
-URL: https://twitter.com/surajd_/status/798752368284184576
-
-----------------------------
-Ten years of KVM
-
-https://t.co/42epg37sDb
-URL: https://twitter.com/surajd_/status/798343221470371840
-
-----------------------------
-RT @climagic: https://t.co/wGMlnbflmZ # Professional development: Learn vim while playing an adventure game. #KnowVIMber
-URL: https://twitter.com/surajd_/status/798060034793971712
-
-----------------------------
-Colors for your golang command line tool https://t.co/MgB4JVfQxZ by @fatih
-URL: https://twitter.com/surajd_/status/798038300040695809
-
-----------------------------
-My Microservices are not all stateless! @kubeconio EU 2016 by @kai_davenport https://t.co/9VHOuTVT7J
-URL: https://twitter.com/surajd_/status/797053889748967424
-
-----------------------------
-The Children's Illustrated Guide to Kubernetes https://t.co/xpUG0PdRr5 via @opendeis
-URL: https://twitter.com/surajd_/status/797050510750588928
-
-----------------------------
-Test fixtures in Go by @davecheney 
-https://t.co/WtP8JEDtDM
-@golang
-URL: https://twitter.com/surajd_/status/796956660652593154
-
-----------------------------
-RT @rob_pike: Go was announced seven years ago today. Seven years! I remember the day vividly. (And warmly) Thanks to all. https://t.co/c8f…
-URL: https://twitter.com/surajd_/status/796906550455435264
-
-----------------------------
-Mailing list guidelines
-https://t.co/sdk5aNi0ZW
-@fedora rightfully written instructions
-URL: https://twitter.com/surajd_/status/796219240378286080
-
-----------------------------
-RT @michellenoorali: I didn't know the perks of hosting your project at CNCF before this slide 👀#kubecon https://t.co/r0NAXVIByo
-URL: https://twitter.com/surajd_/status/796145196530446336
-
-----------------------------
-RT @openshift: @ngtuna11 from @skippbox and Red Hat's @kadel introduce "Kompose" from deploying applications on Kubernetes #Kubecon https:/…
-URL: https://twitter.com/surajd_/status/796144526591074304
-
-----------------------------
-RT @openshift: "Kompose" converts docker-compose and application bundles into #Kubernetes native formats and awareness. #Kubecon https://t.…
-URL: https://twitter.com/surajd_/status/796142429208330240
-
-----------------------------
-RT @opensourceway: How to create an internal innersource community https://t.co/mtCJVXlNk9 by @jonobacon https://t.co/MrJVVwgflH
-URL: https://twitter.com/surajd_/status/796041403520270336
-
-----------------------------
-RT @joefern1: Why Red Hat Chose #Kubernetes for OpenShift https://t.co/G2lkjBtEzP via @openshift
-URL: https://twitter.com/surajd_/status/795962857825259521
-
-----------------------------
-“The Science of Making Bold Decisions and Avoiding Regrets in Life” by @BenjaminPHardy https://t.co/iiSRAV33i1
-URL: https://twitter.com/surajd_/status/795803485979570178
-
-----------------------------
-RT @CharlesRishard: Why #Kubernetes, how #docker Inc is mucking things up, &amp; why #RedHat is critical to #containers https://t.co/Se93zMXHKQ
-URL: https://twitter.com/surajd_/status/795507367215448064
-
-----------------------------
-RT @CharlesRishard: Why #Kubernetes, how #docker Inc is mucking things up, &amp; why #RedHat is critical to #containers https://t.co/Se93zMXHKQ
-URL: https://twitter.com/surajd_/status/795507367215448064
+@realquidnunc @zee_10000 see you in dry pantry at 1100hrs IST
+URL: https://twitter.com/surajd_/status/819559539972280320
